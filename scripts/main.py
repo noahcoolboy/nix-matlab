@@ -66,6 +66,8 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                     fn = component.find("componentFileName")
                     if fn is None or not fn.text:
                         continue
+                    if hashes.get(fn.text):
+                        continue
                     url = form_path(ver["urlBase"], ver["release"], "Release", update, "licensed_software", fn.text)
                     ET.SubElement(component, "url").text = url
                     jobs.append((component, url, ver["urlSigning"]["ttlSeconds"]))
