@@ -33,8 +33,6 @@ with ThreadPoolExecutor(max_workers=8) as pool:
     for ver in versions:
         for update in ver["availableUpdates"]:
             path = Path(f"data/{ver['release']}.{update}")
-            if quota <= 0:
-                continue
             path.mkdir(parents=True, exist_ok=True)
             signedDws = sign(key, form_path(ver["urlBase"], ver["release"], "Release", update), ttl=ver["urlSigning"]["ttlSeconds"])
             response = requests.get(signedDws, headers=headers)
@@ -46,6 +44,7 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                 with (path / "hashes.json").open("r", encoding="utf-8") as f:
                     hashes = json.load(f)
 
+            new_hashes = 0
             for name in dws.namelist():
                 if not name.endswith(".xml"):
                     continue
@@ -66,21 +65,24 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                     fn = component.find("componentFileName")
                     if fn is None or not fn.text:
                         continue
-                    if hashes.get(fn.text):
-                        continue
                     url = form_path(ver["urlBase"], ver["release"], "Release", update, "licensed_software", fn.text)
                     ET.SubElement(component, "url").text = url
-                    jobs.append((component, url, ver["urlSigning"]["ttlSeconds"]))
+                    if fn.text not in hashes and quota > 0:
+                        jobs.append((component, url, ver["urlSigning"]["ttlSeconds"]))
 
-                jobs = jobs[:quota]
-                quota -= len(jobs)
-                for component, sha in pool.map(fetch_hash, jobs):
-                    print(component.find("componentFileName").text, sha)
-                    hashes[fn.text] = sha
+                if jobs:
+                    jobs_to_run = jobs[:quota]
+                    quota -= len(jobs_to_run)
+                    for component, sha in pool.map(fetch_hash, jobs_to_run):
+                        c_fn = component.find("componentFileName").text
+                        print(c_fn, sha)
+                        hashes[c_fn] = sha
+                        new_hashes += 1
 
-                if len(jobs) > 0:
+                if jobs or not file_path.exists():
                     with file_path.open("w", encoding="utf-8") as f:
                         json.dump(xml_to_json(root), f, indent=4)
 
-            with (path / "hashes.json").open("w", encoding="utf-8") as f:
-                json.dump(hashes, f, indent=4)
+            if new_hashes > 0 or not (path / "hashes.json").exists():
+                with (path / "hashes.json").open("w", encoding="utf-8") as f:
+                    json.dump(hashes, f, indent=4)

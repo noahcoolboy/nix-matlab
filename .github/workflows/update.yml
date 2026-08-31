@@ -27,5 +27,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Update Matlab Data"
+          commit_message: "chore: Update Matlab Data"
           file_pattern: "data/**"
