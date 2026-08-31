@@ -1,4 +1,4 @@
-{ lib ? import <nixpkgs> { } }:
+{ lib ? (import <nixpkgs> { }).lib }:
 
 let
   systemToPlatform = {
@@ -10,73 +10,64 @@ let
     "i686-windows" = "win64";
   };
 
-  # Normalize string to lowercase snake_case
-  toSnakeCase = str:
-    let
-      lower = lib.toLower str;
-    in
-    builtins.replaceStrings
-      [ " " "-" "." "/" ":" "(" ")" "[" "]" "," "+" "@" "#" "$" "%" "^" "&" "*" ]
-      [ "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" "_" ]
-      lower;
+  # Helper to parse a JSON file
+  loadJson = file: builtins.fromJSON (builtins.readFile file);
 
-  # Normalize string to lowercase kebab-case
-  toKebabCase = str:
-    let
-      lower = lib.toLower str;
-    in
-    builtins.replaceStrings
-      [ " " "_" "." "/" ":" "(" ")" "[" "]" "," "+" "@" "#" "$" "%" "^" "&" "*" ]
-      [ "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" ]
-      lower;
+  # Separator characters replaced during case normalization
+  sepChars = [ " " "-" "_" "." "/" ":" "(" ")" "[" "]" "," "+" "@" "#" "$" "%" "^" "&" "*" ];
+  replaceSep = sep: str:
+    builtins.replaceStrings sepChars (builtins.genList (_: sep) (builtins.length sepChars)) (lib.toLower str);
+
+  # Normalize string to lowercase snake_case or kebab-case
+  toSnakeCase = replaceSep "_";
+  toKebabCase = replaceSep "-";
+
+  # Deduplicate component records by filename
+  dedupComponents = comps:
+    builtins.attrValues (
+      builtins.listToAttrs (
+        map (c: { name = c.fn; value = c; })
+          (builtins.filter (c: c.fn != "") comps)
+      )
+    );
 
   # Extract components from a dependsOn list
-  extractComponentsFromRoot = root: defaultUrlBase: release: update:
+  extractComponentsFromRoot = root:
     if builtins.isAttrs root && root ? dependsOn then
       builtins.concatMap (dep:
         if builtins.isAttrs dep && dep ? component then
-          let
-            rawList = if builtins.isList dep.component then dep.component else [ dep.component ];
-          in
-          builtins.filter (c: builtins.isAttrs c && c ? componentFileName) rawList
+          builtins.filter (c: builtins.isAttrs c && c ? componentFileName) (lib.toList dep.component)
         else []
-      ) (if builtins.isList root.dependsOn then root.dependsOn else [ root.dependsOn ])
+      ) (lib.toList root.dependsOn)
     else [];
 
   # Format component into normalized structure
-  formatComponent = c: defaultUrlBase: release: update: hashes:
+  formatComponent = defaultUrlBase: release: update: hashes: c:
     let
-      fn = builtins.elemAt (c.componentFileName or [ "" ]) 0;
+      fn = builtins.head (c.componentFileName or [ "" ]);
       url =
-        if c ? url && (builtins.elemAt c.url 0) != "" then
-          builtins.elemAt c.url 0
+        if c ? url && (builtins.head c.url) != "" then
+          builtins.head c.url
         else
           "${defaultUrlBase}/${release}/Release/${update}/licensed_software/components/complete/${fn}";
-      docVal = builtins.elemAt (c.doc or [ "0" ]) 0;
+      docVal = builtins.head (c.doc or [ "0" ]);
       isDoc = docVal == "1";
-      name = builtins.elemAt (c.name or [ fn ]) 0;
-      ver = builtins.elemAt (c.version or [ "" ]) 0;
-      sha = hashes.${fn} or "";
+      name = builtins.head (c.name or [ fn ]);
+      ver = builtins.head (c.version or [ "" ]);
+      sha256 = hashes.${fn} or "";
     in {
-      inherit fn url isDoc name ver;
-      sha256 = sha;
+      inherit fn url isDoc name ver sha256;
       raw = c;
     };
 
   # Load all releases and their availableUpdates from versions.json
   loadVersions = dataDir:
-    let
-      raw = builtins.fromJSON (builtins.readFile (dataDir + "/versions.json"));
-      filtered = builtins.filter (v: (v ? availableUpdates) && (builtins.length v.availableUpdates > 0)) raw;
-    in
-    filtered;
+    builtins.filter (v: (v.availableUpdates or []) != [])
+      (loadJson (dataDir + "/versions.json"));
 
   # Load the signing key from data/key.txt
   loadKey = dataDir:
-    let
-      rawKey = builtins.readFile (dataDir + "/key.txt");
-    in
-    lib.strings.trim rawKey;
+    lib.strings.trim (builtins.readFile (dataDir + "/key.txt"));
 
   # Load root hashes from data/hashes.json
   loadHashes = dataDir:
@@ -84,7 +75,7 @@ let
       hashesFile = dataDir + "/hashes.json";
     in
     if builtins.pathExists hashesFile then
-      builtins.fromJSON (builtins.readFile hashesFile)
+      loadJson hashesFile
     else
       {};
 
@@ -105,53 +96,41 @@ let
         else
           [];
 
+      formatComp = formatComponent urlBase release update hashes;
+
       parseProductFile = f:
         let
           baseMatch = builtins.match "^productdata_(.*)_common\\.json$" f;
-          baseName = if baseMatch != null then builtins.elemAt baseMatch 0 else f;
+          baseName = if baseMatch != null then builtins.head baseMatch else f;
           
-          commonContent = builtins.fromJSON (builtins.readFile (commonDir + "/${f}"));
+          commonContent = loadJson (commonDir + "/${f}");
           pdata = commonContent.productData or {};
-          pName = builtins.elemAt (pdata.productName or [ baseName ]) 0;
-          pCode = builtins.elemAt (pdata.productBaseCode or [ "" ]) 0;
-          pVer = builtins.elemAt (pdata.productVersion or [ "" ]) 0;
+          pName = builtins.head (pdata.productName or [ baseName ]);
+          pCode = builtins.head (pdata.productBaseCode or [ "" ]);
+          pVer = builtins.head (pdata.productVersion or [ "" ]);
 
-          commonCompsRaw = extractComponentsFromRoot pdata urlBase release update;
+          commonCompsRaw = extractComponentsFromRoot pdata;
 
           # Check arch file
           archFile = archDir + "/productdata_${baseName}_${platform}.json";
           archCompsRaw =
             if builtins.pathExists archFile then
               let
-                archContent = builtins.fromJSON (builtins.readFile archFile);
+                archContent = loadJson archFile;
               in
-              extractComponentsFromRoot (archContent.productAdditionalComps or {}) urlBase release update
+              extractComponentsFromRoot (archContent.productAdditionalComps or {})
             else
               [];
 
           allCompsRaw = commonCompsRaw ++ archCompsRaw;
-          formattedComps = map (c: formatComponent c urlBase release update hashes) allCompsRaw;
-
-          # Deduplicate components by fn
-          dedupComps =
-            builtins.attrValues (
-              builtins.foldl' (acc: c:
-                if c.fn == "" then acc
-                else acc // { "${c.fn}" = c; }
-              ) {} formattedComps
-            );
+          formattedComps = map formatComp allCompsRaw;
+          dedupComps = dedupComponents formattedComps;
 
           # Generate aliases for this product
-          aliases = builtins.filter (a: a != "") (lib.unique [
-            pName
-            baseName
-            pCode
-            (toSnakeCase pName)
-            (toKebabCase pName)
-            (toSnakeCase baseName)
-            (toKebabCase baseName)
-            (lib.toLower pCode)
-          ]);
+          aliases = builtins.filter (a: a != "") (lib.unique (
+            [ pName baseName pCode (lib.toLower pCode) ]
+            ++ builtins.concatMap (n: [ (toSnakeCase n) (toKebabCase n) ]) [ pName baseName ]
+          ));
         in {
           name = pName;
           baseName = baseName;
@@ -165,20 +144,15 @@ let
 
       # Build the products map where each alias points to the product
       # Also provide canonical list of unique products
-      uniqueProductsMap =
-        builtins.foldl' (acc: prod:
-          acc // { "${prod.name}" = prod; }
-        ) {} productList;
+      uniqueProductsMap = builtins.listToAttrs (
+        map (prod: { name = prod.name; value = prod; }) productList
+      );
 
-      aliasedProductsMap =
-        builtins.foldl' (acc: prod:
-          let
-            aliasEntries = builtins.foldl' (aAcc: alias:
-              aAcc // { "${alias}" = prod; }
-            ) {} prod.aliases;
-          in
-          acc // aliasEntries
-        ) {} productList;
+      aliasedProductsMap = builtins.listToAttrs (
+        builtins.concatMap (prod:
+          map (alias: { name = alias; value = prod; }) prod.aliases
+        ) productList
+      );
 
     in {
       inherit release update platform hashes productList;
@@ -187,5 +161,5 @@ let
     };
 
 in {
-  inherit systemToPlatform toSnakeCase toKebabCase loadVersions loadKey loadHashes loadReleaseData;
+  inherit systemToPlatform toSnakeCase toKebabCase loadJson dedupComponents loadVersions loadKey loadHashes loadReleaseData;
 }

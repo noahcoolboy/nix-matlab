@@ -1,4 +1,7 @@
-{ pkgs, sign ? import ./sign.nix }:
+{ pkgs
+, sign ? import ./sign.nix
+, loader ? import ./loader.nix { inherit (pkgs) lib; }
+}:
 
 let
   lib = pkgs.lib;
@@ -19,10 +22,7 @@ let
   # Build an individual component fetch derivation
   mkComponentSrc = { comp, key, exp ? 2147483647 }:
     let
-      safeName = builtins.replaceStrings
-        [ "/" "_" "." "@" "+" ":" " " ]
-        [ "-" "-" "-" "-" "-" "-" "-" ]
-        comp.fn;
+      safeName = loader.toKebabCase comp.fn;
     in
     (pkgs.fetchurl {
       name = "matlab-src-${safeName}";
@@ -39,11 +39,7 @@ let
   # Build an individual component derivation (standalone overlay)
   mkComponentDrv = { comp, key, release, update, exp ? 2147483647 }:
     let
-      safeName = builtins.replaceStrings
-        [ "/" "_" "." "@" "+" ":" " " ]
-        [ "-" "-" "-" "-" "-" "-" "-" ]
-        comp.fn;
-
+      safeName = loader.toKebabCase comp.fn;
       src = mkComponentSrc { inherit comp key exp; };
     in
     pkgs.stdenvNoCC.mkDerivation {
@@ -82,17 +78,18 @@ let
     };
 
   # Wrap an unpacked MATLAB derivation in an FHS environment on Linux
-  wrapMatlabFhs = rawMatlab:
+  wrapMatlabFhs = { rawMatlab, extraPkgs ? (p: [ ]) }:
     if isLinux then
       let
         fhs = pkgs.buildFHSEnv {
           name = "matlab";
-          targetPkgs = matlabFhsPackages;
+          targetPkgs = p: (matlabFhsPackages p) ++ (extraPkgs p);
           profile = ''
             export LDPATH_SUFFIX="${fhsLibPath}"
             export LD_LIBRARY_PATH="${fhsLibPath}''${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
           '';
-          runScript = "${rawMatlab}/bin/matlab";
+          runScript = "${./scripts/fhs-entrypoint.sh} ${rawMatlab}";
+          extraInstallCommands = "${pkgs.runtimeShell} ${./scripts/wrap-binaries.sh} ${rawMatlab} $out ${pkgs.runtimeShell}";
           meta = {
             mainProgram = "matlab";
             description = "MATLAB programming and numeric computing platform";
@@ -114,47 +111,16 @@ let
       update = relData.update;
 
       # Function to make a MATLAB installation derivation
-      mkMatlabBase = { withDocs ? true, products ? (ps: [ ps.matlab ]), licenseMode ? "onlinelicensing" }:
+      mkMatlabBase = { withDocs ? true, products ? (ps: [ ps.matlab ]), licenseMode ? "onlinelicensing", extraPkgs ? (p: [ ]) }:
         let
-          # For each product, create a product representation
-          makeProductEntry = prod:
-            let
-              filteredComps =
-                if withDocs then prod.components
-                else builtins.filter (c: !c.isDoc) prod.components;
-            in {
-              inherit (prod) name baseName code version aliases;
-              components = prod.components;
-              filteredComponents = filteredComps;
-            };
-
-          # Products map with aliases
-          psMap =
-            builtins.foldl' (acc: prod:
-              let
-                pEntry = makeProductEntry prod;
-                aliasEntries = builtins.foldl' (aAcc: alias:
-                  aAcc // { "${alias}" = pEntry; }
-                ) {} prod.aliases;
-              in
-              acc // aliasEntries
-            ) {} relData.productList;
-
-          # Unique products map
-          uniquePsMap =
-            builtins.foldl' (acc: prod:
-              acc // { "${prod.name}" = makeProductEntry prod; }
-            ) {} relData.productList;
-
-          # Evaluate user products function
-          selectedRaw = products psMap;
+          # Evaluate user products function against product map
+          selectedRaw = products relData.products;
           selectedList = lib.flatten (lib.toList selectedRaw);
 
           # Extract components from the selected products
           extractComps = item:
             if builtins.isAttrs item then
-              if item ? filteredComponents then item.filteredComponents
-              else if item ? components then (
+              if item ? components then (
                 if withDocs then item.components
                 else builtins.filter (c: !c.isDoc) item.components
               )
@@ -163,15 +129,7 @@ let
             else [];
 
           allSelectedComps = lib.flatten (map extractComps selectedList);
-
-          # Deduplicate components by filename
-          uniqueSelectedComps =
-            builtins.attrValues (
-              builtins.foldl' (acc: c:
-                if c.fn == "" then acc
-                else acc // { "${c.fn}" = c; }
-              ) {} allSelectedComps
-            );
+          uniqueSelectedComps = loader.dedupComponents allSelectedComps;
 
           # Download sources for all unique selected components
           selectedSrcs = map (c: mkComponentSrc {
@@ -243,8 +201,8 @@ let
 
             passthru = {
               inherit release update withDocs licenseMode uniqueSelectedComps selectedSrcs manifest;
-              productsMap = psMap;
-              uniqueProducts = uniquePsMap;
+              productsMap = relData.products;
+              uniqueProducts = relData.uniqueProducts;
               allProductList = relData.productList;
 
               # 3 pre-provided overrides (which can further be overridden)
@@ -253,19 +211,19 @@ let
                 products = ps: [ ps.matlab ];
               };
 
-              default = makeMatlabOverridable {
-                withDocs = true;
-                products = ps: [ ps.matlab ];
-              };
+              default = defaultPkg;
 
               full = makeMatlabOverridable {
                 withDocs = true;
-                products = ps: builtins.attrValues uniquePsMap;
+                products = ps: builtins.attrValues relData.uniqueProducts;
               };
             };
           };
 
-          wrappedMatlab = wrapMatlabFhs rawMatlabDrv;
+          wrappedMatlab = wrapMatlabFhs {
+            rawMatlab = rawMatlabDrv;
+            inherit extraPkgs;
+          };
         in
         wrappedMatlab;
 

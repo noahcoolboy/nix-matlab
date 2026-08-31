@@ -4,7 +4,9 @@ with pkgs; [
   # Core C runtime & System libraries
   glibc
   gcc.cc.lib
+  gfortran.cc.lib
   zlib
+  zstd
   glib
   dbus
   pam
@@ -16,19 +18,25 @@ with pkgs; [
   libxcrypt-legacy
   libnsl
   libtirpc
+  libunwind
   util-linux
+  ncurses
+  openssl
+  curl
+  libxml2
+  libxslt
 
   # Audio & Media
   alsa-lib
   libpulseaudio
   libsndfile
+  ffmpeg
   gst_all_1.gstreamer
   gst_all_1.gst-plugins-base
 
   # X11 & Graphics
   libGL
   libGLU
-  libglvnd
   libdrm
   mesa
   libgbm
@@ -71,7 +79,6 @@ with pkgs; [
   gtk3
   gtk2
   gdk-pixbuf
-  atk
   at-spi2-core
   cups
   nss

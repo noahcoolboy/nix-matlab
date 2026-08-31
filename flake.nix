@@ -21,7 +21,7 @@
     flake-utils.lib.eachSystem supportedSystems (
       system: let
         pkgs = import nixpkgs { inherit system; };
-        matlabNix = import ./nix { inherit pkgs system; };
+        matlabNix = import ./nix { inherit pkgs; };
       in rec {
         packages = matlabNix.packages // {
           default = matlabNix.packages."R2025b";

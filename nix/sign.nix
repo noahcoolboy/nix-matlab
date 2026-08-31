@@ -26,12 +26,7 @@ let
       keyBytes = md5.stringToBytes cleanKey;
       pathBytes = md5.stringToBytes parsed.path;
 
-      expBytes = [
-        (builtins.bitAnd exp 255)
-        (builtins.bitAnd (exp / 256) 255)
-        (builtins.bitAnd (exp / 65536) 255)
-        (builtins.bitAnd (exp / 16777216) 255)
-      ];
+      expBytes = md5.wordToBytes exp;
 
       # Signature stage 1: md5(struct.pack("<I", exp) + path.encode() + key)
       sig1Digest = md5.md5Bytes (expBytes ++ pathBytes ++ keyBytes);

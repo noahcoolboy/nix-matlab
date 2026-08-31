@@ -150,6 +150,14 @@ let
       D = add32 state.d0 res.D;
     };
 
+  # Convert 32-bit integer to 4 little-endian bytes
+  wordToBytes = w: [
+    (builtins.bitAnd w 255)
+    (builtins.bitAnd (w / 256) 255)
+    (builtins.bitAnd (w / 65536) 255)
+    (builtins.bitAnd (w / 16777216) 255)
+  ];
+
   md5Bytes = data:
     let
       rawBytes = if builtins.isString data then stringToBytes data else data;
@@ -171,21 +179,11 @@ let
         in
         processBlock block state
       ) initState (builtins.genList (i: i) numBlocks);
-
-      wordToBytes = w: [
-        (builtins.bitAnd w 255)
-        (builtins.bitAnd (w / 256) 255)
-        (builtins.bitAnd (w / 65536) 255)
-        (builtins.bitAnd (w / 16777216) 255)
-      ];
     in
-    (wordToBytes finalState.a0) ++
-    (wordToBytes finalState.b0) ++
-    (wordToBytes finalState.c0) ++
-    (wordToBytes finalState.d0);
+    builtins.concatMap wordToBytes [ finalState.a0 finalState.b0 finalState.c0 finalState.d0 ];
 
   md5Hex = data: bytesToHex (md5Bytes data);
 
 in {
-  inherit md5Bytes md5Hex stringToBytes bytesToHex byteToHex;
+  inherit md5Bytes md5Hex stringToBytes bytesToHex byteToHex wordToBytes;
 }

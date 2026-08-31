@@ -1,4 +1,4 @@
-{ pkgs ? import <nixpkgs> { inherit system; }
+{ pkgs ? import <nixpkgs> {}
 , system ? pkgs.stdenv.hostPlatform.system
 , dataDir ? ../data
 }:
@@ -9,7 +9,7 @@ let
   md5 = import ./md5.nix;
   sign = import ./sign.nix;
   loader = import ./loader.nix { inherit lib; };
-  builder = import ./builder.nix { inherit pkgs sign; };
+  builder = import ./builder.nix { inherit pkgs sign loader; };
 
   key = loader.loadKey dataDir;
   hashes = loader.loadHashes dataDir;
@@ -21,11 +21,6 @@ let
       release = entry.release;
       updates = entry.availableUpdates or [];
       urlBase = entry.urlBase or "https://esd.mathworks.com";
-      lastUpdate =
-        if updates != [] then
-          builtins.elemAt updates ((builtins.length updates) - 1)
-        else
-          "";
 
       updateEntries = map (u: {
         name = "${release}.${u}";
@@ -42,19 +37,10 @@ let
       }) updates;
 
       aliasEntry =
-        if lastUpdate != "" then [
+        if updateEntries != [] then [
           {
-            name = "${release}";
-            value =
-              let
-                relData = loader.loadReleaseData {
-                  inherit dataDir system release urlBase hashes;
-                  update = lastUpdate;
-                };
-              in
-              builder.mkMatlabRelease {
-                inherit relData key;
-              };
+            name = release;
+            value = (lib.last updateEntries).value;
           }
         ] else [];
     in
