@@ -14,7 +14,10 @@ from pathlib import Path
 # Initialize key and versions
 key = get_key()
 versions = get_versions()
-headers = { "User-Agent": "nix-matlab/1.0 (+https://github.com/noahcoolboy/nix-matlab)" }
+headers = {
+    "User-Agent": "nix-matlab/1.0 (+https://github.com/noahcoolboy/nix-matlab)",
+    "Accept-Encoding": "identity",
+}
 
 # Initialize data
 os.makedirs("data", exist_ok=True)
@@ -23,12 +26,21 @@ with open("data/key.txt", "w") as f:
 with open("data/versions.json", "w") as f:
     json.dump(versions, f, indent=4)
 
+# Load existing root hashes
+hashes_file = Path("data/hashes.json")
+hashes = {}
+if hashes_file.exists():
+    with hashes_file.open("r", encoding="utf-8") as f:
+        hashes = json.load(f)
+
 # Get hashin'
 def fetch_hash(item):
     component, url, ttl = item
     return component, hash(sign(key, url, ttl=ttl), headers=headers)
 
 quota = 5000
+new_hashes = 0
+
 with ThreadPoolExecutor(max_workers=8) as pool:
     for ver in versions:
         for update in ver["availableUpdates"]:
@@ -41,12 +53,6 @@ with ThreadPoolExecutor(max_workers=8) as pool:
             response.raise_for_status()
             dws = zipfile.ZipFile(io.BytesIO(response.content))
 
-            hashes = {}
-            if (path / "hashes.json").exists():
-                with (path / "hashes.json").open("r", encoding="utf-8") as f:
-                    hashes = json.load(f)
-
-            new_hashes = 0
             for name in dws.namelist():
                 if not name.endswith(".xml"):
                     continue
@@ -85,6 +91,6 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                     with file_path.open("w", encoding="utf-8") as f:
                         json.dump(xml_to_json(root), f, indent=4)
 
-            if new_hashes > 0 or not (path / "hashes.json").exists():
-                with (path / "hashes.json").open("w", encoding="utf-8") as f:
-                    json.dump(hashes, f, indent=4)
+if new_hashes > 0 or not hashes_file.exists():
+    with hashes_file.open("w", encoding="utf-8") as f:
+        json.dump(hashes, f, indent=4)
