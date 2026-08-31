@@ -1,0 +1,526 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/fastdds_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/fastdds"
+                        ],
+                        "componentFileName": [
+                            "3p/fastdds_win64_1753828999.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7351855"
+                        ],
+                        "uncompressedBytes": [
+                            "28992595"
+                        ],
+                        "version": [
+                            "1753828999"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/3p/fastdds_win64_1753828999.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/adaptor_win64"
+                        ],
+                        "componentBaseName": [
+                            "dds/adaptor"
+                        ],
+                        "componentFileName": [
+                            "dds/adaptor_win64_1759791741.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15718"
+                        ],
+                        "uncompressedBytes": [
+                            "34132"
+                        ],
+                        "version": [
+                            "1759791741"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/dds/adaptor_win64_1759791741.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/toolstrip_win64"
+                        ],
+                        "componentBaseName": [
+                            "dds/toolstrip"
+                        ],
+                        "componentFileName": [
+                            "dds/toolstrip_win64_1759800230.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18647"
+                        ],
+                        "uncompressedBytes": [
+                            "38224"
+                        ],
+                        "version": [
+                            "1759800230"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/dds/toolstrip_win64_1759800230.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/common_blocks_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/common_blocks"
+                        ],
+                        "componentFileName": [
+                            "live/common_blocks_win64_1759769422.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "369473"
+                        ],
+                        "uncompressedBytes": [
+                            "1119073"
+                        ],
+                        "version": [
+                            "1759769422"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/live/common_blocks_win64_1759769422.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/common_mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/common_mcos"
+                        ],
+                        "componentFileName": [
+                            "live/common_mcos_win64_1758803438.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "898062"
+                        ],
+                        "uncompressedBytes": [
+                            "3386750"
+                        ],
+                        "version": [
+                            "1758803438"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/live/common_mcos_win64_1758803438.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/dds_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/dds"
+                        ],
+                        "componentFileName": [
+                            "live/dds_win64_1759753949.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1066050"
+                        ],
+                        "uncompressedBytes": [
+                            "3330257"
+                        ],
+                        "version": [
+                            "1759753949"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/live/dds_win64_1759753949.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/signal_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/signal"
+                        ],
+                        "componentFileName": [
+                            "live/signal_win64_1753855342.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "19014"
+                        ],
+                        "uncompressedBytes": [
+                            "36192"
+                        ],
+                        "version": [
+                            "1753855342"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/live/signal_win64_1753855342.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_interface_dict/platforms/dds_win64"
+                        ],
+                        "componentBaseName": [
+                            "sl_interface_dict/platforms/dds"
+                        ],
+                        "componentFileName": [
+                            "sl_interface_dict/platforms/dds_win64_1759774452.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "206369"
+                        ],
+                        "uncompressedBytes": [
+                            "560698"
+                        ],
+                        "version": [
+                            "1759774452"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/sl_interface_dict/platforms/dds_win64_1759774452.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "toolstrip_coder_app_win64"
+                        ],
+                        "componentBaseName": [
+                            "toolstrip_coder_app"
+                        ],
+                        "componentFileName": [
+                            "toolstrip_coder_app_win64_1759737597.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28866"
+                        ],
+                        "uncompressedBytes": [
+                            "49506"
+                        ],
+                        "version": [
+                            "1759737597"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/toolstrip_coder_app_win64_1759737597.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "DD"
+        ],
+        "productName": [
+            "DDS Blockset"
+        ],
+        "productNumber": [
+            "190"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}
