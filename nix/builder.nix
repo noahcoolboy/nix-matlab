@@ -19,6 +19,16 @@ let
   ];
   fhsLibPath = lib.concatStringsSep ":" fhsLibDirs;
 
+  # Shared package metadata. MATLAB is proprietary (unfree) and shipped as
+  # prebuilt glnxa64 binaries, so only x86_64-linux is actually supported.
+  commonMeta = {
+    homepage = "https://www.mathworks.com/products/matlab.html";
+    license = lib.licenses.unfree;
+    sourceProvenance = [ lib.sourceTypes.binaryNativeCode ];
+    platforms = [ "x86_64-linux" ];
+    mainProgram = "matlab";
+  };
+
   # Build an individual component fetch derivation
   mkComponentSrc = { comp, key, exp ? 2147483647 }:
     let
@@ -89,11 +99,22 @@ let
             export LD_LIBRARY_PATH="${fhsLibPath}''${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
           '';
           runScript = "${./scripts/fhs-entrypoint.sh} ${rawMatlab}";
-          extraInstallCommands = "${pkgs.runtimeShell} ${./scripts/wrap-binaries.sh} ${rawMatlab} $out ${pkgs.runtimeShell}";
-          meta = {
-            mainProgram = "matlab";
+          extraInstallCommands = ''
+            ${pkgs.runtimeShell} ${./scripts/wrap-binaries.sh} ${rawMatlab} $out ${pkgs.runtimeShell}
+
+            # Desktop integration: launcher entry, icon, and MIME types so the
+            # package shows up in menus and owns its file types once installed.
+            install -Dm444 ${rawMatlab}/bin/glnxa64/cef_resources/matlab_icon.png \
+              "$out/share/icons/hicolor/256x256/apps/matlab.png"
+            install -Dm444 ${./matlab.xml} "$out/share/mime/packages/matlab.xml"
+            install -Dm644 ${./matlab.desktop} "$out/share/applications/matlab.desktop"
+            sed -i \
+              -e "s|@MATLAB@|$out|g" \
+              -e "s|@RELEASE@|${rawMatlab.release}|g" \
+              "$out/share/applications/matlab.desktop"
+          '';
+          meta = commonMeta // {
             description = "MATLAB programming and numeric computing platform";
-            platforms = pkgs.lib.platforms.linux;
           };
           passthru = {
             unwrapped = rawMatlab;
@@ -194,8 +215,7 @@ let
               install -Dm444 ${licenseInfoFile} "$out/licenses/license_info.xml"
             '';
 
-            meta = {
-              mainProgram = "matlab";
+            meta = commonMeta // {
               description = "MATLAB programming and numeric computing platform (unwrapped)";
             };
 

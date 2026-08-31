@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-matlab-data">
+    <comment>MATLAB MAT-file</comment>
+    <glob pattern="*.mat"/>
+    <magic priority="60"><match type="string" offset="0" value="MATLAB"/></magic>
+    <icon name="matlab"/>
+  </mime-type>
+  <mime-type type="application/x-matlab-figure">
+    <comment>MATLAB figure</comment>
+    <glob pattern="*.fig"/>
+    <icon name="matlab"/>
+  </mime-type>
+  <mime-type type="application/x-matlab-live-script">
+    <comment>MATLAB live script</comment>
+    <glob pattern="*.mlx"/>
+    <icon name="matlab"/>
+  </mime-type>
+  <mime-type type="application/x-matlab-app">
+    <comment>MATLAB app</comment>
+    <glob pattern="*.mlapp"/>
+    <icon name="matlab"/>
+  </mime-type>
+  <mime-type type="application/x-matlab-app-installer">
+    <comment>MATLAB app installer</comment>
+    <glob pattern="*.mlappinstall"/>
+    <icon name="matlab"/>
+  </mime-type>
+  <mime-type type="application/x-matlab-toolbox">
+    <comment>MATLAB toolbox</comment>
+    <glob pattern="*.mltbx"/>
+    <icon name="matlab"/>
+  </mime-type>
+  <mime-type type="application/x-matlab-project">
+    <comment>MATLAB project</comment>
+    <glob pattern="*.prj"/>
+    <icon name="matlab"/>
+  </mime-type>
+</mime-info>

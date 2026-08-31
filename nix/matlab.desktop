@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Version=1.5
+Name=MATLAB
+GenericName=Numeric Computing Environment
+Comment=Programming and numeric computing platform
+Keywords=matlab;numeric;matrix;linear algebra;plotting;science;engineering;m-file;mlx;
+Icon=matlab
+TryExec=@MATLAB@/bin/matlab
+Exec=@MATLAB@/bin/matlab -desktop %F
+Terminal=false
+Categories=Development;IDE;Science;Education;Math;NumericalAnalysis;
+StartupNotify=true
+StartupWMClass=MATLAB @RELEASE@
+MimeType=application/x-matlab-data;application/x-matlab-figure;application/x-matlab-live-script;application/x-matlab-app;application/x-matlab-app-installer;application/x-matlab-toolbox;application/x-matlab-project;
+Actions=NewInstance;SoftwareOpenGL;
+
+[Desktop Action NewInstance]
+Name=New MATLAB Window
+Exec=@MATLAB@/bin/matlab -desktop
+
+[Desktop Action SoftwareOpenGL]
+Name=Start with Software OpenGL
+Exec=@MATLAB@/bin/matlab -desktop -softwareopengl

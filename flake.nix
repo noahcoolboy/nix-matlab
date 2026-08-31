@@ -30,6 +30,7 @@
         apps = builtins.mapAttrs (name: pkg: {
           type = "app";
           program = "${pkg}/bin/matlab";
+          meta = pkg.meta or { description = "MATLAB ${name}"; };
         }) packages;
 
         devShells.default = pkgs.mkShell {
