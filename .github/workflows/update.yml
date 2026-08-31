@@ -1,9 +1,13 @@
-name: Generate DWS ZIP
+name: Generate Matlab Data
 
 on:
+  push:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,19 +15,24 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v7
-      - name: Set up Python
-        uses: actions/setup-python@v5
       - name: Compile hook.c
         run: gcc -shared -fPIC -o hook.so hook.c
       - name: Download mpm
         run: |
             wget https://www.mathworks.com/mpm/glnxa64/mpm
             chmod +x mpm
-      - name: Run generate.py
-        run: python generate.py
-      - name: Strip BadRequest lines
-        run: sed -i '/BadRequest/d' versions.jsonl
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run main.py
+        run: python scripts/main.py
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-            commit_message: "Update Matlab Data"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update Matlab Data"
+          git push
