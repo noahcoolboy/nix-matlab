@@ -33,9 +33,9 @@ with ThreadPoolExecutor(max_workers=8) as pool:
     for ver in versions:
         for update in ver["availableUpdates"]:
             path = Path(f"data/{ver['release']}.{update}")
-            if path.exists() or quota <= 0:
+            if quota <= 0:
                 continue
-            path.mkdir(parents=True)
+            path.mkdir(parents=True, exist_ok=True)
             signedDws = sign(key, form_path(ver["urlBase"], ver["release"], "Release", update), ttl=ver["urlSigning"]["ttlSeconds"])
             response = requests.get(signedDws, headers=headers)
             response.raise_for_status()
