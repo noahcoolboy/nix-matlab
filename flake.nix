@@ -20,7 +20,11 @@
     in
     flake-utils.lib.eachSystem supportedSystems (
       system: let
-        pkgs = import nixpkgs { inherit system; };
+        pkgs = import nixpkgs {
+          inherit system;
+          config.allowUnfreePredicate = p:
+            builtins.elem (nixpkgs.lib.getName p) [ "matlab" "matlab-unwrapped" ];
+        };
         matlabNix = import ./nix { inherit pkgs; };
       in rec {
         packages = matlabNix.packages // {
