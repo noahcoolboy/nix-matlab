@@ -1,0 +1,256 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/flexnet_license_server_maci64"
+                        ],
+                        "componentBaseName": [
+                            "3p/flexnet_license_server"
+                        ],
+                        "componentFileName": [
+                            "3p/flexnet_license_server_maci64_1753787912.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3140354"
+                        ],
+                        "uncompressedBytes": [
+                            "8593056"
+                        ],
+                        "version": [
+                            "1753787912"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/3p/flexnet_license_server_maci64_1753787912.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bin_utils_maci64"
+                        ],
+                        "componentBaseName": [
+                            "bin_utils"
+                        ],
+                        "componentFileName": [
+                            "bin_utils_maci64_1753788563.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6390"
+                        ],
+                        "uncompressedBytes": [
+                            "28436"
+                        ],
+                        "version": [
+                            "1753788563"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/bin_utils_maci64_1753788563.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "gcc_runtime_maci64"
+                        ],
+                        "componentBaseName": [
+                            "gcc_runtime"
+                        ],
+                        "componentFileName": [
+                            "gcc_runtime_maci64_1753787763.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "356"
+                        ],
+                        "uncompressedBytes": [
+                            "235"
+                        ],
+                        "version": [
+                            "1753787763"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/gcc_runtime_maci64_1753787763.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "license_manager_maci64"
+                        ],
+                        "componentBaseName": [
+                            "license_manager"
+                        ],
+                        "componentFileName": [
+                            "license_manager_maci64_1756094489.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11990941"
+                        ],
+                        "uncompressedBytes": [
+                            "33513384"
+                        ],
+                        "version": [
+                            "1756094489"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/license_manager_maci64_1756094489.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maci64"
+        ],
+        "productBaseCode": [
+            "LICENSEMANAGER"
+        ],
+        "productName": [
+            "Network License Manager"
+        ],
+        "productNumber": [
+            "0"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

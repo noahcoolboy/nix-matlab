@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "satcom_maca64"
+                        ],
+                        "componentBaseName": [
+                            "satcom"
+                        ],
+                        "componentFileName": [
+                            "satcom_maca64_1778053747.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "572155"
+                        ],
+                        "uncompressedBytes": [
+                            "2085639"
+                        ],
+                        "version": [
+                            "1778053747"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/satcom_maca64_1778053747.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_maca64"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_maca64_1777946003.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "216348"
+                        ],
+                        "uncompressedBytes": [
+                            "865472"
+                        ],
+                        "version": [
+                            "1777946003"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_orbit_maca64_1777946003.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maca64"
+        ],
+        "productBaseCode": [
+            "SI"
+        ],
+        "productName": [
+            "Satellite Communications Toolbox"
+        ],
+        "productNumber": [
+            "189"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

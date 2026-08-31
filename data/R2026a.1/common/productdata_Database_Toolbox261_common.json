@@ -1,0 +1,1055 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/database_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/database_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/database_search_doc_en_common_1776690441.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "249010"
+                        ],
+                        "uncompressedBytes": [
+                            "888318"
+                        ],
+                        "version": [
+                            "1776690441"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/buy/doc/database_search_doc_en_common_1776690441.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_common"
+                        ],
+                        "componentBaseName": [
+                            "database"
+                        ],
+                        "componentFileName": [
+                            "database_common_1768235073.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3501545"
+                        ],
+                        "uncompressedBytes": [
+                            "24467202"
+                        ],
+                        "version": [
+                            "1768235073"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_common_1768235073.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "database_licenses"
+                        ],
+                        "componentFileName": [
+                            "database_licenses_common_1763621166.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18083"
+                        ],
+                        "uncompressedBytes": [
+                            "56537"
+                        ],
+                        "version": [
+                            "1763621166"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_licenses_common_1763621166.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "database_resources"
+                        ],
+                        "componentFileName": [
+                            "database_resources_common_1763727169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "29034"
+                        ],
+                        "uncompressedBytes": [
+                            "66619"
+                        ],
+                        "version": [
+                            "1763727169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_resources_common_1763727169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_cassandra_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_cassandra"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_cassandra_common_1763806362.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8978"
+                        ],
+                        "uncompressedBytes": [
+                            "11964"
+                        ],
+                        "version": [
+                            "1763806362"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_cassandra_common_1763806362.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_duckdb_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_duckdb"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_duckdb_common_1763806380.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14423"
+                        ],
+                        "uncompressedBytes": [
+                            "34867"
+                        ],
+                        "version": [
+                            "1763806380"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_duckdb_common_1763806380.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_jdbc_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_jdbc"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_jdbc_common_1776697024.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "105960"
+                        ],
+                        "uncompressedBytes": [
+                            "218989"
+                        ],
+                        "version": [
+                            "1776697024"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_jdbc_common_1776697024.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_mariadb_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_mariadb"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_mariadb_common_1763806373.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "22254"
+                        ],
+                        "uncompressedBytes": [
+                            "50640"
+                        ],
+                        "version": [
+                            "1763806373"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_mariadb_common_1763806373.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_mongo_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_mongo"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_mongo_common_1763806365.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8856"
+                        ],
+                        "uncompressedBytes": [
+                            "13942"
+                        ],
+                        "version": [
+                            "1763806365"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_mongo_common_1763806365.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_neo4j_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_neo4j"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_neo4j_common_1763806368.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17345"
+                        ],
+                        "uncompressedBytes": [
+                            "15836"
+                        ],
+                        "version": [
+                            "1763806368"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_neo4j_common_1763806368.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_odbc_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_odbc"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_odbc_common_1769819156.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "49262"
+                        ],
+                        "uncompressedBytes": [
+                            "131809"
+                        ],
+                        "version": [
+                            "1769819156"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_odbc_common_1769819156.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_orm_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_orm"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_orm_common_1763803715.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5351"
+                        ],
+                        "uncompressedBytes": [
+                            "11185"
+                        ],
+                        "version": [
+                            "1763803715"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_orm_common_1763803715.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_postgresql_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_postgresql"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_postgresql_common_1763806366.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20296"
+                        ],
+                        "uncompressedBytes": [
+                            "60051"
+                        ],
+                        "version": [
+                            "1763806366"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_postgresql_common_1763806366.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_shared_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_shared"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_shared_common_1766155037.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "89940"
+                        ],
+                        "uncompressedBytes": [
+                            "279560"
+                        ],
+                        "version": [
+                            "1766155037"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_shared_common_1766155037.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_sqlite_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_sqlite"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_sqlite_common_1763806369.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4838"
+                        ],
+                        "uncompressedBytes": [
+                            "4388"
+                        ],
+                        "version": [
+                            "1763806369"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/database_toolbox_sqlite_common_1763806369.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "duckdb_mcos_common"
+                        ],
+                        "componentBaseName": [
+                            "duckdb_mcos"
+                        ],
+                        "componentFileName": [
+                            "duckdb_mcos_common_1763803715.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5404"
+                        ],
+                        "uncompressedBytes": [
+                            "8536"
+                        ],
+                        "version": [
+                            "1763803715"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/duckdb_mcos_common_1763803715.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "duckdb_mcos_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "duckdb_mcos_resources"
+                        ],
+                        "componentFileName": [
+                            "duckdb_mcos_resources_common_1763727168.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "772"
+                        ],
+                        "uncompressedBytes": [
+                            "1349"
+                        ],
+                        "version": [
+                            "1763727168"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/duckdb_mcos_resources_common_1763727168.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "DB"
+        ],
+        "productName": [
+            "Database Toolbox"
+        ],
+        "productNumber": [
+            "41"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

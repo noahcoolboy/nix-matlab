@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "lte_maca64"
+                        ],
+                        "componentBaseName": [
+                            "lte"
+                        ],
+                        "componentFileName": [
+                            "lte_maca64_1765890685.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1063272"
+                        ],
+                        "uncompressedBytes": [
+                            "3143088"
+                        ],
+                        "version": [
+                            "1765890685"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lte_maca64_1765890685.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "umts_maca64"
+                        ],
+                        "componentBaseName": [
+                            "umts"
+                        ],
+                        "componentFileName": [
+                            "umts_maca64_1765890983.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "315654"
+                        ],
+                        "uncompressedBytes": [
+                            "848960"
+                        ],
+                        "version": [
+                            "1765890983"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/umts_maca64_1765890983.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maca64"
+        ],
+        "productBaseCode": [
+            "LS"
+        ],
+        "productName": [
+            "LTE Toolbox"
+        ],
+        "productNumber": [
+            "140"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

@@ -1,0 +1,742 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/cudd_maca64"
+                        ],
+                        "componentBaseName": [
+                            "3p/cudd"
+                        ],
+                        "componentFileName": [
+                            "3p/cudd_maca64_1763621715.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "270295"
+                        ],
+                        "uncompressedBytes": [
+                            "677526"
+                        ],
+                        "version": [
+                            "1763621715"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/3p/cudd_maca64_1763621715.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/query_plugins/safety_query_plugins_maca64"
+                        ],
+                        "componentBaseName": [
+                            "alm/query_plugins/safety_query_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/query_plugins/safety_query_plugins_maca64_1785778209.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "38632"
+                        ],
+                        "uncompressedBytes": [
+                            "139844"
+                        ],
+                        "version": [
+                            "1785778209"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/alm/query_plugins/safety_query_plugins_maca64_1785778209.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/req_trace_plugins_maca64"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/req_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/req_trace_plugins_maca64_1785785448.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "206199"
+                        ],
+                        "uncompressedBytes": [
+                            "677006"
+                        ],
+                        "version": [
+                            "1785785448"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/alm/trace_plugins/req_trace_plugins_maca64_1785785448.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/safety_trace_plugins_maca64"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/safety_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/safety_trace_plugins_maca64_1785780267.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "105295"
+                        ],
+                        "uncompressedBytes": [
+                            "397620"
+                        ],
+                        "version": [
+                            "1785780267"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/alm/trace_plugins/safety_trace_plugins_maca64_1785780267.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/faultanalyzer_search_doc_en_maca64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/faultanalyzer_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/faultanalyzer_search_doc_en_maca64_1785767727.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28598"
+                        ],
+                        "uncompressedBytes": [
+                            "27690"
+                        ],
+                        "version": [
+                            "1785767727"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/buy/doc/faultanalyzer_search_doc_en_maca64_1785767727.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fault_dashboard_maca64"
+                        ],
+                        "componentBaseName": [
+                            "fault_dashboard"
+                        ],
+                        "componentFileName": [
+                            "fault_dashboard_maca64_1781286138.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "164417"
+                        ],
+                        "uncompressedBytes": [
+                            "687317"
+                        ],
+                        "version": [
+                            "1781286138"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/fault_dashboard_maca64_1781286138.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fault_diagrams_maca64"
+                        ],
+                        "componentBaseName": [
+                            "fault_diagrams"
+                        ],
+                        "componentFileName": [
+                            "fault_diagrams_maca64_1781271078.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "35704"
+                        ],
+                        "uncompressedBytes": [
+                            "181877"
+                        ],
+                        "version": [
+                            "1781271078"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/fault_diagrams_maca64_1781271078.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "faultinfo/plugin_maca64"
+                        ],
+                        "componentBaseName": [
+                            "faultinfo/plugin"
+                        ],
+                        "componentFileName": [
+                            "faultinfo/plugin_maca64_1781303781.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "50539"
+                        ],
+                        "uncompressedBytes": [
+                            "204456"
+                        ],
+                        "version": [
+                            "1781303781"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/faultinfo/plugin_maca64_1781303781.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_maca64"
+                        ],
+                        "componentBaseName": [
+                            "safety"
+                        ],
+                        "componentFileName": [
+                            "safety_maca64_1781315264.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10928"
+                        ],
+                        "uncompressedBytes": [
+                            "35157"
+                        ],
+                        "version": [
+                            "1781315264"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/safety_maca64_1781315264.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_core_maca64"
+                        ],
+                        "componentBaseName": [
+                            "safety_core"
+                        ],
+                        "componentFileName": [
+                            "safety_core_maca64_1785405624.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "69115"
+                        ],
+                        "uncompressedBytes": [
+                            "279665"
+                        ],
+                        "version": [
+                            "1785405624"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/safety_core_maca64_1785405624.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_customization_plugin_maca64"
+                        ],
+                        "componentBaseName": [
+                            "safety_customization_plugin"
+                        ],
+                        "componentFileName": [
+                            "safety_customization_plugin_maca64_1781263091.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16497"
+                        ],
+                        "uncompressedBytes": [
+                            "75166"
+                        ],
+                        "version": [
+                            "1781263091"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/safety_customization_plugin_maca64_1781263091.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_manager_maca64"
+                        ],
+                        "componentBaseName": [
+                            "safety_manager"
+                        ],
+                        "componentFileName": [
+                            "safety_manager_maca64_1785780149.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1804104"
+                        ],
+                        "uncompressedBytes": [
+                            "6613935"
+                        ],
+                        "version": [
+                            "1785780149"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/safety_manager_maca64_1785780149.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinktest_assessments_editor_maca64"
+                        ],
+                        "componentBaseName": [
+                            "simulinktest_assessments_editor"
+                        ],
+                        "componentFileName": [
+                            "simulinktest_assessments_editor_maca64_1781273862.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7131"
+                        ],
+                        "uncompressedBytes": [
+                            "35239"
+                        ],
+                        "version": [
+                            "1781273862"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/simulinktest_assessments_editor_maca64_1781273862.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maca64"
+        ],
+        "productBaseCode": [
+            "FA"
+        ],
+        "productName": [
+            "Simulink Fault Analyzer"
+        ],
+        "productNumber": [
+            "195"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slci_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slci_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slci_search_doc_en_common_1779932674.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40645"
+                        ],
+                        "uncompressedBytes": [
+                            "132153"
+                        ],
+                        "version": [
+                            "1779932674"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/slci_search_doc_en_common_1779932674.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slci_common"
+                        ],
+                        "componentBaseName": [
+                            "slci"
+                        ],
+                        "componentFileName": [
+                            "slci_common_1779956418.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1475494"
+                        ],
+                        "uncompressedBytes": [
+                            "1398477"
+                        ],
+                        "version": [
+                            "1779956418"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slci_common_1779956418.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slci_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "slci_licenses"
+                        ],
+                        "componentFileName": [
+                            "slci_licenses_common_1763621174.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "433"
+                        ],
+                        "uncompressedBytes": [
+                            "509"
+                        ],
+                        "version": [
+                            "1763621174"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slci_licenses_common_1763621174.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slci_manualreview_common"
+                        ],
+                        "componentBaseName": [
+                            "slci_manualreview"
+                        ],
+                        "componentFileName": [
+                            "slci_manualreview_common_1773186067.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1889726"
+                        ],
+                        "uncompressedBytes": [
+                            "3863735"
+                        ],
+                        "version": [
+                            "1773186067"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slci_manualreview_common_1773186067.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slci_toolstrip_common"
+                        ],
+                        "componentBaseName": [
+                            "slci_toolstrip"
+                        ],
+                        "componentFileName": [
+                            "slci_toolstrip_common_1764142735.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "166666"
+                        ],
+                        "uncompressedBytes": [
+                            "165473"
+                        ],
+                        "version": [
+                            "1764142735"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slci_toolstrip_common_1764142735.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slci_view_common"
+                        ],
+                        "componentBaseName": [
+                            "slci_view"
+                        ],
+                        "componentFileName": [
+                            "slci_view_common_1776085710.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2396778"
+                        ],
+                        "uncompressedBytes": [
+                            "5715355"
+                        ],
+                        "version": [
+                            "1776085710"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slci_view_common_1776085710.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "CI"
+        ],
+        "productName": [
+            "Simulink Code Inspector"
+        ],
+        "productNumber": [
+            "134"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

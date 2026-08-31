@@ -1,0 +1,364 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/highs_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/highs"
+                        ],
+                        "componentFileName": [
+                            "3p/highs_win64_1763637986.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2175763"
+                        ],
+                        "uncompressedBytes": [
+                            "7525426"
+                        ],
+                        "version": [
+                            "1763637986"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/3p/highs_win64_1763637986.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_win64"
+                        ],
+                        "componentBaseName": [
+                            "optim"
+                        ],
+                        "componentFileName": [
+                            "optim_win64_1783188452.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "676755"
+                        ],
+                        "uncompressedBytes": [
+                            "1712227"
+                        ],
+                        "version": [
+                            "1783188452"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/optim_win64_1783188452.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_win64"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_win64_1767668226.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "614342"
+                        ],
+                        "uncompressedBytes": [
+                            "1511808"
+                        ],
+                        "version": [
+                            "1767668226"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/optim_codegen_win64_1767668226.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_slbi_win64"
+                        ],
+                        "componentBaseName": [
+                            "optim_slbi"
+                        ],
+                        "componentFileName": [
+                            "optim_slbi_win64_1783188261.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "291711"
+                        ],
+                        "uncompressedBytes": [
+                            "755190"
+                        ],
+                        "version": [
+                            "1783188261"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/optim_slbi_win64_1783188261.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_treesearch_win64"
+                        ],
+                        "componentBaseName": [
+                            "optim_treesearch"
+                        ],
+                        "componentFileName": [
+                            "optim_treesearch_win64_1763766490.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "44801"
+                        ],
+                        "uncompressedBytes": [
+                            "117088"
+                        ],
+                        "version": [
+                            "1763766490"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/optim_treesearch_win64_1763766490.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_win64_1781789268.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "857915"
+                        ],
+                        "uncompressedBytes": [
+                            "2258356"
+                        ],
+                        "version": [
+                            "1781789268"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_optimlib_win64_1781789268.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "OP"
+        ],
+        "productName": [
+            "Optimization Toolbox"
+        ],
+        "productNumber": [
+            "6"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

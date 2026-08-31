@@ -1,0 +1,310 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "wt/fpga_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/fpga"
+                        ],
+                        "componentFileName": [
+                            "wt/fpga_glnxa64_1771375718.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13247"
+                        ],
+                        "uncompressedBytes": [
+                            "21517"
+                        ],
+                        "version": [
+                            "1771375718"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/wt/fpga_glnxa64_1771375718.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wt/host_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/host"
+                        ],
+                        "componentFileName": [
+                            "wt/host_glnxa64_1777940061.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "413380"
+                        ],
+                        "uncompressedBytes": [
+                            "1307093"
+                        ],
+                        "version": [
+                            "1777940061"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/wt/host_glnxa64_1777940061.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wt/host/utils_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/host/utils"
+                        ],
+                        "componentFileName": [
+                            "wt/host/utils_glnxa64_1777978285.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "283284"
+                        ],
+                        "uncompressedBytes": [
+                            "1104356"
+                        ],
+                        "version": [
+                            "1777978285"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/wt/host/utils_glnxa64_1777978285.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wt/mlwt/phaseanalyzer_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/mlwt/phaseanalyzer"
+                        ],
+                        "componentFileName": [
+                            "wt/mlwt/phaseanalyzer_glnxa64_1777593672.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13350"
+                        ],
+                        "uncompressedBytes": [
+                            "21617"
+                        ],
+                        "version": [
+                            "1777593672"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/wt/mlwt/phaseanalyzer_glnxa64_1777593672.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "yaml2json_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "yaml2json"
+                        ],
+                        "componentFileName": [
+                            "yaml2json_glnxa64_1777573329.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2188004"
+                        ],
+                        "uncompressedBytes": [
+                            "3829208"
+                        ],
+                        "version": [
+                            "1777573329"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/yaml2json_glnxa64_1777573329.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "WB"
+        ],
+        "productName": [
+            "Wireless Testbench"
+        ],
+        "productNumber": [
+            "191"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

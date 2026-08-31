@@ -1,0 +1,2634 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/libccd_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/libccd"
+                        ],
+                        "componentFileName": [
+                            "3p/libccd_common_1753741202.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40985"
+                        ],
+                        "uncompressedBytes": [
+                            "132685"
+                        ],
+                        "version": [
+                            "1753741202"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/libccd_common_1753741202.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/lidar_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/lidar_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/lidar_search_doc_en_common_1769597669.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "344966"
+                        ],
+                        "uncompressedBytes": [
+                            "946764"
+                        ],
+                        "version": [
+                            "1769597669"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/buy/doc/lidar_search_doc_en_common_1769597669.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar"
+                        ],
+                        "componentFileName": [
+                            "lidar_common_1762246891.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "77440003"
+                        ],
+                        "uncompressedBytes": [
+                            "93766556"
+                        ],
+                        "version": [
+                            "1762246891"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar_common_1762246891.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/builtins_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar/builtins"
+                        ],
+                        "componentFileName": [
+                            "lidar/builtins_common_1753900521.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "99542"
+                        ],
+                        "uncompressedBytes": [
+                            "375930"
+                        ],
+                        "version": [
+                            "1753900521"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/builtins_common_1753900521.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/lidarcameracalibrator_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar/lidarcameracalibrator"
+                        ],
+                        "componentFileName": [
+                            "lidar/lidarcameracalibrator_common_1753982986.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "201553"
+                        ],
+                        "uncompressedBytes": [
+                            "215058"
+                        ],
+                        "version": [
+                            "1753982986"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/lidarcameracalibrator_common_1753982986.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/lidarlabeler_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar/lidarlabeler"
+                        ],
+                        "componentFileName": [
+                            "lidar/lidarlabeler_common_1764770047.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2770014"
+                        ],
+                        "uncompressedBytes": [
+                            "2992487"
+                        ],
+                        "version": [
+                            "1764770047"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/lidarlabeler_common_1764770047.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/lidarregistrationanalyzer_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar/lidarregistrationanalyzer"
+                        ],
+                        "componentFileName": [
+                            "lidar/lidarregistrationanalyzer_common_1762246911.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "75084"
+                        ],
+                        "uncompressedBytes": [
+                            "59043"
+                        ],
+                        "version": [
+                            "1762246911"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/lidarregistrationanalyzer_common_1762246911.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/lidarviewer_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar/lidarviewer"
+                        ],
+                        "componentFileName": [
+                            "lidar/lidarviewer_common_1763516816.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "204904"
+                        ],
+                        "uncompressedBytes": [
+                            "251798"
+                        ],
+                        "version": [
+                            "1763516816"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/lidarviewer_common_1763516816.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/resources_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar/resources"
+                        ],
+                        "componentFileName": [
+                            "lidar/resources_common_1753785357.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "73540"
+                        ],
+                        "uncompressedBytes": [
+                            "242701"
+                        ],
+                        "version": [
+                            "1753785357"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/resources_common_1753785357.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "lidar/resources"
+                        ],
+                        "componentFileName": [
+                            "lidar/resources_ja_JP_1753785360.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86574"
+                        ],
+                        "uncompressedBytes": [
+                            "261111"
+                        ],
+                        "version": [
+                            "1753785360"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/resources_ja_JP_1753785360.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar/resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "lidar/resources"
+                        ],
+                        "componentFileName": [
+                            "lidar/resources_ko_KR_1753785362.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "83353"
+                        ],
+                        "uncompressedBytes": [
+                            "249635"
+                        ],
+                        "version": [
+                            "1753785362"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar/resources_ko_KR_1753785362.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidarLabelerNetwork_common"
+                        ],
+                        "componentBaseName": [
+                            "lidarLabelerNetwork"
+                        ],
+                        "componentFileName": [
+                            "lidarLabelerNetwork_common_1753785096.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "27157369"
+                        ],
+                        "uncompressedBytes": [
+                            "27175951"
+                        ],
+                        "version": [
+                            "1753785096"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidarLabelerNetwork_common_1753785096.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar_licenses"
+                        ],
+                        "componentFileName": [
+                            "lidar_licenses_common_1753784822.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16437"
+                        ],
+                        "uncompressedBytes": [
+                            "51828"
+                        ],
+                        "version": [
+                            "1753784822"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar_licenses_common_1753784822.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "lidar_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "lidar_simulink"
+                        ],
+                        "componentFileName": [
+                            "lidar_simulink_common_1754704670.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40382"
+                        ],
+                        "uncompressedBytes": [
+                            "67256"
+                        ],
+                        "version": [
+                            "1754704670"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/lidar_simulink_common_1754704670.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "nav/resources_common"
+                        ],
+                        "componentBaseName": [
+                            "nav/resources"
+                        ],
+                        "componentFileName": [
+                            "nav/resources_common_1753785359.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "55116"
+                        ],
+                        "uncompressedBytes": [
+                            "104139"
+                        ],
+                        "version": [
+                            "1753785359"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/nav/resources_common_1753785359.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "nav/resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "nav/resources"
+                        ],
+                        "componentFileName": [
+                            "nav/resources_ja_JP_1753785362.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "73841"
+                        ],
+                        "uncompressedBytes": [
+                            "126446"
+                        ],
+                        "version": [
+                            "1753785362"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/nav/resources_ja_JP_1753785362.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "nav/resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "nav/resources"
+                        ],
+                        "componentFileName": [
+                            "nav/resources_ko_KR_1753785366.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "69928"
+                        ],
+                        "uncompressedBytes": [
+                            "115271"
+                        ],
+                        "version": [
+                            "1753785366"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/nav/resources_ko_KR_1753785366.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/pyspkgmgr_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/pyspkgmgr"
+                        ],
+                        "componentFileName": [
+                            "shared/pyspkgmgr_common_1753831511.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2276"
+                        ],
+                        "uncompressedBytes": [
+                            "1888"
+                        ],
+                        "version": [
+                            "1753831511"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/pyspkgmgr_common_1753831511.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_common_1753975621.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "57799"
+                        ],
+                        "uncompressedBytes": [
+                            "170104"
+                        ],
+                        "version": [
+                            "1753975621"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_common_1753975621.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_builtins_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_builtins_common_1753831633.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "30336"
+                        ],
+                        "uncompressedBytes": [
+                            "149956"
+                        ],
+                        "version": [
+                            "1753831633"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_builtins_common_1753831633.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_map_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_map"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_map_common_1753975336.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "114288"
+                        ],
+                        "uncompressedBytes": [
+                            "580693"
+                        ],
+                        "version": [
+                            "1753975336"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_map_common_1753975336.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_resources_common_1753785355.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5020"
+                        ],
+                        "uncompressedBytes": [
+                            "6909"
+                        ],
+                        "version": [
+                            "1753785355"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_resources_common_1753785355.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_resources_ja_JP_1753785356.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6709"
+                        ],
+                        "uncompressedBytes": [
+                            "8790"
+                        ],
+                        "version": [
+                            "1753785356"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_resources_ja_JP_1753785356.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_resources_ko_KR_1753785357.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6176"
+                        ],
+                        "uncompressedBytes": [
+                            "7851"
+                        ],
+                        "version": [
+                            "1753785357"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_resources_ko_KR_1753785357.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_matlab_loaders_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_matlab_loaders"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_matlab_loaders_common_1753890836.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "306"
+                        ],
+                        "uncompressedBytes": [
+                            "165"
+                        ],
+                        "version": [
+                            "1753890836"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_geometry_matlab_loaders_common_1753890836.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_lidar_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_lidar"
+                        ],
+                        "componentFileName": [
+                            "shared_lidar_common_1753890868.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "44576"
+                        ],
+                        "uncompressedBytes": [
+                            "46566"
+                        ],
+                        "version": [
+                            "1753890868"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_lidar_common_1753890868.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_lidar_ros_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_lidar_ros"
+                        ],
+                        "componentFileName": [
+                            "shared_lidar_ros_common_1753890837.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4204"
+                        ],
+                        "uncompressedBytes": [
+                            "13509"
+                        ],
+                        "version": [
+                            "1753890837"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_lidar_ros_common_1753890837.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_nav_lidar_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_nav_lidar"
+                        ],
+                        "componentFileName": [
+                            "shared_nav_lidar_common_1753981843.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "232438"
+                        ],
+                        "uncompressedBytes": [
+                            "312930"
+                        ],
+                        "version": [
+                            "1753981843"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_nav_lidar_common_1753981843.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_nav_rst_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_nav_rst"
+                        ],
+                        "componentFileName": [
+                            "shared_nav_rst_common_1753981380.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "125154"
+                        ],
+                        "uncompressedBytes": [
+                            "433862"
+                        ],
+                        "version": [
+                            "1753981380"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_nav_rst_common_1753981380.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_polytraj_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_polytraj"
+                        ],
+                        "componentFileName": [
+                            "shared_polytraj_common_1753974729.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9600"
+                        ],
+                        "uncompressedBytes": [
+                            "22227"
+                        ],
+                        "version": [
+                            "1753974729"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_polytraj_common_1753974729.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_pyspkgmgr_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_pyspkgmgr_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_pyspkgmgr_resources_common_1753785337.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "771"
+                        ],
+                        "uncompressedBytes": [
+                            "1192"
+                        ],
+                        "version": [
+                            "1753785337"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_pyspkgmgr_resources_common_1753785337.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_common_1753975354.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "106209"
+                        ],
+                        "uncompressedBytes": [
+                            "302520"
+                        ],
+                        "version": [
+                            "1753975354"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_common_1753975354.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_builtins_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_builtins_common_1753840750.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17988"
+                        ],
+                        "uncompressedBytes": [
+                            "58673"
+                        ],
+                        "version": [
+                            "1753840750"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_builtins_common_1753840750.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_data_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics_data"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_data_common_1753847267.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "153198"
+                        ],
+                        "uncompressedBytes": [
+                            "565840"
+                        ],
+                        "version": [
+                            "1753847267"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_data_common_1753847267.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_utils_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics_utils"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_utils_common_1760869931.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "61650"
+                        ],
+                        "uncompressedBytes": [
+                            "155652"
+                        ],
+                        "version": [
+                            "1760869931"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_utils_common_1760869931.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_common_1768197968.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "312133"
+                        ],
+                        "uncompressedBytes": [
+                            "952031"
+                        ],
+                        "version": [
+                            "1768197968"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_tracking_common_1768197968.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_resources_common_1753785357.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "34279"
+                        ],
+                        "uncompressedBytes": [
+                            "78717"
+                        ],
+                        "version": [
+                            "1753785357"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_tracking_resources_common_1753785357.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_resources_ja_JP_1753785359.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "41151"
+                        ],
+                        "uncompressedBytes": [
+                            "85584"
+                        ],
+                        "version": [
+                            "1753785359"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_tracking_resources_ja_JP_1753785359.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_resources_ko_KR_1753785361.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "39152"
+                        ],
+                        "uncompressedBytes": [
+                            "77386"
+                        ],
+                        "version": [
+                            "1753785361"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_tracking_resources_ko_KR_1753785361.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssf_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "ssf_resources"
+                        ],
+                        "componentFileName": [
+                            "ssf_resources_common_1753785343.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1515"
+                        ],
+                        "uncompressedBytes": [
+                            "3027"
+                        ],
+                        "version": [
+                            "1753785343"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssf_resources_common_1753785343.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssf_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "ssf_resources"
+                        ],
+                        "componentFileName": [
+                            "ssf_resources_ja_JP_1753785343.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1786"
+                        ],
+                        "uncompressedBytes": [
+                            "3345"
+                        ],
+                        "version": [
+                            "1753785343"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssf_resources_ja_JP_1753785343.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssf_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "ssf_resources"
+                        ],
+                        "componentFileName": [
+                            "ssf_resources_ko_KR_1753785344.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1798"
+                        ],
+                        "uncompressedBytes": [
+                            "3146"
+                        ],
+                        "version": [
+                            "1753785344"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssf_resources_ko_KR_1753785344.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssfmcos_common"
+                        ],
+                        "componentBaseName": [
+                            "ssfmcos"
+                        ],
+                        "componentFileName": [
+                            "ssfmcos_common_1755832145.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "126646"
+                        ],
+                        "uncompressedBytes": [
+                            "285103"
+                        ],
+                        "version": [
+                            "1755832145"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssfmcos_common_1755832145.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssfsensorbase_common"
+                        ],
+                        "componentBaseName": [
+                            "ssfsensorbase"
+                        ],
+                        "componentFileName": [
+                            "ssfsensorbase_common_1753847242.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2159"
+                        ],
+                        "uncompressedBytes": [
+                            "6956"
+                        ],
+                        "version": [
+                            "1753847242"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssfsensorbase_common_1753847242.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "LP"
+        ],
+        "productName": [
+            "Lidar Toolbox"
+        ],
+        "productNumber": [
+            "178"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "IP"
+                        ],
+                        "productName": [
+                            "Image Processing Toolbox"
+                        ],
+                        "productNumber": [
+                            "17"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "VP"
+                        ],
+                        "productName": [
+                            "Computer Vision Toolbox"
+                        ],
+                        "productNumber": [
+                            "96"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

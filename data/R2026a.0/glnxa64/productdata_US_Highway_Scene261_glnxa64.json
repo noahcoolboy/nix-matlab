@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "shared/sim3d_content/USHighway_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/USHighway"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/USHighway_glnxa64_1773186127.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "49794323"
+                        ],
+                        "uncompressedBytes": [
+                            "52139552"
+                        ],
+                        "version": [
+                            "1773186127"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sim3d_content/USHighway_glnxa64_1773186127.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_linux_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_linux_glnxa64_1773184162.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "239606747"
+                        ],
+                        "uncompressedBytes": [
+                            "472062319"
+                        ],
+                        "version": [
+                            "1773184162"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/automotive_project_linux_glnxa64_1773184162.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "US_HIGHWAY_3D_SCENE"
+        ],
+        "productName": [
+            "US Highway Scene"
+        ],
+        "productNumber": [
+            "2342"
+        ],
+        "productType": [
+            "optionalFeature"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

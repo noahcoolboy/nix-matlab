@@ -1,0 +1,2195 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/optim_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/optim_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/optim_search_doc_en_common_1777928795.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "127783"
+                        ],
+                        "uncompressedBytes": [
+                            "393614"
+                        ],
+                        "version": [
+                            "1777928795"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/buy/doc/optim_search_doc_en_common_1777928795.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_common"
+                        ],
+                        "componentBaseName": [
+                            "optim"
+                        ],
+                        "componentFileName": [
+                            "optim_common_1776329036.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "299595"
+                        ],
+                        "uncompressedBytes": [
+                            "707371"
+                        ],
+                        "version": [
+                            "1776329036"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_common_1776329036.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_common_1777070484.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "232546"
+                        ],
+                        "uncompressedBytes": [
+                            "191918"
+                        ],
+                        "version": [
+                            "1777070484"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_codegen_common_1777070484.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_common_1763727198.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2936"
+                        ],
+                        "uncompressedBytes": [
+                            "4760"
+                        ],
+                        "version": [
+                            "1763727198"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_codegen_resources_common_1763727198.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_ja_JP_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3569"
+                        ],
+                        "uncompressedBytes": [
+                            "5049"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_codegen_resources_ja_JP_1763727199.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_ko_KR_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3466"
+                        ],
+                        "uncompressedBytes": [
+                            "4671"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_codegen_resources_ko_KR_1763727199.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_zh_CN_1763727200.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3244"
+                        ],
+                        "uncompressedBytes": [
+                            "4523"
+                        ],
+                        "version": [
+                            "1763727200"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_codegen_resources_zh_CN_1763727200.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_explorer_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_explorer"
+                        ],
+                        "componentFileName": [
+                            "optim_explorer_common_1770079587.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "373981"
+                        ],
+                        "uncompressedBytes": [
+                            "1237414"
+                        ],
+                        "version": [
+                            "1770079587"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_explorer_common_1770079587.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_explorer_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_explorer_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_explorer_resources_common_1769684331.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8615"
+                        ],
+                        "uncompressedBytes": [
+                            "41819"
+                        ],
+                        "version": [
+                            "1769684331"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_explorer_resources_common_1769684331.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_explorer_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_explorer_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_explorer_resources_ja_JP_1773184169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10024"
+                        ],
+                        "uncompressedBytes": [
+                            "43900"
+                        ],
+                        "version": [
+                            "1773184169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_explorer_resources_ja_JP_1773184169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_explorer_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_explorer_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_explorer_resources_ko_KR_1773184169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9722"
+                        ],
+                        "uncompressedBytes": [
+                            "42048"
+                        ],
+                        "version": [
+                            "1773184169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_explorer_resources_ko_KR_1773184169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_explorer_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_explorer_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_explorer_resources_zh_CN_1773184170.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9192"
+                        ],
+                        "uncompressedBytes": [
+                            "38218"
+                        ],
+                        "version": [
+                            "1773184170"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_explorer_resources_zh_CN_1773184170.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_common_1766415557.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "88321"
+                        ],
+                        "uncompressedBytes": [
+                            "242566"
+                        ],
+                        "version": [
+                            "1766415557"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_gui_common_1766415557.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_common_1763727237.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3523"
+                        ],
+                        "uncompressedBytes": [
+                            "16157"
+                        ],
+                        "version": [
+                            "1763727237"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_gui_resources_common_1763727237.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_ja_JP_1763727237.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3705"
+                        ],
+                        "uncompressedBytes": [
+                            "14757"
+                        ],
+                        "version": [
+                            "1763727237"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_gui_resources_ja_JP_1763727237.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_ko_KR_1763727238.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3695"
+                        ],
+                        "uncompressedBytes": [
+                            "14647"
+                        ],
+                        "version": [
+                            "1763727238"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_gui_resources_ko_KR_1763727238.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_zh_CN_1763727238.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3445"
+                        ],
+                        "uncompressedBytes": [
+                            "12914"
+                        ],
+                        "version": [
+                            "1763727238"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_gui_resources_zh_CN_1763727238.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_licenses"
+                        ],
+                        "componentFileName": [
+                            "optim_licenses_common_1763621171.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "433"
+                        ],
+                        "uncompressedBytes": [
+                            "506"
+                        ],
+                        "version": [
+                            "1763621171"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_licenses_common_1763621171.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_common_1764035601.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "158228"
+                        ],
+                        "uncompressedBytes": [
+                            "122066"
+                        ],
+                        "version": [
+                            "1764035601"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_problemdef_common_1764035601.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_common_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17465"
+                        ],
+                        "uncompressedBytes": [
+                            "38547"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_problemdef_resources_common_1763727199.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_ja_JP_1763727201.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20872"
+                        ],
+                        "uncompressedBytes": [
+                            "39919"
+                        ],
+                        "version": [
+                            "1763727201"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_problemdef_resources_ja_JP_1763727201.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_ko_KR_1763727203.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20472"
+                        ],
+                        "uncompressedBytes": [
+                            "38380"
+                        ],
+                        "version": [
+                            "1763727203"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_problemdef_resources_ko_KR_1763727203.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_zh_CN_1769684303.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18912"
+                        ],
+                        "uncompressedBytes": [
+                            "33756"
+                        ],
+                        "version": [
+                            "1769684303"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_problemdef_resources_zh_CN_1769684303.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_common_1776324131.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "39734"
+                        ],
+                        "uncompressedBytes": [
+                            "103411"
+                        ],
+                        "version": [
+                            "1776324131"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_resources_common_1776324131.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_ja_JP_1776324135.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "50544"
+                        ],
+                        "uncompressedBytes": [
+                            "113187"
+                        ],
+                        "version": [
+                            "1776324135"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_resources_ja_JP_1776324135.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_ko_KR_1776324138.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "49643"
+                        ],
+                        "uncompressedBytes": [
+                            "111712"
+                        ],
+                        "version": [
+                            "1776324138"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_resources_ko_KR_1776324138.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_zh_CN_1776324140.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "46454"
+                        ],
+                        "uncompressedBytes": [
+                            "96675"
+                        ],
+                        "version": [
+                            "1776324140"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/optim_resources_zh_CN_1776324140.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_common_1776328637.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "252059"
+                        ],
+                        "uncompressedBytes": [
+                            "784420"
+                        ],
+                        "version": [
+                            "1776328637"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_common_1776328637.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_common_1763774926.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "49196"
+                        ],
+                        "uncompressedBytes": [
+                            "34855"
+                        ],
+                        "version": [
+                            "1763774926"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_codegen_common_1763774926.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_common_1763727197.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3130"
+                        ],
+                        "uncompressedBytes": [
+                            "7263"
+                        ],
+                        "version": [
+                            "1763727197"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_codegen_resources_common_1763727197.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_ja_JP_1763727197.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3977"
+                        ],
+                        "uncompressedBytes": [
+                            "7854"
+                        ],
+                        "version": [
+                            "1763727197"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_codegen_resources_ja_JP_1763727197.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_ko_KR_1763727198.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3841"
+                        ],
+                        "uncompressedBytes": [
+                            "6963"
+                        ],
+                        "version": [
+                            "1763727198"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_codegen_resources_ko_KR_1763727198.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_zh_CN_1763727198.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3633"
+                        ],
+                        "uncompressedBytes": [
+                            "6850"
+                        ],
+                        "version": [
+                            "1763727198"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_codegen_resources_zh_CN_1763727198.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_common_1763727167.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "32228"
+                        ],
+                        "uncompressedBytes": [
+                            "80387"
+                        ],
+                        "version": [
+                            "1763727167"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_resources_common_1763727167.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_ja_JP_1763727170.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40451"
+                        ],
+                        "uncompressedBytes": [
+                            "85325"
+                        ],
+                        "version": [
+                            "1763727170"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_resources_ja_JP_1763727170.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_ko_KR_1763727173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40372"
+                        ],
+                        "uncompressedBytes": [
+                            "86682"
+                        ],
+                        "version": [
+                            "1763727173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_resources_ko_KR_1763727173.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_zh_CN_1763727176.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37008"
+                        ],
+                        "uncompressedBytes": [
+                            "74051"
+                        ],
+                        "version": [
+                            "1763727176"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_optimlib_resources_zh_CN_1763727176.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "OP"
+        ],
+        "productName": [
+            "Optimization Toolbox"
+        ],
+        "productNumber": [
+            "6"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

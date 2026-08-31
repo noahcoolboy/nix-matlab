@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "lte_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "lte"
+                        ],
+                        "componentFileName": [
+                            "lte_glnxa64_1774392376.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1129679"
+                        ],
+                        "uncompressedBytes": [
+                            "3232757"
+                        ],
+                        "version": [
+                            "1774392376"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/lte_glnxa64_1774392376.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "umts_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "umts"
+                        ],
+                        "componentFileName": [
+                            "umts_glnxa64_1773195723.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "363824"
+                        ],
+                        "uncompressedBytes": [
+                            "876760"
+                        ],
+                        "version": [
+                            "1773195723"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/umts_glnxa64_1773195723.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "LS"
+        ],
+        "productName": [
+            "LTE Toolbox"
+        ],
+        "productNumber": [
+            "140"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

@@ -1,0 +1,411 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slcompiler_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcompiler_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcompiler_search_doc_en_common_1783030088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25059"
+                        ],
+                        "uncompressedBytes": [
+                            "59681"
+                        ],
+                        "version": [
+                            "1783030088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/buy/doc/slcompiler_search_doc_en_common_1783030088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinkcompiler/appruntime_common"
+                        ],
+                        "componentBaseName": [
+                            "simulinkcompiler/appruntime"
+                        ],
+                        "componentFileName": [
+                            "simulinkcompiler/appruntime_common_1765390070.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "130930"
+                        ],
+                        "uncompressedBytes": [
+                            "233816"
+                        ],
+                        "version": [
+                            "1765390070"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/simulinkcompiler/appruntime_common_1765390070.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinkcompiler/simulinkcompiler_common"
+                        ],
+                        "componentBaseName": [
+                            "simulinkcompiler/simulinkcompiler"
+                        ],
+                        "componentFileName": [
+                            "simulinkcompiler/simulinkcompiler_common_1783073391.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "404095"
+                        ],
+                        "uncompressedBytes": [
+                            "429929"
+                        ],
+                        "version": [
+                            "1783073391"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/simulinkcompiler/simulinkcompiler_common_1783073391.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinkcompiler/simulinkcompiler_examples_common"
+                        ],
+                        "componentBaseName": [
+                            "simulinkcompiler/simulinkcompiler_examples"
+                        ],
+                        "componentFileName": [
+                            "simulinkcompiler/simulinkcompiler_examples_common_1779965849.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4934915"
+                        ],
+                        "uncompressedBytes": [
+                            "5051980"
+                        ],
+                        "version": [
+                            "1779965849"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/simulinkcompiler/simulinkcompiler_examples_common_1779965849.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinkcompiler_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "simulinkcompiler_licenses"
+                        ],
+                        "componentFileName": [
+                            "simulinkcompiler_licenses_common_1763621168.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "454"
+                        ],
+                        "uncompressedBytes": [
+                            "503"
+                        ],
+                        "version": [
+                            "1763621168"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/simulinkcompiler_licenses_common_1763621168.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SK"
+        ],
+        "productName": [
+            "Simulink Compiler"
+        ],
+        "productNumber": [
+            "174"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "CO"
+                        ],
+                        "productName": [
+                            "MATLAB Compiler"
+                        ],
+                        "productNumber": [
+                            "28"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

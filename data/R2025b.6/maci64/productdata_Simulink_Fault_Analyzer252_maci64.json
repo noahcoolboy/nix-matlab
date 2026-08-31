@@ -1,0 +1,634 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "alm/query_plugins/safety_query_plugins_maci64"
+                        ],
+                        "componentBaseName": [
+                            "alm/query_plugins/safety_query_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/query_plugins/safety_query_plugins_maci64_1783039660.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "39254"
+                        ],
+                        "uncompressedBytes": [
+                            "157124"
+                        ],
+                        "version": [
+                            "1783039660"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/alm/query_plugins/safety_query_plugins_maci64_1783039660.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/req_trace_plugins_maci64"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/req_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/req_trace_plugins_maci64_1783349716.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "226658"
+                        ],
+                        "uncompressedBytes": [
+                            "815086"
+                        ],
+                        "version": [
+                            "1783349716"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/alm/trace_plugins/req_trace_plugins_maci64_1783349716.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/safety_trace_plugins_maci64"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/safety_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/safety_trace_plugins_maci64_1783312018.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "123339"
+                        ],
+                        "uncompressedBytes": [
+                            "467940"
+                        ],
+                        "version": [
+                            "1783312018"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/alm/trace_plugins/safety_trace_plugins_maci64_1783312018.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/faultanalyzer_search_doc_en_maci64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/faultanalyzer_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/faultanalyzer_search_doc_en_maci64_1783445715.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28817"
+                        ],
+                        "uncompressedBytes": [
+                            "27961"
+                        ],
+                        "version": [
+                            "1783445715"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/buy/doc/faultanalyzer_search_doc_en_maci64_1783445715.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fault_dashboard_maci64"
+                        ],
+                        "componentBaseName": [
+                            "fault_dashboard"
+                        ],
+                        "componentFileName": [
+                            "fault_dashboard_maci64_1783312009.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "180748"
+                        ],
+                        "uncompressedBytes": [
+                            "735445"
+                        ],
+                        "version": [
+                            "1783312009"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/fault_dashboard_maci64_1783312009.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "faultinfo/plugin_maci64"
+                        ],
+                        "componentBaseName": [
+                            "faultinfo/plugin"
+                        ],
+                        "componentFileName": [
+                            "faultinfo/plugin_maci64_1783323514.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "59081"
+                        ],
+                        "uncompressedBytes": [
+                            "256040"
+                        ],
+                        "version": [
+                            "1783323514"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/faultinfo/plugin_maci64_1783323514.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_maci64"
+                        ],
+                        "componentBaseName": [
+                            "safety"
+                        ],
+                        "componentFileName": [
+                            "safety_maci64_1781548900.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10970"
+                        ],
+                        "uncompressedBytes": [
+                            "35157"
+                        ],
+                        "version": [
+                            "1781548900"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/safety_maci64_1781548900.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_core_maci64"
+                        ],
+                        "componentBaseName": [
+                            "safety_core"
+                        ],
+                        "componentFileName": [
+                            "safety_core_maci64_1783336873.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "81043"
+                        ],
+                        "uncompressedBytes": [
+                            "318769"
+                        ],
+                        "version": [
+                            "1783336873"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/safety_core_maci64_1783336873.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_customization_plugin_maci64"
+                        ],
+                        "componentBaseName": [
+                            "safety_customization_plugin"
+                        ],
+                        "componentFileName": [
+                            "safety_customization_plugin_maci64_1781278091.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17614"
+                        ],
+                        "uncompressedBytes": [
+                            "79774"
+                        ],
+                        "version": [
+                            "1781278091"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/safety_customization_plugin_maci64_1781278091.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_manager_maci64"
+                        ],
+                        "componentBaseName": [
+                            "safety_manager"
+                        ],
+                        "componentFileName": [
+                            "safety_manager_maci64_1783311443.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1222967"
+                        ],
+                        "uncompressedBytes": [
+                            "4605535"
+                        ],
+                        "version": [
+                            "1783311443"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/safety_manager_maci64_1783311443.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinktest_assessments_editor_maci64"
+                        ],
+                        "componentBaseName": [
+                            "simulinktest_assessments_editor"
+                        ],
+                        "componentFileName": [
+                            "simulinktest_assessments_editor_maci64_1781316908.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7138"
+                        ],
+                        "uncompressedBytes": [
+                            "35239"
+                        ],
+                        "version": [
+                            "1781316908"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/simulinktest_assessments_editor_maci64_1781316908.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maci64"
+        ],
+        "productBaseCode": [
+            "FA"
+        ],
+        "productName": [
+            "Simulink Fault Analyzer"
+        ],
+        "productNumber": [
+            "195"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

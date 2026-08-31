@@ -1,0 +1,526 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/fastdds_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/fastdds"
+                        ],
+                        "componentFileName": [
+                            "3p/fastdds_win64_1773682407.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7541111"
+                        ],
+                        "uncompressedBytes": [
+                            "29604388"
+                        ],
+                        "version": [
+                            "1773682407"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/3p/fastdds_win64_1773682407.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/adaptor_win64"
+                        ],
+                        "componentBaseName": [
+                            "dds/adaptor"
+                        ],
+                        "componentFileName": [
+                            "dds/adaptor_win64_1772906242.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15729"
+                        ],
+                        "uncompressedBytes": [
+                            "34132"
+                        ],
+                        "version": [
+                            "1772906242"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/dds/adaptor_win64_1772906242.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/toolstrip_win64"
+                        ],
+                        "componentBaseName": [
+                            "dds/toolstrip"
+                        ],
+                        "componentFileName": [
+                            "dds/toolstrip_win64_1772941117.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18643"
+                        ],
+                        "uncompressedBytes": [
+                            "38224"
+                        ],
+                        "version": [
+                            "1772941117"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/dds/toolstrip_win64_1772941117.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/common_blocks_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/common_blocks"
+                        ],
+                        "componentFileName": [
+                            "live/common_blocks_win64_1774282375.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "375365"
+                        ],
+                        "uncompressedBytes": [
+                            "1144161"
+                        ],
+                        "version": [
+                            "1774282375"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/live/common_blocks_win64_1774282375.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/common_mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/common_mcos"
+                        ],
+                        "componentFileName": [
+                            "live/common_mcos_win64_1772187123.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "902025"
+                        ],
+                        "uncompressedBytes": [
+                            "3402622"
+                        ],
+                        "version": [
+                            "1772187123"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/live/common_mcos_win64_1772187123.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/dds_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/dds"
+                        ],
+                        "componentFileName": [
+                            "live/dds_win64_1773710406.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1290382"
+                        ],
+                        "uncompressedBytes": [
+                            "4054577"
+                        ],
+                        "version": [
+                            "1773710406"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/live/dds_win64_1773710406.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/signal_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/signal"
+                        ],
+                        "componentFileName": [
+                            "live/signal_win64_1763674511.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "19000"
+                        ],
+                        "uncompressedBytes": [
+                            "36704"
+                        ],
+                        "version": [
+                            "1763674511"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/live/signal_win64_1763674511.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_interface_dict/platforms/dds_win64"
+                        ],
+                        "componentBaseName": [
+                            "sl_interface_dict/platforms/dds"
+                        ],
+                        "componentFileName": [
+                            "sl_interface_dict/platforms/dds_win64_1772888683.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "205948"
+                        ],
+                        "uncompressedBytes": [
+                            "559674"
+                        ],
+                        "version": [
+                            "1772888683"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sl_interface_dict/platforms/dds_win64_1772888683.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "toolstrip_coder_app_win64"
+                        ],
+                        "componentBaseName": [
+                            "toolstrip_coder_app"
+                        ],
+                        "componentFileName": [
+                            "toolstrip_coder_app_win64_1772809205.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28190"
+                        ],
+                        "uncompressedBytes": [
+                            "48482"
+                        ],
+                        "version": [
+                            "1772809205"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/toolstrip_coder_app_win64_1772809205.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "DD"
+        ],
+        "productName": [
+            "DDS Blockset"
+        ],
+        "productNumber": [
+            "190"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "serdes_maci64"
+                        ],
+                        "componentBaseName": [
+                            "serdes"
+                        ],
+                        "componentFileName": [
+                            "serdes_maci64_1754321986.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17319"
+                        ],
+                        "uncompressedBytes": [
+                            "92192"
+                        ],
+                        "version": [
+                            "1754321986"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/serdes_maci64_1754321986.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "serdes_plugin_maci64"
+                        ],
+                        "componentBaseName": [
+                            "serdes_plugin"
+                        ],
+                        "componentFileName": [
+                            "serdes_plugin_maci64_1771100911.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16669"
+                        ],
+                        "uncompressedBytes": [
+                            "78274"
+                        ],
+                        "version": [
+                            "1771100911"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/serdes_plugin_maci64_1771100911.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_msblks_measurement_maci64"
+                        ],
+                        "componentBaseName": [
+                            "shared_msblks_measurement"
+                        ],
+                        "componentFileName": [
+                            "shared_msblks_measurement_maci64_1781570573.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7078"
+                        ],
+                        "uncompressedBytes": [
+                            "35211"
+                        ],
+                        "version": [
+                            "1781570573"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_msblks_measurement_maci64_1781570573.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sleyediagram_maci64"
+                        ],
+                        "componentBaseName": [
+                            "shared_sleyediagram"
+                        ],
+                        "componentFileName": [
+                            "shared_sleyediagram_maci64_1783353100.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "224089"
+                        ],
+                        "uncompressedBytes": [
+                            "723258"
+                        ],
+                        "version": [
+                            "1783353100"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_sleyediagram_maci64_1783353100.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maci64"
+        ],
+        "productBaseCode": [
+            "SX"
+        ],
+        "productName": [
+            "SerDes Toolbox"
+        ],
+        "productNumber": [
+            "162"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "satcom_win64"
+                        ],
+                        "componentBaseName": [
+                            "satcom"
+                        ],
+                        "componentFileName": [
+                            "satcom_win64_1774431845.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "246956"
+                        ],
+                        "uncompressedBytes": [
+                            "458130"
+                        ],
+                        "version": [
+                            "1774431845"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/satcom_win64_1774431845.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_win64_1764915283.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "338038"
+                        ],
+                        "uncompressedBytes": [
+                            "671840"
+                        ],
+                        "version": [
+                            "1764915283"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_orbit_win64_1764915283.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "SI"
+        ],
+        "productName": [
+            "Satellite Communications Toolbox"
+        ],
+        "productNumber": [
+            "189"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

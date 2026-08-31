@@ -1,0 +1,562 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "bioinfo_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_common_1768257478.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3246131"
+                        ],
+                        "uncompressedBytes": [
+                            "6483968"
+                        ],
+                        "version": [
+                            "1768257478"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_common_1768257478.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bioinfo_data_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo_data"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_data_common_1763726805.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "113508585"
+                        ],
+                        "uncompressedBytes": [
+                            "226227818"
+                        ],
+                        "version": [
+                            "1763726805"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_data_common_1763726805.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bioinfo_igvjsapp_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo_igvjsapp"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_igvjsapp_common_1778535625.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2721959"
+                        ],
+                        "uncompressedBytes": [
+                            "7213200"
+                        ],
+                        "version": [
+                            "1778535625"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_igvjsapp_common_1778535625.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bioinfo_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo_licenses"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_licenses_common_1763621164.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "439"
+                        ],
+                        "uncompressedBytes": [
+                            "508"
+                        ],
+                        "version": [
+                            "1763621164"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_licenses_common_1763621164.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bioinfo_pipeline_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo_pipeline"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_pipeline_common_1763830165.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "199685"
+                        ],
+                        "uncompressedBytes": [
+                            "684116"
+                        ],
+                        "version": [
+                            "1763830165"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_pipeline_common_1763830165.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bioinfo_pipeline_app_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo_pipeline_app"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_pipeline_app_common_1779330139.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3475675"
+                        ],
+                        "uncompressedBytes": [
+                            "10556777"
+                        ],
+                        "version": [
+                            "1779330139"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_pipeline_app_common_1779330139.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "bioinfo_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "bioinfo_resources"
+                        ],
+                        "componentFileName": [
+                            "bioinfo_resources_common_1763727218.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "265430"
+                        ],
+                        "uncompressedBytes": [
+                            "397742"
+                        ],
+                        "version": [
+                            "1763727218"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/bioinfo_resources_common_1763727218.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/bioinfo_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/bioinfo_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/bioinfo_search_doc_en_common_1779932592.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "620961"
+                        ],
+                        "uncompressedBytes": [
+                            "1846697"
+                        ],
+                        "version": [
+                            "1779932592"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/bioinfo_search_doc_en_common_1779932592.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "BI"
+        ],
+        "productName": [
+            "Bioinformatics Toolbox"
+        ],
+        "productNumber": [
+            "83"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "ST"
+                        ],
+                        "productName": [
+                            "Statistics and Machine Learning Toolbox"
+                        ],
+                        "productNumber": [
+                            "19"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

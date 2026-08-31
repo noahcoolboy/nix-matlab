@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "shared/sim3d_content/Airport_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/Airport"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/Airport_win64_1773194395.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21202518"
+                        ],
+                        "uncompressedBytes": [
+                            "22454537"
+                        ],
+                        "version": [
+                            "1773194395"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sim3d_content/Airport_win64_1773194395.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_windows_win64"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_windows_win64_1773193105.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "288996130"
+                        ],
+                        "uncompressedBytes": [
+                            "565482942"
+                        ],
+                        "version": [
+                            "1773193105"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/automotive_project_windows_win64_1773193105.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "AIRPORT_3D_SCENE"
+        ],
+        "productName": [
+            "Airport Scene"
+        ],
+        "productNumber": [
+            "2345"
+        ],
+        "productType": [
+            "optionalFeature"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

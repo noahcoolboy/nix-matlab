@@ -1,0 +1,468 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/finance_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/finance_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/finance_search_doc_en_common_1779932627.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "585618"
+                        ],
+                        "uncompressedBytes": [
+                            "1765564"
+                        ],
+                        "version": [
+                            "1779932627"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/finance_search_doc_en_common_1779932627.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "finance_common"
+                        ],
+                        "componentBaseName": [
+                            "finance"
+                        ],
+                        "componentFileName": [
+                            "finance_common_1765014517.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2333580"
+                        ],
+                        "uncompressedBytes": [
+                            "5626270"
+                        ],
+                        "version": [
+                            "1765014517"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/finance_common_1765014517.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "finance_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "finance_licenses"
+                        ],
+                        "componentFileName": [
+                            "finance_licenses_common_1763621168.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "436"
+                        ],
+                        "uncompressedBytes": [
+                            "503"
+                        ],
+                        "version": [
+                            "1763621168"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/finance_licenses_common_1763621168.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "finance_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "finance_resources"
+                        ],
+                        "componentFileName": [
+                            "finance_resources_common_1763727223.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "268150"
+                        ],
+                        "uncompressedBytes": [
+                            "374918"
+                        ],
+                        "version": [
+                            "1763727223"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/finance_resources_common_1763727223.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "financelib_common"
+                        ],
+                        "componentBaseName": [
+                            "financelib"
+                        ],
+                        "componentFileName": [
+                            "financelib_common_1763834763.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "123951"
+                        ],
+                        "uncompressedBytes": [
+                            "188824"
+                        ],
+                        "version": [
+                            "1763834763"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/financelib_common_1763834763.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "financelib_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "financelib_resources"
+                        ],
+                        "componentFileName": [
+                            "financelib_resources_common_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1143"
+                        ],
+                        "uncompressedBytes": [
+                            "1276"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/financelib_resources_common_1763727199.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "FI"
+        ],
+        "productName": [
+            "Financial Toolbox"
+        ],
+        "productNumber": [
+            "30"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "OP"
+                        ],
+                        "productName": [
+                            "Optimization Toolbox"
+                        ],
+                        "productNumber": [
+                            "6"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "ST"
+                        ],
+                        "productName": [
+                            "Statistics and Machine Learning Toolbox"
+                        ],
+                        "productNumber": [
+                            "19"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

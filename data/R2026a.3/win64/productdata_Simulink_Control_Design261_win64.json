@@ -1,0 +1,256 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slcontrol_search_doc_en_win64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcontrol_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcontrol_search_doc_en_win64_1779932675.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "80486"
+                        ],
+                        "uncompressedBytes": [
+                            "82584"
+                        ],
+                        "version": [
+                            "1779932675"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/slcontrol_search_doc_en_win64_1779932675.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/slcontrollib/signal_injection_plugin_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/slcontrollib/signal_injection_plugin"
+                        ],
+                        "componentFileName": [
+                            "shared/slcontrollib/signal_injection_plugin_win64_1778573083.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "167106"
+                        ],
+                        "uncompressedBytes": [
+                            "488455"
+                        ],
+                        "version": [
+                            "1778573083"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared/slcontrollib/signal_injection_plugin_win64_1778573083.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_win64"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_win64_1779992236.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "32115"
+                        ],
+                        "uncompressedBytes": [
+                            "52152"
+                        ],
+                        "version": [
+                            "1779992236"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slcontrol_win64_1779992236.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_plugin_win64"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_plugin"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_plugin_win64_1771416644.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "36069"
+                        ],
+                        "uncompressedBytes": [
+                            "87901"
+                        ],
+                        "version": [
+                            "1771416644"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/slcontrol_plugin_win64_1771416644.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "SD"
+        ],
+        "productName": [
+            "Simulink Control Design"
+        ],
+        "productNumber": [
+            "85"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

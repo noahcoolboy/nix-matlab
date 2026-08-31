@@ -1,0 +1,688 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "autosar_services_maci64"
+                        ],
+                        "componentBaseName": [
+                            "autosar_services"
+                        ],
+                        "componentFileName": [
+                            "autosar_services_maci64_1761097652.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2014758"
+                        ],
+                        "uncompressedBytes": [
+                            "6913713"
+                        ],
+                        "version": [
+                            "1761097652"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/autosar_services_maci64_1761097652.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_shared_dictionary_maci64"
+                        ],
+                        "componentBaseName": [
+                            "autosar_shared_dictionary"
+                        ],
+                        "componentFileName": [
+                            "autosar_shared_dictionary_maci64_1761096512.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "115640"
+                        ],
+                        "uncompressedBytes": [
+                            "423291"
+                        ],
+                        "version": [
+                            "1761096512"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/autosar_shared_dictionary_maci64_1761096512.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/polyspace_autosar_maci64"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/polyspace_autosar"
+                        ],
+                        "componentFileName": [
+                            "polyspace/polyspace_autosar_maci64_1761221965.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6612398"
+                        ],
+                        "uncompressedBytes": [
+                            "21937541"
+                        ],
+                        "version": [
+                            "1761221965"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/polyspace/polyspace_autosar_maci64_1761221965.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/polyspace_code_prover_server_maci64"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/polyspace_code_prover_server"
+                        ],
+                        "componentFileName": [
+                            "polyspace/polyspace_code_prover_server_maci64_1754349350.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1528"
+                        ],
+                        "uncompressedBytes": [
+                            "2984"
+                        ],
+                        "version": [
+                            "1754349350"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/polyspace/polyspace_code_prover_server_maci64_1754349350.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/psprj_merger_maci64"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/psprj_merger"
+                        ],
+                        "componentFileName": [
+                            "polyspace/psprj_merger_maci64_1760734221.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "230547"
+                        ],
+                        "uncompressedBytes": [
+                            "656576"
+                        ],
+                        "version": [
+                            "1760734221"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/polyspace/psprj_merger_maci64_1760734221.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/shared/vvir_codeinsight_maci64"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/shared/vvir_codeinsight"
+                        ],
+                        "componentFileName": [
+                            "polyspace/shared/vvir_codeinsight_maci64_1760737770.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "463675"
+                        ],
+                        "uncompressedBytes": [
+                            "1889696"
+                        ],
+                        "version": [
+                            "1760737770"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/polyspace/shared/vvir_codeinsight_maci64_1760737770.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_cxxfe_codechecksum_maci64"
+                        ],
+                        "componentBaseName": [
+                            "shared_cxxfe_codechecksum"
+                        ],
+                        "componentFileName": [
+                            "shared_cxxfe_codechecksum_maci64_1756110292.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "160450"
+                        ],
+                        "uncompressedBytes": [
+                            "677248"
+                        ],
+                        "version": [
+                            "1756110292"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_cxxfe_codechecksum_maci64_1756110292.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_cxxfe_parser_mgr_maci64"
+                        ],
+                        "componentBaseName": [
+                            "shared_cxxfe_parser_mgr"
+                        ],
+                        "componentFileName": [
+                            "shared_cxxfe_parser_mgr_maci64_1753829181.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "156443"
+                        ],
+                        "uncompressedBytes": [
+                            "758736"
+                        ],
+                        "version": [
+                            "1753829181"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_cxxfe_parser_mgr_maci64_1753829181.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulink_metamodel_maci64"
+                        ],
+                        "componentBaseName": [
+                            "simulink_metamodel"
+                        ],
+                        "componentFileName": [
+                            "simulink_metamodel_maci64_1761096011.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13204849"
+                        ],
+                        "uncompressedBytes": [
+                            "66920664"
+                        ],
+                        "version": [
+                            "1761096011"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/simulink_metamodel_maci64_1761096011.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_data/mapping_maci64"
+                        ],
+                        "componentBaseName": [
+                            "sl_data/mapping"
+                        ],
+                        "componentFileName": [
+                            "sl_data/mapping_maci64_1760757813.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "230277"
+                        ],
+                        "uncompressedBytes": [
+                            "790996"
+                        ],
+                        "version": [
+                            "1760757813"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/sl_data/mapping_maci64_1760757813.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_data/serialization_maci64"
+                        ],
+                        "componentBaseName": [
+                            "sl_data/serialization"
+                        ],
+                        "componentFileName": [
+                            "sl_data/serialization_maci64_1761091580.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "302853"
+                        ],
+                        "uncompressedBytes": [
+                            "1085628"
+                        ],
+                        "version": [
+                            "1761091580"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/sl_data/serialization_maci64_1761091580.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sldd/mapping_maci64"
+                        ],
+                        "componentBaseName": [
+                            "sldd/mapping"
+                        ],
+                        "componentFileName": [
+                            "sldd/mapping_maci64_1761091579.enc"
+                        ],
+                        "contentType": [
+                            "maci64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maci64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "166643"
+                        ],
+                        "uncompressedBytes": [
+                            "611560"
+                        ],
+                        "version": [
+                            "1761091579"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/sldd/mapping_maci64_1761091579.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maci64"
+        ],
+        "productBaseCode": [
+            "CS"
+        ],
+        "productName": [
+            "Polyspace Code Prover Server"
+        ],
+        "productNumber": [
+            "167"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

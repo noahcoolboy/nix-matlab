@@ -1,0 +1,256 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "wt/fpga_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/fpga"
+                        ],
+                        "componentFileName": [
+                            "wt/fpga_glnxa64_1755817751.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13241"
+                        ],
+                        "uncompressedBytes": [
+                            "21517"
+                        ],
+                        "version": [
+                            "1755817751"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/wt/fpga_glnxa64_1755817751.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wt/host_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/host"
+                        ],
+                        "componentFileName": [
+                            "wt/host_glnxa64_1755895035.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "390007"
+                        ],
+                        "uncompressedBytes": [
+                            "1267029"
+                        ],
+                        "version": [
+                            "1755895035"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/wt/host_glnxa64_1755895035.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wt/host/utils_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "wt/host/utils"
+                        ],
+                        "componentFileName": [
+                            "wt/host/utils_glnxa64_1755966884.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "280493"
+                        ],
+                        "uncompressedBytes": [
+                            "1108436"
+                        ],
+                        "version": [
+                            "1755966884"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/wt/host/utils_glnxa64_1755966884.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "yaml2json_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "yaml2json"
+                        ],
+                        "componentFileName": [
+                            "yaml2json_glnxa64_1755764847.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2098862"
+                        ],
+                        "uncompressedBytes": [
+                            "3584792"
+                        ],
+                        "version": [
+                            "1755764847"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/yaml2json_glnxa64_1755764847.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "WB"
+        ],
+        "productName": [
+            "Wireless Testbench"
+        ],
+        "productNumber": [
+            "191"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

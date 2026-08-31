@@ -1,0 +1,1189 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "autosar_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar"
+                        ],
+                        "componentFileName": [
+                            "autosar_common_1776102067.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13460138"
+                        ],
+                        "uncompressedBytes": [
+                            "107255820"
+                        ],
+                        "version": [
+                            "1776102067"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_common_1776102067.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar/blocks/bsw_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar/blocks/bsw"
+                        ],
+                        "componentFileName": [
+                            "autosar/blocks/bsw_common_1764117928.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17961"
+                        ],
+                        "uncompressedBytes": [
+                            "15514"
+                        ],
+                        "version": [
+                            "1764117928"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar/blocks/bsw_common_1764117928.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar/blocks/services_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar/blocks/services"
+                        ],
+                        "componentFileName": [
+                            "autosar/blocks/services_common_1763774942.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1969"
+                        ],
+                        "uncompressedBytes": [
+                            "1518"
+                        ],
+                        "version": [
+                            "1763774942"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar/blocks/services_common_1763774942.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar/foundation_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar/foundation"
+                        ],
+                        "componentFileName": [
+                            "autosar/foundation_common_1770022675.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "32435"
+                        ],
+                        "uncompressedBytes": [
+                            "23881"
+                        ],
+                        "version": [
+                            "1770022675"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar/foundation_common_1770022675.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar/templates/codegen_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar/templates/codegen"
+                        ],
+                        "componentFileName": [
+                            "autosar/templates/codegen_common_1763803745.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1152"
+                        ],
+                        "uncompressedBytes": [
+                            "2170"
+                        ],
+                        "version": [
+                            "1763803745"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar/templates/codegen_common_1763803745.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar/variants_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar/variants"
+                        ],
+                        "componentFileName": [
+                            "autosar/variants_common_1764117235.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20321"
+                        ],
+                        "uncompressedBytes": [
+                            "17094"
+                        ],
+                        "version": [
+                            "1764117235"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar/variants_common_1764117235.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_architecture_toolstrip_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar_architecture_toolstrip"
+                        ],
+                        "componentFileName": [
+                            "autosar_architecture_toolstrip_common_1763826121.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "103573"
+                        ],
+                        "uncompressedBytes": [
+                            "128484"
+                        ],
+                        "version": [
+                            "1763826121"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_architecture_toolstrip_common_1763826121.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_routines_library_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar_routines_library"
+                        ],
+                        "componentFileName": [
+                            "autosar_routines_library_common_1763731528.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8898"
+                        ],
+                        "uncompressedBytes": [
+                            "181607"
+                        ],
+                        "version": [
+                            "1763731528"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_routines_library_common_1763731528.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_templates_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar_templates"
+                        ],
+                        "componentFileName": [
+                            "autosar_templates_common_1767772678.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "164749"
+                        ],
+                        "uncompressedBytes": [
+                            "165865"
+                        ],
+                        "version": [
+                            "1767772678"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_templates_common_1767772678.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_templates_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar_templates_resources"
+                        ],
+                        "componentFileName": [
+                            "autosar_templates_resources_common_1763727227.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1807"
+                        ],
+                        "uncompressedBytes": [
+                            "2162"
+                        ],
+                        "version": [
+                            "1763727227"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_templates_resources_common_1763727227.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_templates_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "autosar_templates_resources"
+                        ],
+                        "componentFileName": [
+                            "autosar_templates_resources_ja_JP_1763727227.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2503"
+                        ],
+                        "uncompressedBytes": [
+                            "3043"
+                        ],
+                        "version": [
+                            "1763727227"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_templates_resources_ja_JP_1763727227.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_templates_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "autosar_templates_resources"
+                        ],
+                        "componentFileName": [
+                            "autosar_templates_resources_zh_CN_1763727228.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2266"
+                        ],
+                        "uncompressedBytes": [
+                            "2179"
+                        ],
+                        "version": [
+                            "1763727228"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosar_templates_resources_zh_CN_1763727228.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosarblockset_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "autosarblockset_licenses"
+                        ],
+                        "componentFileName": [
+                            "autosarblockset_licenses_common_1763621164.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "458"
+                        ],
+                        "uncompressedBytes": [
+                            "502"
+                        ],
+                        "version": [
+                            "1763621164"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/autosarblockset_licenses_common_1763621164.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/autosarblockset_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/autosarblockset_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/autosarblockset_search_doc_en_common_1776690409.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "184927"
+                        ],
+                        "uncompressedBytes": [
+                            "644735"
+                        ],
+                        "version": [
+                            "1776690409"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/buy/doc/autosarblockset_search_doc_en_common_1776690409.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_types_mi_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_types_mi"
+                        ],
+                        "componentFileName": [
+                            "sl_types_mi_common_1764039676.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1186"
+                        ],
+                        "uncompressedBytes": [
+                            "754"
+                        ],
+                        "version": [
+                            "1764039676"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/sl_types_mi_common_1764039676.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_types_mi_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_types_mi_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_types_mi_resources_common_1763727190.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "631"
+                        ],
+                        "uncompressedBytes": [
+                            "820"
+                        ],
+                        "version": [
+                            "1763727190"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/sl_types_mi_resources_common_1763727190.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_types_mi_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "sl_types_mi_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_types_mi_resources_ja_JP_1763727191.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "750"
+                        ],
+                        "uncompressedBytes": [
+                            "911"
+                        ],
+                        "version": [
+                            "1763727191"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/sl_types_mi_resources_ja_JP_1763727191.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "timer_module_common"
+                        ],
+                        "componentBaseName": [
+                            "timer_module"
+                        ],
+                        "componentFileName": [
+                            "timer_module_common_1763728851.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10077"
+                        ],
+                        "uncompressedBytes": [
+                            "21988"
+                        ],
+                        "version": [
+                            "1763728851"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/timer_module_common_1763728851.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "toolstrip_coder_app_common"
+                        ],
+                        "componentBaseName": [
+                            "toolstrip_coder_app"
+                        ],
+                        "componentFileName": [
+                            "toolstrip_coder_app_common_1763826745.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1172540"
+                        ],
+                        "uncompressedBytes": [
+                            "1459919"
+                        ],
+                        "version": [
+                            "1763826745"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/toolstrip_coder_app_common_1763826745.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "AS"
+        ],
+        "productName": [
+            "AUTOSAR Blockset"
+        ],
+        "productNumber": [
+            "170"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

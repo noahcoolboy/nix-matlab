@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "satcom_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "satcom"
+                        ],
+                        "componentFileName": [
+                            "satcom_glnxa64_1779959353.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "219584"
+                        ],
+                        "uncompressedBytes": [
+                            "405667"
+                        ],
+                        "version": [
+                            "1779959353"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/satcom_glnxa64_1779959353.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_glnxa64_1776089256.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "300599"
+                        ],
+                        "uncompressedBytes": [
+                            "593104"
+                        ],
+                        "version": [
+                            "1776089256"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_orbit_glnxa64_1776089256.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "SI"
+        ],
+        "productName": [
+            "Satellite Communications Toolbox"
+        ],
+        "productNumber": [
+            "189"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

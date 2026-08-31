@@ -1,0 +1,256 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slcontrol_search_doc_en_maca64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcontrol_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcontrol_search_doc_en_maca64_1760617652.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86580"
+                        ],
+                        "uncompressedBytes": [
+                            "87164"
+                        ],
+                        "version": [
+                            "1760617652"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/buy/doc/slcontrol_search_doc_en_maca64_1760617652.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/slcontrollib/signal_injection_plugin_maca64"
+                        ],
+                        "componentBaseName": [
+                            "shared/slcontrollib/signal_injection_plugin"
+                        ],
+                        "componentFileName": [
+                            "shared/slcontrollib/signal_injection_plugin_maca64_1761253360.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "90353"
+                        ],
+                        "uncompressedBytes": [
+                            "285482"
+                        ],
+                        "version": [
+                            "1761253360"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared/slcontrollib/signal_injection_plugin_maca64_1761253360.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_maca64"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_maca64_1761257859.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17597"
+                        ],
+                        "uncompressedBytes": [
+                            "70302"
+                        ],
+                        "version": [
+                            "1761257859"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/slcontrol_maca64_1761257859.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_plugin_maca64"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_plugin"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_plugin_maca64_1761112825.enc"
+                        ],
+                        "contentType": [
+                            "maca64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "maca64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15403"
+                        ],
+                        "uncompressedBytes": [
+                            "74392"
+                        ],
+                        "version": [
+                            "1761112825"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/slcontrol_plugin_maca64_1761112825.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "maca64"
+        ],
+        "productBaseCode": [
+            "SD"
+        ],
+        "productName": [
+            "Simulink Control Design"
+        ],
+        "productNumber": [
+            "85"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

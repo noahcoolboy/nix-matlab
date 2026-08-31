@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "shared/sim3d_content/Airport_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/Airport"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/Airport_glnxa64_1765959639.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21914357"
+                        ],
+                        "uncompressedBytes": [
+                            "22875335"
+                        ],
+                        "version": [
+                            "1765959639"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/shared/sim3d_content/Airport_glnxa64_1765959639.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_linux_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_linux_glnxa64_1765958885.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "221839906"
+                        ],
+                        "uncompressedBytes": [
+                            "439821265"
+                        ],
+                        "version": [
+                            "1765958885"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/sim3d_projects/automotive_project_linux_glnxa64_1765958885.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "AIRPORT_3D_SCENE"
+        ],
+        "productName": [
+            "Airport Scene"
+        ],
+        "productNumber": [
+            "2345"
+        ],
+        "productType": [
+            "optionalFeature"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

@@ -1,0 +1,599 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/symbolic_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/symbolic_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/symbolic_search_doc_en_common_1774388281.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "397344"
+                        ],
+                        "uncompressedBytes": [
+                            "1198032"
+                        ],
+                        "version": [
+                            "1774388281"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/buy/doc/symbolic_search_doc_en_common_1774388281.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic"
+                        ],
+                        "componentFileName": [
+                            "symbolic_common_1763834818.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "420108"
+                        ],
+                        "uncompressedBytes": [
+                            "846187"
+                        ],
+                        "version": [
+                            "1763834818"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic_common_1763834818.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/mupad/library_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/mupad/library"
+                        ],
+                        "componentFileName": [
+                            "symbolic/mupad/library_common_1766135660.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6176652"
+                        ],
+                        "uncompressedBytes": [
+                            "54988800"
+                        ],
+                        "version": [
+                            "1766135660"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic/mupad/library_common_1766135660.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_common_1763727235.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "112104"
+                        ],
+                        "uncompressedBytes": [
+                            "278053"
+                        ],
+                        "version": [
+                            "1763727235"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic/resources_common_1763727235.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_ja_JP_1763727241.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "87848"
+                        ],
+                        "uncompressedBytes": [
+                            "132044"
+                        ],
+                        "version": [
+                            "1763727241"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic/resources_ja_JP_1763727241.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_ko_KR_1763727247.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86261"
+                        ],
+                        "uncompressedBytes": [
+                            "127031"
+                        ],
+                        "version": [
+                            "1763727247"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic/resources_ko_KR_1763727247.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_zh_CN_1773184169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "79491"
+                        ],
+                        "uncompressedBytes": [
+                            "113739"
+                        ],
+                        "version": [
+                            "1773184169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic/resources_zh_CN_1773184169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/tasks_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/tasks"
+                        ],
+                        "componentFileName": [
+                            "symbolic/tasks_common_1763620297.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9834"
+                        ],
+                        "uncompressedBytes": [
+                            "53133"
+                        ],
+                        "version": [
+                            "1763620297"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic/tasks_common_1763620297.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic_licenses"
+                        ],
+                        "componentFileName": [
+                            "symbolic_licenses_common_1763621175.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "438"
+                        ],
+                        "uncompressedBytes": [
+                            "507"
+                        ],
+                        "version": [
+                            "1763621175"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/symbolic_licenses_common_1763621175.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SM"
+        ],
+        "productName": [
+            "Symbolic Math Toolbox"
+        ],
+        "productNumber": [
+            "15"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,619 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/globaloptim_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/globaloptim_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/globaloptim_search_doc_en_common_1776690451.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "56174"
+                        ],
+                        "uncompressedBytes": [
+                            "147861"
+                        ],
+                        "version": [
+                            "1776690451"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/buy/doc/globaloptim_search_doc_en_common_1776690451.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "globaloptim_common"
+                        ],
+                        "componentBaseName": [
+                            "globaloptim"
+                        ],
+                        "componentFileName": [
+                            "globaloptim_common_1767737999.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "577411"
+                        ],
+                        "uncompressedBytes": [
+                            "1398727"
+                        ],
+                        "version": [
+                            "1767737999"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/globaloptim_common_1767737999.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "globaloptim_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "globaloptim_licenses"
+                        ],
+                        "componentFileName": [
+                            "globaloptim_licenses_common_1763621168.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "436"
+                        ],
+                        "uncompressedBytes": [
+                            "513"
+                        ],
+                        "version": [
+                            "1763621168"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/globaloptim_licenses_common_1763621168.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "globaloptim_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "globaloptim_resources"
+                        ],
+                        "componentFileName": [
+                            "globaloptim_resources_common_1763727204.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "58748"
+                        ],
+                        "uncompressedBytes": [
+                            "110203"
+                        ],
+                        "version": [
+                            "1763727204"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/globaloptim_resources_common_1763727204.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "globaloptim_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "globaloptim_resources"
+                        ],
+                        "componentFileName": [
+                            "globaloptim_resources_ja_JP_1763727208.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "75621"
+                        ],
+                        "uncompressedBytes": [
+                            "121669"
+                        ],
+                        "version": [
+                            "1763727208"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/globaloptim_resources_ja_JP_1763727208.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "globaloptim_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "globaloptim_resources"
+                        ],
+                        "componentFileName": [
+                            "globaloptim_resources_ko_KR_1763727216.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "74319"
+                        ],
+                        "uncompressedBytes": [
+                            "118119"
+                        ],
+                        "version": [
+                            "1763727216"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/globaloptim_resources_ko_KR_1763727216.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "globaloptim_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "globaloptim_resources"
+                        ],
+                        "componentFileName": [
+                            "globaloptim_resources_zh_CN_1765326875.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "70768"
+                        ],
+                        "uncompressedBytes": [
+                            "107272"
+                        ],
+                        "version": [
+                            "1765326875"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/globaloptim_resources_zh_CN_1765326875.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_surrogatelib_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_surrogatelib"
+                        ],
+                        "componentFileName": [
+                            "shared_surrogatelib_common_1763834763.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6050"
+                        ],
+                        "uncompressedBytes": [
+                            "5061"
+                        ],
+                        "version": [
+                            "1763834763"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_surrogatelib_common_1763834763.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_surrogatelib_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_surrogatelib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_surrogatelib_resources_common_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2643"
+                        ],
+                        "uncompressedBytes": [
+                            "6505"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_surrogatelib_resources_common_1763727199.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "GD"
+        ],
+        "productName": [
+            "Global Optimization Toolbox"
+        ],
+        "productNumber": [
+            "90"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "OP"
+                        ],
+                        "productName": [
+                            "Optimization Toolbox"
+                        ],
+                        "productNumber": [
+                            "6"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1018 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/adobe_glyph_list_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/adobe_glyph_list"
+                        ],
+                        "componentFileName": [
+                            "3p/adobe_glyph_list_common_1753741186.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1092"
+                        ],
+                        "uncompressedBytes": [
+                            "1793"
+                        ],
+                        "version": [
+                            "1753741186"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/adobe_glyph_list_common_1753741186.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/hunspell-dict-de_de_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/hunspell-dict-de_de"
+                        ],
+                        "componentFileName": [
+                            "3p/hunspell-dict-de_de_common_1753741198.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2601800"
+                        ],
+                        "uncompressedBytes": [
+                            "10098300"
+                        ],
+                        "version": [
+                            "1753741198"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/hunspell-dict-de_de_common_1753741198.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/hunspell-dict-ko_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/hunspell-dict-ko"
+                        ],
+                        "componentFileName": [
+                            "3p/hunspell-dict-ko_common_1753741199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1221763"
+                        ],
+                        "uncompressedBytes": [
+                            "17009825"
+                        ],
+                        "version": [
+                            "1753741199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/hunspell-dict-ko_common_1753741199.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/mecab-ipadic_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/mecab-ipadic"
+                        ],
+                        "componentFileName": [
+                            "3p/mecab-ipadic_common_1753741346.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13441103"
+                        ],
+                        "uncompressedBytes": [
+                            "53054949"
+                        ],
+                        "version": [
+                            "1753741346"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/mecab-ipadic_common_1753741346.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/mecab-ko-dic_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/mecab-ko-dic"
+                        ],
+                        "componentFileName": [
+                            "3p/mecab-ko-dic_common_1753741352.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "34250006"
+                        ],
+                        "uncompressedBytes": [
+                            "112202017"
+                        ],
+                        "version": [
+                            "1753741352"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/mecab-ko-dic_common_1753741352.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/slothlib_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/slothlib"
+                        ],
+                        "componentFileName": [
+                            "3p/slothlib_common_1753741214.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2539"
+                        ],
+                        "uncompressedBytes": [
+                            "4560"
+                        ],
+                        "version": [
+                            "1753741214"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/slothlib_common_1753741214.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/stopwords-ko_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/stopwords-ko"
+                        ],
+                        "componentFileName": [
+                            "3p/stopwords-ko_common_1753741215.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3927"
+                        ],
+                        "uncompressedBytes": [
+                            "7611"
+                        ],
+                        "version": [
+                            "1753741215"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/stopwords-ko_common_1753741215.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/wordnet-data_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/wordnet-data"
+                        ],
+                        "componentFileName": [
+                            "3p/wordnet-data_common_1753741222.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "687871"
+                        ],
+                        "uncompressedBytes": [
+                            "2014949"
+                        ],
+                        "version": [
+                            "1753741222"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/wordnet-data_common_1753741222.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/textanalytics_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/textanalytics_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/textanalytics_search_doc_en_common_1760617661.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "200917"
+                        ],
+                        "uncompressedBytes": [
+                            "616557"
+                        ],
+                        "version": [
+                            "1760617661"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/buy/doc/textanalytics_search_doc_en_common_1760617661.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics_common"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics"
+                        ],
+                        "componentFileName": [
+                            "textanalytics_common_1753975643.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13869405"
+                        ],
+                        "uncompressedBytes": [
+                            "14667566"
+                        ],
+                        "version": [
+                            "1753975643"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics_common_1753975643.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics/resources_common"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics/resources"
+                        ],
+                        "componentFileName": [
+                            "textanalytics/resources_common_1753785349.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "29915"
+                        ],
+                        "uncompressedBytes": [
+                            "54496"
+                        ],
+                        "version": [
+                            "1753785349"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics/resources_common_1753785349.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics/resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics/resources"
+                        ],
+                        "componentFileName": [
+                            "textanalytics/resources_ja_JP_1753785351.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37378"
+                        ],
+                        "uncompressedBytes": [
+                            "64043"
+                        ],
+                        "version": [
+                            "1753785351"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics/resources_ja_JP_1753785351.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics/resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics/resources"
+                        ],
+                        "componentFileName": [
+                            "textanalytics/resources_ko_KR_1753785353.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "36865"
+                        ],
+                        "uncompressedBytes": [
+                            "61373"
+                        ],
+                        "version": [
+                            "1753785353"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics/resources_ko_KR_1753785353.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics_bert_common"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics_bert"
+                        ],
+                        "componentFileName": [
+                            "textanalytics_bert_common_1753890847.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "26750"
+                        ],
+                        "uncompressedBytes": [
+                            "63399"
+                        ],
+                        "version": [
+                            "1753890847"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics_bert_common_1753890847.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics_licenses"
+                        ],
+                        "componentFileName": [
+                            "textanalytics_licenses_common_1753784802.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21117"
+                        ],
+                        "uncompressedBytes": [
+                            "68118"
+                        ],
+                        "version": [
+                            "1753784802"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics_licenses_common_1753784802.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "textanalytics_livetasks_common"
+                        ],
+                        "componentBaseName": [
+                            "textanalytics_livetasks"
+                        ],
+                        "componentFileName": [
+                            "textanalytics_livetasks_common_1753975655.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10019"
+                        ],
+                        "uncompressedBytes": [
+                            "40542"
+                        ],
+                        "version": [
+                            "1753975655"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/textanalytics_livetasks_common_1753975655.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "TA"
+        ],
+        "productName": [
+            "Text Analytics Toolbox"
+        ],
+        "productNumber": [
+            "156"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "ST"
+                        ],
+                        "productName": [
+                            "Statistics and Machine Learning Toolbox"
+                        ],
+                        "productNumber": [
+                            "19"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,742 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/cudd_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "3p/cudd"
+                        ],
+                        "componentFileName": [
+                            "3p/cudd_glnxa64_1763621094.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "389005"
+                        ],
+                        "uncompressedBytes": [
+                            "950646"
+                        ],
+                        "version": [
+                            "1763621094"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/3p/cudd_glnxa64_1763621094.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/query_plugins/safety_query_plugins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "alm/query_plugins/safety_query_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/query_plugins/safety_query_plugins_glnxa64_1774121648.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "68087"
+                        ],
+                        "uncompressedBytes": [
+                            "167290"
+                        ],
+                        "version": [
+                            "1774121648"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/alm/query_plugins/safety_query_plugins_glnxa64_1774121648.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/req_trace_plugins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/req_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/req_trace_plugins_glnxa64_1774391092.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "317565"
+                        ],
+                        "uncompressedBytes": [
+                            "1082764"
+                        ],
+                        "version": [
+                            "1774391092"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/alm/trace_plugins/req_trace_plugins_glnxa64_1774391092.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/safety_trace_plugins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/safety_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/safety_trace_plugins_glnxa64_1774123571.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "181109"
+                        ],
+                        "uncompressedBytes": [
+                            "625170"
+                        ],
+                        "version": [
+                            "1774123571"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/alm/trace_plugins/safety_trace_plugins_glnxa64_1774123571.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/faultanalyzer_search_doc_en_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/faultanalyzer_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/faultanalyzer_search_doc_en_glnxa64_1774388228.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28572"
+                        ],
+                        "uncompressedBytes": [
+                            "27658"
+                        ],
+                        "version": [
+                            "1774388228"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/buy/doc/faultanalyzer_search_doc_en_glnxa64_1774388228.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fault_dashboard_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "fault_dashboard"
+                        ],
+                        "componentFileName": [
+                            "fault_dashboard_glnxa64_1772762804.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "271227"
+                        ],
+                        "uncompressedBytes": [
+                            "748023"
+                        ],
+                        "version": [
+                            "1772762804"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/fault_dashboard_glnxa64_1772762804.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fault_diagrams_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "fault_diagrams"
+                        ],
+                        "componentFileName": [
+                            "fault_diagrams_glnxa64_1772750642.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "55471"
+                        ],
+                        "uncompressedBytes": [
+                            "109891"
+                        ],
+                        "version": [
+                            "1772750642"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/fault_diagrams_glnxa64_1772750642.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "faultinfo/plugin_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "faultinfo/plugin"
+                        ],
+                        "componentFileName": [
+                            "faultinfo/plugin_glnxa64_1774125404.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "80700"
+                        ],
+                        "uncompressedBytes": [
+                            "241982"
+                        ],
+                        "version": [
+                            "1774125404"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/faultinfo/plugin_glnxa64_1774125404.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "safety"
+                        ],
+                        "componentFileName": [
+                            "safety_glnxa64_1772777591.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17335"
+                        ],
+                        "uncompressedBytes": [
+                            "26531"
+                        ],
+                        "version": [
+                            "1772777591"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/safety_glnxa64_1772777591.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_core_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "safety_core"
+                        ],
+                        "componentFileName": [
+                            "safety_core_glnxa64_1774129326.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "122528"
+                        ],
+                        "uncompressedBytes": [
+                            "323119"
+                        ],
+                        "version": [
+                            "1774129326"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/safety_core_glnxa64_1774129326.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_customization_plugin_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "safety_customization_plugin"
+                        ],
+                        "componentFileName": [
+                            "safety_customization_plugin_glnxa64_1772735206.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "26319"
+                        ],
+                        "uncompressedBytes": [
+                            "55340"
+                        ],
+                        "version": [
+                            "1772735206"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/safety_customization_plugin_glnxa64_1772735206.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "safety_manager_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "safety_manager"
+                        ],
+                        "componentFileName": [
+                            "safety_manager_glnxa64_1773679468.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2759850"
+                        ],
+                        "uncompressedBytes": [
+                            "9735551"
+                        ],
+                        "version": [
+                            "1773679468"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/safety_manager_glnxa64_1773679468.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulinktest_assessments_editor_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "simulinktest_assessments_editor"
+                        ],
+                        "componentFileName": [
+                            "simulinktest_assessments_editor_glnxa64_1772751529.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13429"
+                        ],
+                        "uncompressedBytes": [
+                            "21693"
+                        ],
+                        "version": [
+                            "1772751529"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/simulinktest_assessments_editor_glnxa64_1772751529.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "FA"
+        ],
+        "productName": [
+            "Simulink Fault Analyzer"
+        ],
+        "productNumber": [
+            "195"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

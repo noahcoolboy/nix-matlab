@@ -1,0 +1,514 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "matlab_license_common"
+                        ],
+                        "componentBaseName": [
+                            "matlab_license"
+                        ],
+                        "componentFileName": [
+                            "matlab_license_common_1769684209.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "646681"
+                        ],
+                        "uncompressedBytes": [
+                            "758213"
+                        ],
+                        "version": [
+                            "1769684209"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/matlab_license_common_1769684209.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_custom_project_linux_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_custom_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_custom_project_linux_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "343"
+                        ],
+                        "uncompressedBytes": [
+                            "138"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/sim3d_projects/automotive_custom_project_linux_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_custom_project_windows_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_custom_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_custom_project_windows_common_1763726754.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "349"
+                        ],
+                        "uncompressedBytes": [
+                            "142"
+                        ],
+                        "version": [
+                            "1763726754"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/sim3d_projects/automotive_custom_project_windows_common_1763726754.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_linux_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_linux_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "323"
+                        ],
+                        "uncompressedBytes": [
+                            "124"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/sim3d_projects/automotive_project_linux_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_windows_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_windows_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "329"
+                        ],
+                        "uncompressedBytes": [
+                            "128"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/sim3d_projects/automotive_project_windows_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/spkg_plugins_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/spkg_plugins"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/spkg_plugins_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "292"
+                        ],
+                        "uncompressedBytes": [
+                            "97"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/sim3d_projects/spkg_plugins_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/spkg_project_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/spkg_project"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/spkg_project_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "286"
+                        ],
+                        "uncompressedBytes": [
+                            "97"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/sim3d_projects/spkg_project_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "version_info_common"
+                        ],
+                        "componentBaseName": [
+                            "version_info"
+                        ],
+                        "componentFileName": [
+                            "version_info_common_1778019652.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "338"
+                        ],
+                        "uncompressedBytes": [
+                            "310"
+                        ],
+                        "version": [
+                            "1778019652"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/version_info_common_1778019652.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "US_HIGHWAY_3D_SCENE"
+        ],
+        "productName": [
+            "US Highway Scene"
+        ],
+        "productNumber": [
+            "2342"
+        ],
+        "productType": [
+            "optionalFeature"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            ""
+        ]
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/symbolic_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/symbolic_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/symbolic_search_doc_en_common_1771950894.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "383616"
+                        ],
+                        "uncompressedBytes": [
+                            "1181304"
+                        ],
+                        "version": [
+                            "1771950894"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/buy/doc/symbolic_search_doc_en_common_1771950894.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic"
+                        ],
+                        "componentFileName": [
+                            "symbolic_common_1760845657.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "513286"
+                        ],
+                        "uncompressedBytes": [
+                            "1161655"
+                        ],
+                        "version": [
+                            "1760845657"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic_common_1760845657.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/mupad/library_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/mupad/library"
+                        ],
+                        "componentFileName": [
+                            "symbolic/mupad/library_common_1765213609.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6164141"
+                        ],
+                        "uncompressedBytes": [
+                            "54978560"
+                        ],
+                        "version": [
+                            "1765213609"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic/mupad/library_common_1765213609.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_common_1753785395.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "112132"
+                        ],
+                        "uncompressedBytes": [
+                            "278070"
+                        ],
+                        "version": [
+                            "1753785395"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic/resources_common_1753785395.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_ja_JP_1753785400.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "88123"
+                        ],
+                        "uncompressedBytes": [
+                            "132113"
+                        ],
+                        "version": [
+                            "1753785400"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic/resources_ja_JP_1753785400.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/resources"
+                        ],
+                        "componentFileName": [
+                            "symbolic/resources_ko_KR_1753785405.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86566"
+                        ],
+                        "uncompressedBytes": [
+                            "127101"
+                        ],
+                        "version": [
+                            "1753785405"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic/resources_ko_KR_1753785405.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic/tasks_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic/tasks"
+                        ],
+                        "componentFileName": [
+                            "symbolic/tasks_common_1753784172.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14720"
+                        ],
+                        "uncompressedBytes": [
+                            "56368"
+                        ],
+                        "version": [
+                            "1753784172"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic/tasks_common_1753784172.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "symbolic_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "symbolic_licenses"
+                        ],
+                        "componentFileName": [
+                            "symbolic_licenses_common_1753784801.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "438"
+                        ],
+                        "uncompressedBytes": [
+                            "507"
+                        ],
+                        "version": [
+                            "1753784801"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/5/licensed_software/components/complete/symbolic_licenses_common_1753784801.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SM"
+        ],
+        "productName": [
+            "Symbolic Math Toolbox"
+        ],
+        "productNumber": [
+            "15"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

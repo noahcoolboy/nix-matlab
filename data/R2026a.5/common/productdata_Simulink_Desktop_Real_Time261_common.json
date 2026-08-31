@@ -1,0 +1,448 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/sldrt_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/sldrt_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/sldrt_search_doc_en_common_1785767772.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "43145"
+                        ],
+                        "uncompressedBytes": [
+                            "202145"
+                        ],
+                        "version": [
+                            "1785767772"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/buy/doc/sldrt_search_doc_en_common_1785767772.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sldrt_clang_common"
+                        ],
+                        "componentBaseName": [
+                            "sldrt_clang"
+                        ],
+                        "componentFileName": [
+                            "sldrt_clang_common_1763726877.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3327080"
+                        ],
+                        "uncompressedBytes": [
+                            "23755032"
+                        ],
+                        "version": [
+                            "1763726877"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/sldrt_clang_common_1763726877.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sldrt_lib_common"
+                        ],
+                        "componentBaseName": [
+                            "sldrt_lib"
+                        ],
+                        "componentFileName": [
+                            "sldrt_lib_common_1785394297.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "55165"
+                        ],
+                        "uncompressedBytes": [
+                            "181480"
+                        ],
+                        "version": [
+                            "1785394297"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/sldrt_lib_common_1785394297.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sldrt_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "sldrt_licenses"
+                        ],
+                        "componentFileName": [
+                            "sldrt_licenses_common_1763621175.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5606"
+                        ],
+                        "uncompressedBytes": [
+                            "15729"
+                        ],
+                        "version": [
+                            "1763621175"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/sldrt_licenses_common_1763621175.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sldrt_sli_common"
+                        ],
+                        "componentBaseName": [
+                            "sldrt_sli"
+                        ],
+                        "componentFileName": [
+                            "sldrt_sli_common_1785401853.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "680992"
+                        ],
+                        "uncompressedBytes": [
+                            "1093943"
+                        ],
+                        "version": [
+                            "1785401853"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/sldrt_sli_common_1785401853.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sldrt_toolstrip_common"
+                        ],
+                        "componentBaseName": [
+                            "sldrt_toolstrip"
+                        ],
+                        "componentFileName": [
+                            "sldrt_toolstrip_common_1764173889.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10780"
+                        ],
+                        "uncompressedBytes": [
+                            "9073"
+                        ],
+                        "version": [
+                            "1764173889"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/sldrt_toolstrip_common_1764173889.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "WT"
+        ],
+        "productName": [
+            "Simulink Desktop Real-Time"
+        ],
+        "productNumber": [
+            "48"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

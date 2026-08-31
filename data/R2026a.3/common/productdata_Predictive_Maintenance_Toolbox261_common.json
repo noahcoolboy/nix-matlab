@@ -1,0 +1,431 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/predmaint_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/predmaint_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/predmaint_search_doc_en_common_1779932658.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "242753"
+                        ],
+                        "uncompressedBytes": [
+                            "736684"
+                        ],
+                        "version": [
+                            "1779932658"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/predmaint_search_doc_en_common_1779932658.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "predmaint_common"
+                        ],
+                        "componentBaseName": [
+                            "predmaint"
+                        ],
+                        "componentFileName": [
+                            "predmaint_common_1773685933.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "61482654"
+                        ],
+                        "uncompressedBytes": [
+                            "66719232"
+                        ],
+                        "version": [
+                            "1773685933"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/predmaint_common_1773685933.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "predmaint_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "predmaint_licenses"
+                        ],
+                        "componentFileName": [
+                            "predmaint_licenses_common_1763621172.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "446"
+                        ],
+                        "uncompressedBytes": [
+                            "516"
+                        ],
+                        "version": [
+                            "1763621172"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/predmaint_licenses_common_1763621172.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_controllib_requirements_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_controllib_requirements"
+                        ],
+                        "componentFileName": [
+                            "shared_controllib_requirements_common_1770060123.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "435089"
+                        ],
+                        "uncompressedBytes": [
+                            "1651857"
+                        ],
+                        "version": [
+                            "1770060123"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_controllib_requirements_common_1770060123.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_predmaint_pmdata_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_predmaint_pmdata"
+                        ],
+                        "componentFileName": [
+                            "shared_predmaint_pmdata_common_1779138837.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "139815"
+                        ],
+                        "uncompressedBytes": [
+                            "470529"
+                        ],
+                        "version": [
+                            "1779138837"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_predmaint_pmdata_common_1779138837.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "PM"
+        ],
+        "productName": [
+            "Predictive Maintenance Toolbox"
+        ],
+        "productNumber": [
+            "158"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "ID"
+                        ],
+                        "productName": [
+                            "System Identification Toolbox"
+                        ],
+                        "productNumber": [
+                            "4"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SG"
+                        ],
+                        "productName": [
+                            "Signal Processing Toolbox"
+                        ],
+                        "productNumber": [
+                            "8"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "ST"
+                        ],
+                        "productName": [
+                            "Statistics and Machine Learning Toolbox"
+                        ],
+                        "productNumber": [
+                            "19"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

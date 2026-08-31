@@ -1,0 +1,256 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slcontrol_search_doc_en_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcontrol_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcontrol_search_doc_en_glnxa64_1760617652.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "87886"
+                        ],
+                        "uncompressedBytes": [
+                            "89677"
+                        ],
+                        "version": [
+                            "1760617652"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/buy/doc/slcontrol_search_doc_en_glnxa64_1760617652.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/slcontrollib/signal_injection_plugin_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared/slcontrollib/signal_injection_plugin"
+                        ],
+                        "componentFileName": [
+                            "shared/slcontrollib/signal_injection_plugin_glnxa64_1760876544.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "145035"
+                        ],
+                        "uncompressedBytes": [
+                            "397544"
+                        ],
+                        "version": [
+                            "1760876544"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared/slcontrollib/signal_injection_plugin_glnxa64_1760876544.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_glnxa64_1760877277.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "30295"
+                        ],
+                        "uncompressedBytes": [
+                            "47946"
+                        ],
+                        "version": [
+                            "1760877277"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/slcontrol_glnxa64_1760877277.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_plugin_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_plugin"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_plugin_glnxa64_1760754433.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25329"
+                        ],
+                        "uncompressedBytes": [
+                            "51142"
+                        ],
+                        "version": [
+                            "1760754433"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/slcontrol_plugin_glnxa64_1760754433.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "SD"
+        ],
+        "productName": [
+            "Simulink Control Design"
+        ],
+        "productNumber": [
+            "85"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

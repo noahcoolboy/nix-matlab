@@ -1,0 +1,580 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "data_pipeline_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "data_pipeline"
+                        ],
+                        "componentFileName": [
+                            "data_pipeline_glnxa64_1758808246.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "96266"
+                        ],
+                        "uncompressedBytes": [
+                            "235906"
+                        ],
+                        "version": [
+                            "1758808246"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/data_pipeline_glnxa64_1758808246.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_pegparserlib_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared_pegparserlib"
+                        ],
+                        "componentFileName": [
+                            "shared_pegparserlib_glnxa64_1759721874.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86797"
+                        ],
+                        "uncompressedBytes": [
+                            "222248"
+                        ],
+                        "version": [
+                            "1759721874"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/shared_pegparserlib_glnxa64_1759721874.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_statslib_builtins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared_statslib_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_statslib_builtins_glnxa64_1759721876.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "660613"
+                        ],
+                        "uncompressedBytes": [
+                            "2805676"
+                        ],
+                        "version": [
+                            "1759721876"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/shared_statslib_builtins_glnxa64_1759721876.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_statslib_gpu_builtins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared_statslib_gpu_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_statslib_gpu_builtins_glnxa64_1759765083.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5549004"
+                        ],
+                        "uncompressedBytes": [
+                            "19462531"
+                        ],
+                        "version": [
+                            "1759765083"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/shared_statslib_gpu_builtins_glnxa64_1759765083.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "stats_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "stats"
+                        ],
+                        "componentFileName": [
+                            "stats_glnxa64_1759765280.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13275"
+                        ],
+                        "uncompressedBytes": [
+                            "21553"
+                        ],
+                        "version": [
+                            "1759765280"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/stats_glnxa64_1759765280.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "stats_blocks_slcustomization_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "stats_blocks_slcustomization"
+                        ],
+                        "componentFileName": [
+                            "stats_blocks_slcustomization_glnxa64_1758808213.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13316"
+                        ],
+                        "uncompressedBytes": [
+                            "21550"
+                        ],
+                        "version": [
+                            "1758808213"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/stats_blocks_slcustomization_glnxa64_1758808213.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "stats_builtins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "stats_builtins"
+                        ],
+                        "componentFileName": [
+                            "stats_builtins_glnxa64_1759744866.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1424401"
+                        ],
+                        "uncompressedBytes": [
+                            "5640831"
+                        ],
+                        "version": [
+                            "1759744866"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/stats_builtins_glnxa64_1759744866.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "stats_gpu_builtins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "stats_gpu_builtins"
+                        ],
+                        "componentFileName": [
+                            "stats_gpu_builtins_glnxa64_1759765822.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4465446"
+                        ],
+                        "uncompressedBytes": [
+                            "17469918"
+                        ],
+                        "version": [
+                            "1759765822"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/stats_gpu_builtins_glnxa64_1759765822.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "stats_mlearnapps_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "stats_mlearnapps"
+                        ],
+                        "componentFileName": [
+                            "stats_mlearnapps_glnxa64_1759765393.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13509"
+                        ],
+                        "uncompressedBytes": [
+                            "21775"
+                        ],
+                        "version": [
+                            "1759765393"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/stats_mlearnapps_glnxa64_1759765393.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "yaml2json_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "yaml2json"
+                        ],
+                        "componentFileName": [
+                            "yaml2json_glnxa64_1759704022.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2134377"
+                        ],
+                        "uncompressedBytes": [
+                            "3653040"
+                        ],
+                        "version": [
+                            "1759704022"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/yaml2json_glnxa64_1759704022.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "ST"
+        ],
+        "productName": [
+            "Statistics and Machine Learning Toolbox"
+        ],
+        "productNumber": [
+            "19"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

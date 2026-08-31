@@ -1,0 +1,1873 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "alm/trace_plugins/systemcomposer_trace_plugins_common"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/systemcomposer_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/systemcomposer_trace_plugins_common_1770856384.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10140"
+                        ],
+                        "uncompressedBytes": [
+                            "5952"
+                        ],
+                        "version": [
+                            "1770856384"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/alm/trace_plugins/systemcomposer_trace_plugins_common_1770856384.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/systemcomposer_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/systemcomposer_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/systemcomposer_search_doc_en_common_1783445775.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "560325"
+                        ],
+                        "uncompressedBytes": [
+                            "2695455"
+                        ],
+                        "version": [
+                            "1783445775"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/buy/doc/systemcomposer_search_doc_en_common_1783445775.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sequencediagram/execution_common"
+                        ],
+                        "componentBaseName": [
+                            "sequencediagram/execution"
+                        ],
+                        "componentFileName": [
+                            "sequencediagram/execution_common_1753981376.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18229"
+                        ],
+                        "uncompressedBytes": [
+                            "12836"
+                        ],
+                        "version": [
+                            "1753981376"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sequencediagram/execution_common_1753981376.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sequencediagram/execution_library_common"
+                        ],
+                        "componentBaseName": [
+                            "sequencediagram/execution_library"
+                        ],
+                        "componentFileName": [
+                            "sequencediagram/execution_library_common_1753974026.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "35775"
+                        ],
+                        "uncompressedBytes": [
+                            "37316"
+                        ],
+                        "version": [
+                            "1753974026"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sequencediagram/execution_library_common_1753974026.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sequencediagram/sl_common"
+                        ],
+                        "componentBaseName": [
+                            "sequencediagram/sl"
+                        ],
+                        "componentFileName": [
+                            "sequencediagram/sl_common_1753969426.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16285"
+                        ],
+                        "uncompressedBytes": [
+                            "10188"
+                        ],
+                        "version": [
+                            "1753969426"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sequencediagram/sl_common_1753969426.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sequencediagram/web_common"
+                        ],
+                        "componentBaseName": [
+                            "sequencediagram/web"
+                        ],
+                        "componentFileName": [
+                            "sequencediagram/web_common_1777573630.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2314420"
+                        ],
+                        "uncompressedBytes": [
+                            "8412860"
+                        ],
+                        "version": [
+                            "1777573630"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sequencediagram/web_common_1777573630.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sse/scenarioEngine_m_common"
+                        ],
+                        "componentBaseName": [
+                            "sse/scenarioEngine_m"
+                        ],
+                        "componentFileName": [
+                            "sse/scenarioEngine_m_common_1753890856.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3928"
+                        ],
+                        "uncompressedBytes": [
+                            "2283"
+                        ],
+                        "version": [
+                            "1753890856"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sse/scenarioEngine_m_common_1753890856.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sysarch_editor_common"
+                        ],
+                        "componentBaseName": [
+                            "sysarch_editor"
+                        ],
+                        "componentFileName": [
+                            "sysarch_editor_common_1777573990.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3692608"
+                        ],
+                        "uncompressedBytes": [
+                            "10873383"
+                        ],
+                        "version": [
+                            "1777573990"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sysarch_editor_common_1777573990.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sysarch_m_api_common"
+                        ],
+                        "componentBaseName": [
+                            "sysarch_m_api"
+                        ],
+                        "componentFileName": [
+                            "sysarch_m_api_common_1774565272.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9750"
+                        ],
+                        "uncompressedBytes": [
+                            "6391"
+                        ],
+                        "version": [
+                            "1774565272"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/sysarch_m_api_common_1774565272.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/allocation/editor_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/allocation/editor"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/allocation/editor_common_1777573512.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2231755"
+                        ],
+                        "uncompressedBytes": [
+                            "7844699"
+                        ],
+                        "version": [
+                            "1777573512"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/allocation/editor_common_1777573512.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/allocation/m_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/allocation/m"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/allocation/m_common_1766007298.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "33220"
+                        ],
+                        "uncompressedBytes": [
+                            "22500"
+                        ],
+                        "version": [
+                            "1766007298"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/allocation/m_common_1766007298.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/analysis/editor_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/analysis/editor"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/analysis/editor_common_1777575745.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2657737"
+                        ],
+                        "uncompressedBytes": [
+                            "7263906"
+                        ],
+                        "version": [
+                            "1777575745"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/analysis/editor_common_1777575745.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/analysis/m_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/analysis/m"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/analysis/m_common_1753964643.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "82299"
+                        ],
+                        "uncompressedBytes": [
+                            "53149"
+                        ],
+                        "version": [
+                            "1753964643"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/analysis/m_common_1753964643.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/checks_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/checks_resources"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/checks_resources_common_1756504263.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1888"
+                        ],
+                        "uncompressedBytes": [
+                            "3800"
+                        ],
+                        "version": [
+                            "1756504263"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/checks_resources_common_1756504263.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/checks_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/checks_resources"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/checks_resources_ja_JP_1760695403.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2300"
+                        ],
+                        "uncompressedBytes": [
+                            "4059"
+                        ],
+                        "version": [
+                            "1760695403"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/checks_resources_ja_JP_1760695403.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/checks_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/checks_resources"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/checks_resources_zh_CN_1760695403.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2114"
+                        ],
+                        "uncompressedBytes": [
+                            "3455"
+                        ],
+                        "version": [
+                            "1760695403"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/checks_resources_zh_CN_1760695403.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/comparisons/mldesktop_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/comparisons/mldesktop"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/comparisons/mldesktop_common_1764766856.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "30985"
+                        ],
+                        "uncompressedBytes": [
+                            "18597"
+                        ],
+                        "version": [
+                            "1764766856"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/comparisons/mldesktop_common_1764766856.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/interfaces/editor_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/interfaces/editor"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/interfaces/editor_common_1777573482.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1261455"
+                        ],
+                        "uncompressedBytes": [
+                            "3875669"
+                        ],
+                        "version": [
+                            "1777573482"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/interfaces/editor_common_1777573482.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/main_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/main"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/main_common_1753982193.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "925"
+                        ],
+                        "uncompressedBytes": [
+                            "356"
+                        ],
+                        "version": [
+                            "1753982193"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/main_common_1753982193.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/matrix/m_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/matrix/m"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/matrix/m_common_1753832475.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4058"
+                        ],
+                        "uncompressedBytes": [
+                            "2766"
+                        ],
+                        "version": [
+                            "1753832475"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/matrix/m_common_1753832475.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/matrix/widget_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/matrix/widget"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/matrix/widget_common_1777573256.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1115136"
+                        ],
+                        "uncompressedBytes": [
+                            "3365459"
+                        ],
+                        "version": [
+                            "1777573256"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/matrix/widget_common_1777573256.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/propertyInspector/widget_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/propertyInspector/widget"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/propertyInspector/widget_common_1777573480.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "580185"
+                        ],
+                        "uncompressedBytes": [
+                            "1507614"
+                        ],
+                        "version": [
+                            "1777573480"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/propertyInspector/widget_common_1777573480.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/protobuf_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/protobuf"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/protobuf_common_1753876984.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2802"
+                        ],
+                        "uncompressedBytes": [
+                            "2348"
+                        ],
+                        "version": [
+                            "1753876984"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/protobuf_common_1753876984.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/shared_web_utils_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/shared_web_utils"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/shared_web_utils_common_1765960440.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "79736"
+                        ],
+                        "uncompressedBytes": [
+                            "216698"
+                        ],
+                        "version": [
+                            "1765960440"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/shared_web_utils_common_1765960440.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/sip_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/sip"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/sip_common_1753981816.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10563"
+                        ],
+                        "uncompressedBytes": [
+                            "9431"
+                        ],
+                        "version": [
+                            "1753981816"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/sip_common_1753981816.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/templates_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/templates"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/templates_common_1753982228.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "164868"
+                        ],
+                        "uncompressedBytes": [
+                            "165804"
+                        ],
+                        "version": [
+                            "1753982228"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/templates_common_1753982228.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/templates_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/templates_resources"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/templates_resources_common_1753785410.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1351"
+                        ],
+                        "uncompressedBytes": [
+                            "1146"
+                        ],
+                        "version": [
+                            "1753785410"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/templates_resources_common_1753785410.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/templates_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/templates_resources"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/templates_resources_ja_JP_1753785411.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2026"
+                        ],
+                        "uncompressedBytes": [
+                            "2000"
+                        ],
+                        "version": [
+                            "1753785411"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/templates_resources_ja_JP_1753785411.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/viewConfiguration/api_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/viewConfiguration/api"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/viewConfiguration/api_common_1753831637.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3072"
+                        ],
+                        "uncompressedBytes": [
+                            "2189"
+                        ],
+                        "version": [
+                            "1753831637"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/viewConfiguration/api_common_1753831637.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer/viewConfiguration/widget_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer/viewConfiguration/widget"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer/viewConfiguration/widget_common_1777573481.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1382863"
+                        ],
+                        "uncompressedBytes": [
+                            "4331600"
+                        ],
+                        "version": [
+                            "1777573481"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer/viewConfiguration/widget_common_1777573481.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "systemcomposer_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "systemcomposer_licenses"
+                        ],
+                        "componentFileName": [
+                            "systemcomposer_licenses_common_1753784818.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "447"
+                        ],
+                        "uncompressedBytes": [
+                            "501"
+                        ],
+                        "version": [
+                            "1753784818"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/systemcomposer_licenses_common_1753784818.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "ZC"
+        ],
+        "productName": [
+            "System Composer"
+        ],
+        "productNumber": [
+            "159"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,850 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/irig106_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/irig106"
+                        ],
+                        "componentFileName": [
+                            "3p/irig106_win64_1763638008.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "55174"
+                        ],
+                        "uncompressedBytes": [
+                            "152928"
+                        ],
+                        "version": [
+                            "1763638008"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/3p/irig106_win64_1763638008.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_win64"
+                        ],
+                        "componentBaseName": [
+                            "aero"
+                        ],
+                        "componentFileName": [
+                            "aero_win64_1769910153.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "394015"
+                        ],
+                        "uncompressedBytes": [
+                            "1063520"
+                        ],
+                        "version": [
+                            "1769910153"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/aero_win64_1769910153.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero/animation_win64"
+                        ],
+                        "componentBaseName": [
+                            "aero/animation"
+                        ],
+                        "componentFileName": [
+                            "aero/animation_win64_1763759814.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14813"
+                        ],
+                        "uncompressedBytes": [
+                            "25440"
+                        ],
+                        "version": [
+                            "1763759814"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/aero/animation_win64_1763759814.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_irig_win64"
+                        ],
+                        "componentBaseName": [
+                            "aero_irig"
+                        ],
+                        "componentFileName": [
+                            "aero_irig_win64_1783188668.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14195"
+                        ],
+                        "uncompressedBytes": [
+                            "23512"
+                        ],
+                        "version": [
+                            "1783188668"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/aero_irig_win64_1783188668.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_spacecraft_win64"
+                        ],
+                        "componentBaseName": [
+                            "aero_spacecraft"
+                        ],
+                        "componentFileName": [
+                            "aero_spacecraft_win64_1764916375.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "511001"
+                        ],
+                        "uncompressedBytes": [
+                            "2364512"
+                        ],
+                        "version": [
+                            "1764916375"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/aero_spacecraft_win64_1764916375.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/Airport_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/Airport"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/Airport_win64_1776326194.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21201259"
+                        ],
+                        "uncompressedBytes": [
+                            "22454537"
+                        ],
+                        "version": [
+                            "1776326194"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared/sim3d_content/Airport_win64_1776326194.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/aerospace_content_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/aerospace_content"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/aerospace_content_win64_1776326253.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "104587734"
+                        ],
+                        "uncompressedBytes": [
+                            "108159350"
+                        ],
+                        "version": [
+                            "1776326253"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared/sim3d_content/aerospace_content_win64_1776326253.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/geospatial_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/geospatial"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/geospatial_win64_1776326180.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6566"
+                        ],
+                        "uncompressedBytes": [
+                            "11715"
+                        ],
+                        "version": [
+                            "1776326180"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared/sim3d_content/geospatial_win64_1776326180.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_aerospace_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_aerospace"
+                        ],
+                        "componentFileName": [
+                            "shared_aerospace_win64_1763759233.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1081114"
+                        ],
+                        "uncompressedBytes": [
+                            "1787776"
+                        ],
+                        "version": [
+                            "1763759233"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_aerospace_win64_1763759233.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_win64_1781327884.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "237278"
+                        ],
+                        "uncompressedBytes": [
+                            "665922"
+                        ],
+                        "version": [
+                            "1781327884"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_basemaps_win64_1781327884.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_win64_1763649442.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "615839"
+                        ],
+                        "uncompressedBytes": [
+                            "1710432"
+                        ],
+                        "version": [
+                            "1763649442"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_geometry_win64_1763649442.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_matlab_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_matlab"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_matlab_win64_1781330129.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1203739"
+                        ],
+                        "uncompressedBytes": [
+                            "2769067"
+                        ],
+                        "version": [
+                            "1781330129"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_geometry_matlab_win64_1781330129.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_operations_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_operations"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_operations_win64_1764896612.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1535721"
+                        ],
+                        "uncompressedBytes": [
+                            "4700512"
+                        ],
+                        "version": [
+                            "1764896612"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_geometry_operations_win64_1764896612.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_win64_1764915283.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "338038"
+                        ],
+                        "uncompressedBytes": [
+                            "671840"
+                        ],
+                        "version": [
+                            "1764915283"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_orbit_win64_1764915283.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_windows_win64"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_windows_win64_1776325248.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "288439376"
+                        ],
+                        "uncompressedBytes": [
+                            "563684222"
+                        ],
+                        "version": [
+                            "1776325248"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/sim3d_projects/automotive_project_windows_win64_1776325248.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "AT"
+        ],
+        "productName": [
+            "Aerospace Toolbox"
+        ],
+        "productNumber": [
+            "108"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

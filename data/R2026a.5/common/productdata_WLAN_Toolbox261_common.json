@@ -1,0 +1,944 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/wlan_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/wlan_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/wlan_search_doc_en_common_1785767783.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "361772"
+                        ],
+                        "uncompressedBytes": [
+                            "1045725"
+                        ],
+                        "version": [
+                            "1785767783"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/buy/doc/wlan_search_doc_en_common_1785767783.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_wireless_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_wireless"
+                        ],
+                        "componentFileName": [
+                            "shared_wireless_common_1781298433.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "151986"
+                        ],
+                        "uncompressedBytes": [
+                            "260726"
+                        ],
+                        "version": [
+                            "1781298433"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/shared_wireless_common_1781298433.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_wireless_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_wireless_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_wireless_resources_common_1763727189.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "726"
+                        ],
+                        "uncompressedBytes": [
+                            "1268"
+                        ],
+                        "version": [
+                            "1763727189"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/shared_wireless_resources_common_1763727189.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_wnet_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_wnet"
+                        ],
+                        "componentFileName": [
+                            "shared_wnet_common_1763803729.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6497"
+                        ],
+                        "uncompressedBytes": [
+                            "12576"
+                        ],
+                        "version": [
+                            "1763803729"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/shared_wnet_common_1763803729.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_wnet_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_wnet_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_wnet_resources_common_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1221"
+                        ],
+                        "uncompressedBytes": [
+                            "2729"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/shared_wnet_resources_common_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_wnet_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_wnet_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_wnet_resources_ja_JP_1763727189.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1438"
+                        ],
+                        "uncompressedBytes": [
+                            "2688"
+                        ],
+                        "version": [
+                            "1763727189"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/shared_wnet_resources_ja_JP_1763727189.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan"
+                        ],
+                        "componentFileName": [
+                            "wlan_common_1770090992.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1015758"
+                        ],
+                        "uncompressedBytes": [
+                            "3201908"
+                        ],
+                        "version": [
+                            "1770090992"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan_common_1770090992.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan/apps/wnm_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan/apps/wnm"
+                        ],
+                        "componentFileName": [
+                            "wlan/apps/wnm_common_1770058426.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "138880"
+                        ],
+                        "uncompressedBytes": [
+                            "203415"
+                        ],
+                        "version": [
+                            "1770058426"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan/apps/wnm_common_1770058426.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan/apps/wwa_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan/apps/wwa"
+                        ],
+                        "componentFileName": [
+                            "wlan/apps/wwa_common_1764799120.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "139555"
+                        ],
+                        "uncompressedBytes": [
+                            "398761"
+                        ],
+                        "version": [
+                            "1764799120"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan/apps/wwa_common_1764799120.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan/apps/wwg_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan/apps/wwg"
+                        ],
+                        "componentFileName": [
+                            "wlan/apps/wwg_common_1769684019.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "89764"
+                        ],
+                        "uncompressedBytes": [
+                            "371743"
+                        ],
+                        "version": [
+                            "1769684019"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan/apps/wwg_common_1769684019.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan/netmod/netmod_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan/netmod/netmod"
+                        ],
+                        "componentFileName": [
+                            "wlan/netmod/netmod_common_1778163342.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "464037"
+                        ],
+                        "uncompressedBytes": [
+                            "1759899"
+                        ],
+                        "version": [
+                            "1778163342"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan/netmod/netmod_common_1778163342.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan_licenses"
+                        ],
+                        "componentFileName": [
+                            "wlan_licenses_common_1763621176.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "427"
+                        ],
+                        "uncompressedBytes": [
+                            "498"
+                        ],
+                        "version": [
+                            "1763621176"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan_licenses_common_1763621176.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "wlan_resources"
+                        ],
+                        "componentFileName": [
+                            "wlan_resources_common_1765326883.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "81842"
+                        ],
+                        "uncompressedBytes": [
+                            "195282"
+                        ],
+                        "version": [
+                            "1765326883"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan_resources_common_1765326883.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "wlan_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "wlan_resources"
+                        ],
+                        "componentFileName": [
+                            "wlan_resources_ja_JP_1771873502.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "97864"
+                        ],
+                        "uncompressedBytes": [
+                            "214243"
+                        ],
+                        "version": [
+                            "1771873502"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/wlan_resources_ja_JP_1771873502.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "WL"
+        ],
+        "productName": [
+            "WLAN Toolbox"
+        ],
+        "productNumber": [
+            "145"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SG"
+                        ],
+                        "productName": [
+                            "Signal Processing Toolbox"
+                        ],
+                        "productNumber": [
+                            "8"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "DS"
+                        ],
+                        "productName": [
+                            "DSP System Toolbox"
+                        ],
+                        "productNumber": [
+                            "24"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "CM"
+                        ],
+                        "productName": [
+                            "Communications Toolbox"
+                        ],
+                        "productNumber": [
+                            "36"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

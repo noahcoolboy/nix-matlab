@@ -1,0 +1,688 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/gdal_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/gdal"
+                        ],
+                        "componentFileName": [
+                            "3p/gdal_win64_1753829833.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7512717"
+                        ],
+                        "uncompressedBytes": [
+                            "18069681"
+                        ],
+                        "version": [
+                            "1753829833"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/gdal_win64_1753829833.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/geos_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/geos"
+                        ],
+                        "componentFileName": [
+                            "3p/geos_win64_1753829324.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1201712"
+                        ],
+                        "uncompressedBytes": [
+                            "3395170"
+                        ],
+                        "version": [
+                            "1753829324"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/geos_win64_1753829324.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/geotiff_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/geotiff"
+                        ],
+                        "componentFileName": [
+                            "3p/geotiff_win64_1753829808.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "68542"
+                        ],
+                        "uncompressedBytes": [
+                            "183698"
+                        ],
+                        "version": [
+                            "1753829808"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/geotiff_win64_1753829808.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/gpc_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/gpc"
+                        ],
+                        "componentFileName": [
+                            "3p/gpc_win64_1753828978.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "104213"
+                        ],
+                        "uncompressedBytes": [
+                            "218464"
+                        ],
+                        "version": [
+                            "1753828978"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/gpc_win64_1753828978.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/proj4_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/proj4"
+                        ],
+                        "componentFileName": [
+                            "3p/proj4_win64_1753829780.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1509064"
+                        ],
+                        "uncompressedBytes": [
+                            "3928152"
+                        ],
+                        "version": [
+                            "1753829780"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/proj4_win64_1753829780.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_win64"
+                        ],
+                        "componentBaseName": [
+                            "map"
+                        ],
+                        "componentFileName": [
+                            "map_win64_1760837228.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15539"
+                        ],
+                        "uncompressedBytes": [
+                            "34116"
+                        ],
+                        "version": [
+                            "1760837228"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/map_win64_1760837228.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_gdal_crs_win64"
+                        ],
+                        "componentBaseName": [
+                            "map_gdal_crs"
+                        ],
+                        "componentFileName": [
+                            "map_gdal_crs_win64_1760775461.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "154381"
+                        ],
+                        "uncompressedBytes": [
+                            "423607"
+                        ],
+                        "version": [
+                            "1760775461"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/map_gdal_crs_win64_1760775461.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_gdal_io_win64"
+                        ],
+                        "componentBaseName": [
+                            "map_gdal_io"
+                        ],
+                        "componentFileName": [
+                            "map_gdal_io_win64_1760775479.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "248126"
+                        ],
+                        "uncompressedBytes": [
+                            "701957"
+                        ],
+                        "version": [
+                            "1760775479"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/map_gdal_io_win64_1760775479.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_graphics_win64"
+                        ],
+                        "componentBaseName": [
+                            "map_graphics"
+                        ],
+                        "componentFileName": [
+                            "map_graphics_win64_1760839555.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15600"
+                        ],
+                        "uncompressedBytes": [
+                            "34134"
+                        ],
+                        "version": [
+                            "1760839555"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/map_graphics_win64_1760839555.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_mapobsolete_win64"
+                        ],
+                        "componentBaseName": [
+                            "map_mapobsolete"
+                        ],
+                        "componentFileName": [
+                            "map_mapobsolete_win64_1758864647.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "246975"
+                        ],
+                        "uncompressedBytes": [
+                            "682176"
+                        ],
+                        "version": [
+                            "1758864647"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/map_mapobsolete_win64_1758864647.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_settings_win64"
+                        ],
+                        "componentBaseName": [
+                            "map_settings"
+                        ],
+                        "componentFileName": [
+                            "map_settings_win64_1760732937.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "69562"
+                        ],
+                        "uncompressedBytes": [
+                            "204634"
+                        ],
+                        "version": [
+                            "1760732937"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/map_settings_win64_1760732937.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_win64_1760825509.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "238041"
+                        ],
+                        "uncompressedBytes": [
+                            "672954"
+                        ],
+                        "version": [
+                            "1760825509"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_basemaps_win64_1760825509.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "MG"
+        ],
+        "productName": [
+            "Mapping Toolbox"
+        ],
+        "productNumber": [
+            "11"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

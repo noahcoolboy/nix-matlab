@@ -1,0 +1,582 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slcontrol_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcontrol_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcontrol_search_doc_en_common_1783030088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "241054"
+                        ],
+                        "uncompressedBytes": [
+                            "918168"
+                        ],
+                        "version": [
+                            "1783030088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/buy/doc/slcontrol_search_doc_en_common_1783030088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/slcontrollib/signal_injection_plugin_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/slcontrollib/signal_injection_plugin"
+                        ],
+                        "componentFileName": [
+                            "shared/slcontrollib/signal_injection_plugin_common_1764144828.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11969"
+                        ],
+                        "uncompressedBytes": [
+                            "37714"
+                        ],
+                        "version": [
+                            "1764144828"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared/slcontrollib/signal_injection_plugin_common_1764144828.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_common"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_common_1781297169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6241936"
+                        ],
+                        "uncompressedBytes": [
+                            "12766459"
+                        ],
+                        "version": [
+                            "1781297169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slcontrol_common_1781297169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_licenses"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_licenses_common_1763621175.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "445"
+                        ],
+                        "uncompressedBytes": [
+                            "509"
+                        ],
+                        "version": [
+                            "1763621175"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slcontrol_licenses_common_1763621175.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_common_1763727213.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "119437"
+                        ],
+                        "uncompressedBytes": [
+                            "487514"
+                        ],
+                        "version": [
+                            "1763727213"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slcontrol_resources_common_1763727213.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_ja_JP_1771873493.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "138286"
+                        ],
+                        "uncompressedBytes": [
+                            "546274"
+                        ],
+                        "version": [
+                            "1771873493"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slcontrol_resources_ja_JP_1771873493.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_ko_KR_1771873496.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "134933"
+                        ],
+                        "uncompressedBytes": [
+                            "496261"
+                        ],
+                        "version": [
+                            "1771873496"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slcontrol_resources_ko_KR_1771873496.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_zh_CN_1771873499.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "129324"
+                        ],
+                        "uncompressedBytes": [
+                            "442174"
+                        ],
+                        "version": [
+                            "1771873499"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slcontrol_resources_zh_CN_1771873499.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SD"
+        ],
+        "productName": [
+            "Simulink Control Design"
+        ],
+        "productNumber": [
+            "85"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "CT"
+                        ],
+                        "productName": [
+                            "Control System Toolbox"
+                        ],
+                        "productNumber": [
+                            "3"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

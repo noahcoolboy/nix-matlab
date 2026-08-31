@@ -1,0 +1,3280 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/c-ares_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/c-ares"
+                        ],
+                        "componentFileName": [
+                            "3p/c-ares_win64_1764731085.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "56118"
+                        ],
+                        "uncompressedBytes": [
+                            "103006"
+                        ],
+                        "version": [
+                            "1764731085"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/c-ares_win64_1764731085.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/eigen_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/eigen"
+                        ],
+                        "componentFileName": [
+                            "3p/eigen_win64_1753829302.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8046"
+                        ],
+                        "uncompressedBytes": [
+                            "21549"
+                        ],
+                        "version": [
+                            "1753829302"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/eigen_win64_1753829302.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/embree_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/embree"
+                        ],
+                        "componentFileName": [
+                            "3p/embree_win64_1753828955.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5665915"
+                        ],
+                        "uncompressedBytes": [
+                            "17666400"
+                        ],
+                        "version": [
+                            "1753828955"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/embree_win64_1753828955.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/grpc_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/grpc"
+                        ],
+                        "componentFileName": [
+                            "3p/grpc_win64_1753829363.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9287"
+                        ],
+                        "uncompressedBytes": [
+                            "29687"
+                        ],
+                        "version": [
+                            "1753829363"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/grpc_win64_1753829363.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/hoopsexchange_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/hoopsexchange"
+                        ],
+                        "componentFileName": [
+                            "3p/hoopsexchange_win64_1753829580.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "42449524"
+                        ],
+                        "uncompressedBytes": [
+                            "139193504"
+                        ],
+                        "version": [
+                            "1753829580"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/hoopsexchange_win64_1753829580.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/libccd_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/libccd"
+                        ],
+                        "componentFileName": [
+                            "3p/libccd_win64_1753829022.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "30328"
+                        ],
+                        "uncompressedBytes": [
+                            "53801"
+                        ],
+                        "version": [
+                            "1753829022"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/libccd_win64_1753829022.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/protobuf3_robotics_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/protobuf3_robotics"
+                        ],
+                        "componentFileName": [
+                            "3p/protobuf3_robotics_win64_1768157620.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2492135"
+                        ],
+                        "uncompressedBytes": [
+                            "31817059"
+                        ],
+                        "version": [
+                            "1768157620"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/protobuf3_robotics_win64_1768157620.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/vhacd_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/vhacd"
+                        ],
+                        "componentFileName": [
+                            "3p/vhacd_win64_1753829212.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "974"
+                        ],
+                        "uncompressedBytes": [
+                            "1546"
+                        ],
+                        "version": [
+                            "1753829212"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/3p/vhacd_win64_1753829212.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/robotics_search_doc_en_win64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/robotics_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/robotics_search_doc_en_win64_1769597700.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40233"
+                        ],
+                        "uncompressedBytes": [
+                            "39438"
+                        ],
+                        "version": [
+                            "1769597700"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/buy/doc/robotics_search_doc_en_win64_1769597700.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/common_mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/common_mcos"
+                        ],
+                        "componentFileName": [
+                            "live/common_mcos_win64_1768177140.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "898068"
+                        ],
+                        "uncompressedBytes": [
+                            "3386750"
+                        ],
+                        "version": [
+                            "1768177140"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/live/common_mcos_win64_1768177140.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/multiplex_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/multiplex"
+                        ],
+                        "componentFileName": [
+                            "live/multiplex_win64_1763122879.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "299028"
+                        ],
+                        "uncompressedBytes": [
+                            "813246"
+                        ],
+                        "version": [
+                            "1763122879"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/live/multiplex_win64_1763122879.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/multiplex_mi_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/multiplex_mi"
+                        ],
+                        "componentFileName": [
+                            "live/multiplex_mi_win64_1768177791.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "172359"
+                        ],
+                        "uncompressedBytes": [
+                            "461509"
+                        ],
+                        "version": [
+                            "1768177791"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/live/multiplex_mi_win64_1768177791.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "live/signal_win64"
+                        ],
+                        "componentBaseName": [
+                            "live/signal"
+                        ],
+                        "componentFileName": [
+                            "live/signal_win64_1753855342.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "19014"
+                        ],
+                        "uncompressedBytes": [
+                            "36192"
+                        ],
+                        "version": [
+                            "1753855342"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/live/signal_win64_1753855342.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "protobuf_mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "protobuf_mcos"
+                        ],
+                        "componentFileName": [
+                            "protobuf_mcos_win64_1768166603.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "156803"
+                        ],
+                        "uncompressedBytes": [
+                            "417981"
+                        ],
+                        "version": [
+                            "1768166603"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/protobuf_mcos_win64_1768166603.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/gazebo_matlab_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/gazebo_matlab"
+                        ],
+                        "componentFileName": [
+                            "robotics/gazebo_matlab_win64_1768181676.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "323790"
+                        ],
+                        "uncompressedBytes": [
+                            "1080517"
+                        ],
+                        "version": [
+                            "1768181676"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/gazebo_matlab_win64_1768181676.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/gazebo_transport_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/gazebo_transport"
+                        ],
+                        "componentFileName": [
+                            "robotics/gazebo_transport_win64_1768161259.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "475091"
+                        ],
+                        "uncompressedBytes": [
+                            "1915744"
+                        ],
+                        "version": [
+                            "1768161259"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/gazebo_transport_win64_1768161259.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/manipulator_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/manipulator"
+                        ],
+                        "componentFileName": [
+                            "robotics/manipulator_win64_1768215845.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4902475"
+                        ],
+                        "uncompressedBytes": [
+                            "5078224"
+                        ],
+                        "version": [
+                            "1768215845"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/manipulator_win64_1768215845.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/rbtbuiltins_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/rbtbuiltins"
+                        ],
+                        "componentFileName": [
+                            "robotics/rbtbuiltins_win64_1760740680.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "152600"
+                        ],
+                        "uncompressedBytes": [
+                            "379933"
+                        ],
+                        "version": [
+                            "1760740680"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/rbtbuiltins_win64_1760740680.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/rbtcollisionbuiltins_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/rbtcollisionbuiltins"
+                        ],
+                        "componentFileName": [
+                            "robotics/rbtcollisionbuiltins_win64_1765307739.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "277306"
+                        ],
+                        "uncompressedBytes": [
+                            "724065"
+                        ],
+                        "version": [
+                            "1765307739"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/rbtcollisionbuiltins_win64_1765307739.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/robotics_hoops_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/robotics_hoops"
+                        ],
+                        "componentFileName": [
+                            "robotics/robotics_hoops_win64_1760741889.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "115877"
+                        ],
+                        "uncompressedBytes": [
+                            "301767"
+                        ],
+                        "version": [
+                            "1760741889"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/robotics_hoops_win64_1760741889.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/simulink_customization_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/simulink_customization"
+                        ],
+                        "componentFileName": [
+                            "robotics/simulink_customization_win64_1763124948.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15615"
+                        ],
+                        "uncompressedBytes": [
+                            "34160"
+                        ],
+                        "version": [
+                            "1763124948"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/simulink_customization_win64_1763124948.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "robotics/simulink_sim3d_win64"
+                        ],
+                        "componentBaseName": [
+                            "robotics/simulink_sim3d"
+                        ],
+                        "componentFileName": [
+                            "robotics/simulink_sim3d_win64_1765309941.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15667"
+                        ],
+                        "uncompressedBytes": [
+                            "34156"
+                        ],
+                        "version": [
+                            "1765309941"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/robotics/simulink_sim3d_win64_1765309941.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "scenarioproto_win64"
+                        ],
+                        "componentBaseName": [
+                            "scenarioproto"
+                        ],
+                        "componentFileName": [
+                            "scenarioproto_win64_1768161242.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1842035"
+                        ],
+                        "uncompressedBytes": [
+                            "9242976"
+                        ],
+                        "version": [
+                            "1768161242"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/scenarioproto_win64_1768161242.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "scenarioprotomcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "scenarioprotomcos"
+                        ],
+                        "componentFileName": [
+                            "scenarioprotomcos_win64_1768167902.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3318268"
+                        ],
+                        "uncompressedBytes": [
+                            "20310720"
+                        ],
+                        "version": [
+                            "1768167902"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/scenarioprotomcos_win64_1768167902.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sensorsim_core_win64"
+                        ],
+                        "componentBaseName": [
+                            "sensorsim_core"
+                        ],
+                        "componentFileName": [
+                            "sensorsim_core_win64_1753834806.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20215"
+                        ],
+                        "uncompressedBytes": [
+                            "45780"
+                        ],
+                        "version": [
+                            "1753834806"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sensorsim_core_win64_1753834806.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sensorsim_settings_win64"
+                        ],
+                        "componentBaseName": [
+                            "sensorsim_settings"
+                        ],
+                        "componentFileName": [
+                            "sensorsim_settings_win64_1760732935.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "52466"
+                        ],
+                        "uncompressedBytes": [
+                            "137574"
+                        ],
+                        "version": [
+                            "1760732935"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sensorsim_settings_win64_1760732935.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/env_encoder/matlab_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/env_encoder/matlab"
+                        ],
+                        "componentFileName": [
+                            "shared/env_encoder/matlab_win64_1769645172.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "61551"
+                        ],
+                        "uncompressedBytes": [
+                            "140128"
+                        ],
+                        "version": [
+                            "1769645172"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/env_encoder/matlab_win64_1769645172.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/nav_offroad/core_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/nav_offroad/core"
+                        ],
+                        "componentFileName": [
+                            "shared/nav_offroad/core_win64_1769645171.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "27516"
+                        ],
+                        "uncompressedBytes": [
+                            "51552"
+                        ],
+                        "version": [
+                            "1769645171"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/nav_offroad/core_win64_1769645171.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/robotics/dynmat/builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/robotics/dynmat/builtins"
+                        ],
+                        "componentFileName": [
+                            "shared/robotics/dynmat/builtins_win64_1763124829.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16617"
+                        ],
+                        "uncompressedBytes": [
+                            "44386"
+                        ],
+                        "version": [
+                            "1763124829"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/robotics/dynmat/builtins_win64_1763124829.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/CurvedHighway_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/CurvedHighway"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/CurvedHighway_win64_1765965303.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "12388858"
+                        ],
+                        "uncompressedBytes": [
+                            "12736302"
+                        ],
+                        "version": [
+                            "1765965303"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/sim3d_content/CurvedHighway_win64_1765965303.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/EmptyScene_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/EmptyScene"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/EmptyScene_win64_1765965303.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15425"
+                        ],
+                        "uncompressedBytes": [
+                            "27371"
+                        ],
+                        "version": [
+                            "1765965303"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/sim3d_content/EmptyScene_win64_1765965303.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/EmptyWorld_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/EmptyWorld"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/EmptyWorld_win64_1765965182.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5096"
+                        ],
+                        "uncompressedBytes": [
+                            "8123"
+                        ],
+                        "version": [
+                            "1765965182"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/sim3d_content/EmptyWorld_win64_1765965182.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sim3d_content/StraightHighway_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sim3d_content/StraightHighway"
+                        ],
+                        "componentFileName": [
+                            "shared/sim3d_content/StraightHighway_win64_1765965307.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7298978"
+                        ],
+                        "uncompressedBytes": [
+                            "7517524"
+                        ],
+                        "version": [
+                            "1765965307"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/sim3d_content/StraightHighway_win64_1765965307.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/spatialmath/cpp_utils_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/spatialmath/cpp_utils"
+                        ],
+                        "componentFileName": [
+                            "shared/spatialmath/cpp_utils_win64_1753840755.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "19092"
+                        ],
+                        "uncompressedBytes": [
+                            "35680"
+                        ],
+                        "version": [
+                            "1753840755"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared/spatialmath/cpp_utils_win64_1753840755.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_win64_1769645741.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21177"
+                        ],
+                        "uncompressedBytes": [
+                            "39264"
+                        ],
+                        "version": [
+                            "1769645741"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_win64_1769645741.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_builtins_win64_1763114212.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "176421"
+                        ],
+                        "uncompressedBytes": [
+                            "471689"
+                        ],
+                        "version": [
+                            "1763114212"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_builtins_win64_1763114212.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_autonomous_map_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_autonomous_map"
+                        ],
+                        "componentFileName": [
+                            "shared_autonomous_map_win64_1769645148.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "32082"
+                        ],
+                        "uncompressedBytes": [
+                            "64352"
+                        ],
+                        "version": [
+                            "1769645148"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_autonomous_map_win64_1769645148.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_win64_1765258171.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "238043"
+                        ],
+                        "uncompressedBytes": [
+                            "672954"
+                        ],
+                        "version": [
+                            "1765258171"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_basemaps_win64_1765258171.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_win64_1753834828.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "590224"
+                        ],
+                        "uncompressedBytes": [
+                            "1641312"
+                        ],
+                        "version": [
+                            "1753834828"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_geometry_win64_1753834828.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_matlab_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_matlab"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_matlab_win64_1765258183.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1183471"
+                        ],
+                        "uncompressedBytes": [
+                            "2714147"
+                        ],
+                        "version": [
+                            "1765258183"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_geometry_matlab_win64_1765258183.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_operations_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_operations"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_operations_win64_1753835394.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1505660"
+                        ],
+                        "uncompressedBytes": [
+                            "4612448"
+                        ],
+                        "version": [
+                            "1753835394"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_geometry_operations_win64_1753835394.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_nav_rst_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_nav_rst"
+                        ],
+                        "componentFileName": [
+                            "shared_nav_rst_win64_1769652238.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "191300"
+                        ],
+                        "uncompressedBytes": [
+                            "385600"
+                        ],
+                        "version": [
+                            "1769652238"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_nav_rst_win64_1769652238.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_nav_rst_builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_nav_rst_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_nav_rst_builtins_win64_1760734706.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "227779"
+                        ],
+                        "uncompressedBytes": [
+                            "562722"
+                        ],
+                        "version": [
+                            "1760734706"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_nav_rst_builtins_win64_1760734706.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_nav_rst_simulink_customization_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_nav_rst_simulink_customization"
+                        ],
+                        "componentFileName": [
+                            "shared_nav_rst_simulink_customization_win64_1763124934.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15624"
+                        ],
+                        "uncompressedBytes": [
+                            "34169"
+                        ],
+                        "version": [
+                            "1763124934"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_nav_rst_simulink_customization_win64_1763124934.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_planning_builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_planning_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_planning_builtins_win64_1763122964.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "223910"
+                        ],
+                        "uncompressedBytes": [
+                            "628453"
+                        ],
+                        "version": [
+                            "1763122964"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_planning_builtins_win64_1763122964.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_pointclouds_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_pointclouds"
+                        ],
+                        "componentFileName": [
+                            "shared_pointclouds_win64_1765258319.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "208308"
+                        ],
+                        "uncompressedBytes": [
+                            "522131"
+                        ],
+                        "version": [
+                            "1765258319"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_pointclouds_win64_1765258319.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_ray_embree_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_ray_embree"
+                        ],
+                        "componentFileName": [
+                            "shared_ray_embree_win64_1753841263.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "104950"
+                        ],
+                        "uncompressedBytes": [
+                            "287072"
+                        ],
+                        "version": [
+                            "1753841263"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_ray_embree_win64_1753841263.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_ray_intersect_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_ray_intersect"
+                        ],
+                        "componentFileName": [
+                            "shared_ray_intersect_win64_1753835396.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "97316"
+                        ],
+                        "uncompressedBytes": [
+                            "325318"
+                        ],
+                        "version": [
+                            "1753835396"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_ray_intersect_win64_1753835396.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_ray_optix_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_ray_optix"
+                        ],
+                        "componentFileName": [
+                            "shared_ray_optix_win64_1758747351.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "304862"
+                        ],
+                        "uncompressedBytes": [
+                            "985659"
+                        ],
+                        "version": [
+                            "1758747351"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_ray_optix_win64_1758747351.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_ray_path_em_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_ray_path_em"
+                        ],
+                        "componentFileName": [
+                            "shared_ray_path_em_win64_1753841895.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "95137"
+                        ],
+                        "uncompressedBytes": [
+                            "278368"
+                        ],
+                        "version": [
+                            "1753841895"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_ray_path_em_win64_1753841895.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_ray_path_geometry_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_ray_path_geometry"
+                        ],
+                        "componentFileName": [
+                            "shared_ray_path_geometry_win64_1753841810.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "199565"
+                        ],
+                        "uncompressedBytes": [
+                            "733396"
+                        ],
+                        "version": [
+                            "1753841810"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_ray_path_geometry_win64_1753841810.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_raytracer_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_raytracer"
+                        ],
+                        "componentFileName": [
+                            "shared_raytracer_win64_1765258178.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "133682"
+                        ],
+                        "uncompressedBytes": [
+                            "359095"
+                        ],
+                        "version": [
+                            "1765258178"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_raytracer_win64_1765258178.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_win64_1769645729.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "214105"
+                        ],
+                        "uncompressedBytes": [
+                            "462368"
+                        ],
+                        "version": [
+                            "1769645729"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_win64_1769645729.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics_builtins"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_builtins_win64_1763124872.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "197425"
+                        ],
+                        "uncompressedBytes": [
+                            "538594"
+                        ],
+                        "version": [
+                            "1763124872"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_builtins_win64_1763124872.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_robotics_simulink_customization_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_robotics_simulink_customization"
+                        ],
+                        "componentFileName": [
+                            "shared_robotics_simulink_customization_win64_1763124934.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15677"
+                        ],
+                        "uncompressedBytes": [
+                            "34178"
+                        ],
+                        "version": [
+                            "1763124934"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_robotics_simulink_customization_win64_1763124934.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3d_io_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3d_io"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3d_io_win64_1768178600.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "258990"
+                        ],
+                        "uncompressedBytes": [
+                            "864235"
+                        ],
+                        "version": [
+                            "1768178600"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_sim3d_io_win64_1768178600.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_win64_1753979819.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "77674"
+                        ],
+                        "uncompressedBytes": [
+                            "187072"
+                        ],
+                        "version": [
+                            "1753979819"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/shared_tracking_win64_1753979819.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_windows_win64"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_windows_win64_1765962701.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "270675375"
+                        ],
+                        "uncompressedBytes": [
+                            "537000603"
+                        ],
+                        "version": [
+                            "1765962701"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sim3d_projects/automotive_project_windows_win64_1765962701.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssf_win64"
+                        ],
+                        "componentBaseName": [
+                            "ssf"
+                        ],
+                        "componentFileName": [
+                            "ssf_win64_1768162606.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "501161"
+                        ],
+                        "uncompressedBytes": [
+                            "1544356"
+                        ],
+                        "version": [
+                            "1768162606"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssf_win64_1768162606.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ssfmcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "ssfmcos"
+                        ],
+                        "componentFileName": [
+                            "ssfmcos_win64_1768178238.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "410286"
+                        ],
+                        "uncompressedBytes": [
+                            "1331187"
+                        ],
+                        "version": [
+                            "1768178238"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/ssfmcos_win64_1768178238.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "RO"
+        ],
+        "productName": [
+            "Robotics System Toolbox"
+        ],
+        "productNumber": [
+            "142"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

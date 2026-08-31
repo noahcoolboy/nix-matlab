@@ -1,0 +1,830 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/deltasigmatb_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/deltasigmatb"
+                        ],
+                        "componentFileName": [
+                            "3p/deltasigmatb_common_1753741192.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28880"
+                        ],
+                        "uncompressedBytes": [
+                            "71269"
+                        ],
+                        "version": [
+                            "1753741192"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/deltasigmatb_common_1753741192.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/msblks_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/msblks_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/msblks_search_doc_en_common_1760617616.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "143179"
+                        ],
+                        "uncompressedBytes": [
+                            "423206"
+                        ],
+                        "version": [
+                            "1760617616"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/buy/doc/msblks_search_doc_en_common_1760617616.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "msblks_common"
+                        ],
+                        "componentBaseName": [
+                            "msblks"
+                        ],
+                        "componentFileName": [
+                            "msblks_common_1760878005.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2020120"
+                        ],
+                        "uncompressedBytes": [
+                            "3496670"
+                        ],
+                        "version": [
+                            "1760878005"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/msblks_common_1760878005.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "msblks_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "msblks_licenses"
+                        ],
+                        "componentFileName": [
+                            "msblks_licenses_common_1753784823.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "437"
+                        ],
+                        "uncompressedBytes": [
+                            "507"
+                        ],
+                        "version": [
+                            "1753784823"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/msblks_licenses_common_1753784823.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "msblks_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "msblks_resources"
+                        ],
+                        "componentFileName": [
+                            "msblks_resources_common_1753785405.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "22024"
+                        ],
+                        "uncompressedBytes": [
+                            "85326"
+                        ],
+                        "version": [
+                            "1753785405"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/msblks_resources_common_1753785405.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_common_1753981822.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "44846"
+                        ],
+                        "uncompressedBytes": [
+                            "86103"
+                        ],
+                        "version": [
+                            "1753981822"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_comm_msblks_serdes_common_1753981822.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_resources_common_1753785349.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6162"
+                        ],
+                        "uncompressedBytes": [
+                            "16065"
+                        ],
+                        "version": [
+                            "1753785349"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_comm_msblks_serdes_resources_common_1753785349.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_resources_ja_JP_1753785350.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7584"
+                        ],
+                        "uncompressedBytes": [
+                            "17687"
+                        ],
+                        "version": [
+                            "1753785350"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_comm_msblks_serdes_resources_ja_JP_1753785350.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_resources_ko_KR_1753785350.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7295"
+                        ],
+                        "uncompressedBytes": [
+                            "16340"
+                        ],
+                        "version": [
+                            "1753785350"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_comm_msblks_serdes_resources_ko_KR_1753785350.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_msblks_measurement_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_msblks_measurement"
+                        ],
+                        "componentFileName": [
+                            "shared_msblks_measurement_common_1760875932.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "264505"
+                        ],
+                        "uncompressedBytes": [
+                            "377502"
+                        ],
+                        "version": [
+                            "1760875932"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_msblks_measurement_common_1760875932.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_msblks_measurement_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_msblks_measurement_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_msblks_measurement_resources_common_1759704118.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5519"
+                        ],
+                        "uncompressedBytes": [
+                            "17561"
+                        ],
+                        "version": [
+                            "1759704118"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_msblks_measurement_resources_common_1759704118.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sleyediagram_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sleyediagram"
+                        ],
+                        "componentFileName": [
+                            "shared_sleyediagram_common_1760877815.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3150516"
+                        ],
+                        "uncompressedBytes": [
+                            "9990557"
+                        ],
+                        "version": [
+                            "1760877815"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_sleyediagram_common_1760877815.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "AM"
+        ],
+        "productName": [
+            "Mixed-Signal Blockset"
+        ],
+        "productNumber": [
+            "160"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "DS"
+                        ],
+                        "productName": [
+                            "DSP System Toolbox"
+                        ],
+                        "productNumber": [
+                            "24"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SG"
+                        ],
+                        "productName": [
+                            "Signal Processing Toolbox"
+                        ],
+                        "productNumber": [
+                            "8"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

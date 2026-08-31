@@ -1,0 +1,4817 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/glm_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/glm"
+                        ],
+                        "componentFileName": [
+                            "3p/glm_common_1763610799.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "822"
+                        ],
+                        "uncompressedBytes": [
+                            "1344"
+                        ],
+                        "version": [
+                            "1763610799"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/3p/glm_common_1763610799.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_common"
+                        ],
+                        "componentBaseName": [
+                            "aero"
+                        ],
+                        "componentFileName": [
+                            "aero_common_1764034638.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "64980533"
+                        ],
+                        "uncompressedBytes": [
+                            "65601596"
+                        ],
+                        "version": [
+                            "1764034638"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_common_1764034638.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero/animation_common"
+                        ],
+                        "componentBaseName": [
+                            "aero/animation"
+                        ],
+                        "componentFileName": [
+                            "aero/animation_common_1763834790.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "270082"
+                        ],
+                        "uncompressedBytes": [
+                            "1168121"
+                        ],
+                        "version": [
+                            "1763834790"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero/animation_common_1763834790.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero/support_common"
+                        ],
+                        "componentBaseName": [
+                            "aero/support"
+                        ],
+                        "componentFileName": [
+                            "aero/support_common_1764034712.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7789282"
+                        ],
+                        "uncompressedBytes": [
+                            "8375724"
+                        ],
+                        "version": [
+                            "1764034712"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero/support_common_1764034712.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_aircraft_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_aircraft"
+                        ],
+                        "componentFileName": [
+                            "aero_aircraft_common_1764034703.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "106846"
+                        ],
+                        "uncompressedBytes": [
+                            "245403"
+                        ],
+                        "version": [
+                            "1764034703"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_aircraft_common_1764034703.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_aircraft_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_aircraft_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_aircraft_resources_common_1763727194.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4920"
+                        ],
+                        "uncompressedBytes": [
+                            "6782"
+                        ],
+                        "version": [
+                            "1763727194"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_aircraft_resources_common_1763727194.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_aircraft_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "aero_aircraft_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_aircraft_resources_ja_JP_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6540"
+                        ],
+                        "uncompressedBytes": [
+                            "8561"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_aircraft_resources_ja_JP_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_appdesigner_plugin_js_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_appdesigner_plugin_js"
+                        ],
+                        "componentFileName": [
+                            "aero_appdesigner_plugin_js_common_1771877661.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "606162"
+                        ],
+                        "uncompressedBytes": [
+                            "2339426"
+                        ],
+                        "version": [
+                            "1771877661"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_appdesigner_plugin_js_common_1771877661.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_appdesigner_plugin_js_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_appdesigner_plugin_js_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_appdesigner_plugin_js_resources_common_1763727224.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "738"
+                        ],
+                        "uncompressedBytes": [
+                            "1567"
+                        ],
+                        "version": [
+                            "1763727224"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_appdesigner_plugin_js_resources_common_1763727224.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_appdesigner_plugin_js_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "aero_appdesigner_plugin_js_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_appdesigner_plugin_js_resources_ja_JP_1763727224.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "954"
+                        ],
+                        "uncompressedBytes": [
+                            "1675"
+                        ],
+                        "version": [
+                            "1763727224"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_appdesigner_plugin_js_resources_ja_JP_1763727224.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_appdesigner_plugin_m_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_appdesigner_plugin_m"
+                        ],
+                        "componentFileName": [
+                            "aero_appdesigner_plugin_m_common_1763834789.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "67424"
+                        ],
+                        "uncompressedBytes": [
+                            "97441"
+                        ],
+                        "version": [
+                            "1763834789"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_appdesigner_plugin_m_common_1763834789.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_core_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_core"
+                        ],
+                        "componentFileName": [
+                            "aero_core_common_1763834752.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6893"
+                        ],
+                        "uncompressedBytes": [
+                            "3101"
+                        ],
+                        "version": [
+                            "1763834752"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_core_common_1763834752.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_graphics_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_graphics"
+                        ],
+                        "componentFileName": [
+                            "aero_graphics_common_1764034693.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "50325"
+                        ],
+                        "uncompressedBytes": [
+                            "92461"
+                        ],
+                        "version": [
+                            "1764034693"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_graphics_common_1764034693.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_graphics_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_graphics_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_graphics_resources_common_1763727194.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3302"
+                        ],
+                        "uncompressedBytes": [
+                            "4495"
+                        ],
+                        "version": [
+                            "1763727194"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_graphics_resources_common_1763727194.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_graphics_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "aero_graphics_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_graphics_resources_ja_JP_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4506"
+                        ],
+                        "uncompressedBytes": [
+                            "6028"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_graphics_resources_ja_JP_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_hmi_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_hmi"
+                        ],
+                        "componentFileName": [
+                            "aero_hmi_common_1763834755.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21705"
+                        ],
+                        "uncompressedBytes": [
+                            "22433"
+                        ],
+                        "version": [
+                            "1763834755"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_hmi_common_1763834755.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_irig_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_irig"
+                        ],
+                        "componentFileName": [
+                            "aero_irig_common_1770079472.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9719"
+                        ],
+                        "uncompressedBytes": [
+                            "8736"
+                        ],
+                        "version": [
+                            "1770079472"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_irig_common_1770079472.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_irig_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_irig_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_irig_resources_common_1769684299.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1967"
+                        ],
+                        "uncompressedBytes": [
+                            "5980"
+                        ],
+                        "version": [
+                            "1769684299"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_irig_resources_common_1769684299.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_irig_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "aero_irig_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_irig_resources_ja_JP_1771873475.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2526"
+                        ],
+                        "uncompressedBytes": [
+                            "8063"
+                        ],
+                        "version": [
+                            "1771873475"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_irig_resources_ja_JP_1771873475.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_licenses"
+                        ],
+                        "componentFileName": [
+                            "aero_licenses_common_1763621162.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "27765"
+                        ],
+                        "uncompressedBytes": [
+                            "113370"
+                        ],
+                        "version": [
+                            "1763621162"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_licenses_common_1763621162.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_resources_common_1763727197.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "46306"
+                        ],
+                        "uncompressedBytes": [
+                            "86787"
+                        ],
+                        "version": [
+                            "1763727197"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_resources_common_1763727197.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "aero_resources"
+                        ],
+                        "componentFileName": [
+                            "aero_resources_ja_JP_1763727202.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "61726"
+                        ],
+                        "uncompressedBytes": [
+                            "103185"
+                        ],
+                        "version": [
+                            "1763727202"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_resources_ja_JP_1763727202.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aero_spacecraft_common"
+                        ],
+                        "componentBaseName": [
+                            "aero_spacecraft"
+                        ],
+                        "componentFileName": [
+                            "aero_spacecraft_common_1764035616.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "12703064"
+                        ],
+                        "uncompressedBytes": [
+                            "20444393"
+                        ],
+                        "version": [
+                            "1764035616"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aero_spacecraft_common_1764035616.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aerospace_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "aerospace_resources"
+                        ],
+                        "componentFileName": [
+                            "aerospace_resources_common_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "27875"
+                        ],
+                        "uncompressedBytes": [
+                            "70960"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aerospace_resources_common_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "aerospace_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "aerospace_resources"
+                        ],
+                        "componentFileName": [
+                            "aerospace_resources_ja_JP_1765326868.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37336"
+                        ],
+                        "uncompressedBytes": [
+                            "82762"
+                        ],
+                        "version": [
+                            "1765326868"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/aerospace_resources_ja_JP_1765326868.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/aero_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/aero_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/aero_search_doc_en_common_1774388190.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "523466"
+                        ],
+                        "uncompressedBytes": [
+                            "1550584"
+                        ],
+                        "version": [
+                            "1774388190"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/buy/doc/aero_search_doc_en_common_1774388190.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "map_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "map_resources"
+                        ],
+                        "componentFileName": [
+                            "map_resources_common_1763727193.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "73899"
+                        ],
+                        "uncompressedBytes": [
+                            "139368"
+                        ],
+                        "version": [
+                            "1763727193"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/map_resources_common_1763727193.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/aerospace/quaternion_math_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/aerospace/quaternion_math"
+                        ],
+                        "componentFileName": [
+                            "shared/aerospace/quaternion_math_common_1764033810.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8702"
+                        ],
+                        "uncompressedBytes": [
+                            "4758"
+                        ],
+                        "version": [
+                            "1764033810"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/aerospace/quaternion_math_common_1764033810.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/gnss_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/gnss"
+                        ],
+                        "componentFileName": [
+                            "shared/gnss_common_1763834754.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "12482"
+                        ],
+                        "uncompressedBytes": [
+                            "35565"
+                        ],
+                        "version": [
+                            "1763834754"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/gnss_common_1763834754.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/gnss_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/gnss_resources"
+                        ],
+                        "componentFileName": [
+                            "shared/gnss_resources_common_1763727194.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "665"
+                        ],
+                        "uncompressedBytes": [
+                            "982"
+                        ],
+                        "version": [
+                            "1763727194"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/gnss_resources_common_1763727194.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/gnss_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared/gnss_resources"
+                        ],
+                        "componentFileName": [
+                            "shared/gnss_resources_ja_JP_1763727194.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "838"
+                        ],
+                        "uncompressedBytes": [
+                            "1117"
+                        ],
+                        "version": [
+                            "1763727194"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/gnss_resources_ja_JP_1763727194.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/gnss_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared/gnss_resources"
+                        ],
+                        "componentFileName": [
+                            "shared/gnss_resources_ko_KR_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "825"
+                        ],
+                        "uncompressedBytes": [
+                            "1083"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/gnss_resources_ko_KR_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/quaternion/common_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/quaternion/common"
+                        ],
+                        "componentFileName": [
+                            "shared/quaternion/common_common_1763803756.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "76620"
+                        ],
+                        "uncompressedBytes": [
+                            "127238"
+                        ],
+                        "version": [
+                            "1763803756"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/quaternion/common_common_1763803756.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sensorsim/coordinates_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/sensorsim/coordinates"
+                        ],
+                        "componentFileName": [
+                            "shared/sensorsim/coordinates_common_1763834757.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25718"
+                        ],
+                        "uncompressedBytes": [
+                            "42814"
+                        ],
+                        "version": [
+                            "1763834757"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sensorsim/coordinates_common_1763834757.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sensorsim/geotrajectory_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/sensorsim/geotrajectory"
+                        ],
+                        "componentFileName": [
+                            "shared/sensorsim/geotrajectory_common_1763840969.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "12174"
+                        ],
+                        "uncompressedBytes": [
+                            "67756"
+                        ],
+                        "version": [
+                            "1763840969"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sensorsim/geotrajectory_common_1763840969.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sensorsim/geotrajectory_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/sensorsim/geotrajectory_resources"
+                        ],
+                        "componentFileName": [
+                            "shared/sensorsim/geotrajectory_resources_common_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "663"
+                        ],
+                        "uncompressedBytes": [
+                            "778"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sensorsim/geotrajectory_resources_common_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sensorsim/geotrajectory_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared/sensorsim/geotrajectory_resources"
+                        ],
+                        "componentFileName": [
+                            "shared/sensorsim/geotrajectory_resources_ja_JP_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "775"
+                        ],
+                        "uncompressedBytes": [
+                            "867"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sensorsim/geotrajectory_resources_ja_JP_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sensorsim/geotrajectory_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared/sensorsim/geotrajectory_resources"
+                        ],
+                        "componentFileName": [
+                            "shared/sensorsim/geotrajectory_resources_ko_KR_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "747"
+                        ],
+                        "uncompressedBytes": [
+                            "805"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/sensorsim/geotrajectory_resources_ko_KR_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/unitdisplayer_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/unitdisplayer"
+                        ],
+                        "componentFileName": [
+                            "shared/unitdisplayer_common_1763834753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3869"
+                        ],
+                        "uncompressedBytes": [
+                            "9482"
+                        ],
+                        "version": [
+                            "1763834753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared/unitdisplayer_common_1763834753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_aerospace_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_aerospace"
+                        ],
+                        "componentFileName": [
+                            "shared_aerospace_common_1763834687.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "126942"
+                        ],
+                        "uncompressedBytes": [
+                            "690451"
+                        ],
+                        "version": [
+                            "1763834687"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_aerospace_common_1763834687.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_common_1763834723.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "787346"
+                        ],
+                        "uncompressedBytes": [
+                            "791877"
+                        ],
+                        "version": [
+                            "1763834723"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_basemaps_common_1763834723.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_resources_common_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2185"
+                        ],
+                        "uncompressedBytes": [
+                            "4122"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_basemaps_resources_common_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_resources_ja_JP_1763727189.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2997"
+                        ],
+                        "uncompressedBytes": [
+                            "5167"
+                        ],
+                        "version": [
+                            "1763727189"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_basemaps_resources_ja_JP_1763727189.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_basemaps_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_basemaps_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_basemaps_resources_ko_KR_1763727189.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2911"
+                        ],
+                        "uncompressedBytes": [
+                            "4839"
+                        ],
+                        "version": [
+                            "1763727189"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_basemaps_resources_ko_KR_1763727189.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_buildings_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_buildings"
+                        ],
+                        "componentFileName": [
+                            "shared_buildings_common_1763835939.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14397"
+                        ],
+                        "uncompressedBytes": [
+                            "48772"
+                        ],
+                        "version": [
+                            "1763835939"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_buildings_common_1763835939.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_fusionutils_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_fusionutils"
+                        ],
+                        "componentFileName": [
+                            "shared_fusionutils_common_1763835995.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "23079"
+                        ],
+                        "uncompressedBytes": [
+                            "75780"
+                        ],
+                        "version": [
+                            "1763835995"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_fusionutils_common_1763835995.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_fusionutils_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_fusionutils_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_fusionutils_resources_common_1763727194.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "557"
+                        ],
+                        "uncompressedBytes": [
+                            "496"
+                        ],
+                        "version": [
+                            "1763727194"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_fusionutils_resources_common_1763727194.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_fusionutils_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_fusionutils_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_fusionutils_resources_ja_JP_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "636"
+                        ],
+                        "uncompressedBytes": [
+                            "543"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_fusionutils_resources_ja_JP_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_fusionutils_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_fusionutils_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_fusionutils_resources_ko_KR_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "571"
+                        ],
+                        "uncompressedBytes": [
+                            "504"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_fusionutils_resources_ko_KR_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geodesy_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_geodesy"
+                        ],
+                        "componentFileName": [
+                            "shared_geodesy_common_1763835934.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20475"
+                        ],
+                        "uncompressedBytes": [
+                            "42442"
+                        ],
+                        "version": [
+                            "1763835934"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_geodesy_common_1763835934.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geodesy_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_geodesy_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_geodesy_resources_common_1763727187.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "588"
+                        ],
+                        "uncompressedBytes": [
+                            "834"
+                        ],
+                        "version": [
+                            "1763727187"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_geodesy_resources_common_1763727187.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geodesy_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_geodesy_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_geodesy_resources_ko_KR_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "803"
+                        ],
+                        "uncompressedBytes": [
+                            "1011"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_geodesy_resources_ko_KR_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_matlab_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_matlab"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_matlab_common_1763835927.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "38945"
+                        ],
+                        "uncompressedBytes": [
+                            "148807"
+                        ],
+                        "version": [
+                            "1763835927"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_geometry_matlab_common_1763835927.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_geometry_matlab_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_geometry_matlab_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_geometry_matlab_resources_common_1763727180.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2464"
+                        ],
+                        "uncompressedBytes": [
+                            "9226"
+                        ],
+                        "version": [
+                            "1763727180"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_geometry_matlab_resources_common_1763727180.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_globe_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_globe"
+                        ],
+                        "componentFileName": [
+                            "shared_globe_common_1765009236.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "89830"
+                        ],
+                        "uncompressedBytes": [
+                            "91416"
+                        ],
+                        "version": [
+                            "1765009236"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_globe_common_1765009236.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_globe_globeviewer_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_globe_globeviewer"
+                        ],
+                        "componentFileName": [
+                            "shared_globe_globeviewer_common_1771383023.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6686042"
+                        ],
+                        "uncompressedBytes": [
+                            "16623158"
+                        ],
+                        "version": [
+                            "1771383023"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_globe_globeviewer_common_1771383023.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_globe_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_globe_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_globe_resources_common_1763727187.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2269"
+                        ],
+                        "uncompressedBytes": [
+                            "7123"
+                        ],
+                        "version": [
+                            "1763727187"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_globe_resources_common_1763727187.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_mapgeodesy_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_mapgeodesy"
+                        ],
+                        "componentFileName": [
+                            "shared_mapgeodesy_common_1763834719.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3455060"
+                        ],
+                        "uncompressedBytes": [
+                            "3480586"
+                        ],
+                        "version": [
+                            "1763834719"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_mapgeodesy_common_1763834719.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_mapmesh_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_mapmesh"
+                        ],
+                        "componentFileName": [
+                            "shared_mapmesh_common_1763841762.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4437"
+                        ],
+                        "uncompressedBytes": [
+                            "3798"
+                        ],
+                        "version": [
+                            "1763841762"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_mapmesh_common_1763841762.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_motion_model_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_motion_model"
+                        ],
+                        "componentFileName": [
+                            "shared_motion_model_common_1763834757.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "75719"
+                        ],
+                        "uncompressedBytes": [
+                            "170021"
+                        ],
+                        "version": [
+                            "1763834757"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_motion_model_common_1763834757.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_common_1768270520.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2917973"
+                        ],
+                        "uncompressedBytes": [
+                            "3894120"
+                        ],
+                        "version": [
+                            "1768270520"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_orbit_common_1768270520.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_resources_common_1769684299.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13266"
+                        ],
+                        "uncompressedBytes": [
+                            "47956"
+                        ],
+                        "version": [
+                            "1769684299"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_orbit_resources_common_1769684299.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_resources_ja_JP_1771873476.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16724"
+                        ],
+                        "uncompressedBytes": [
+                            "51746"
+                        ],
+                        "version": [
+                            "1771873476"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_orbit_resources_ja_JP_1771873476.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_orbit_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_orbit_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_orbit_resources_ko_KR_1771873477.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16133"
+                        ],
+                        "uncompressedBytes": [
+                            "49528"
+                        ],
+                        "version": [
+                            "1771873477"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_orbit_resources_ko_KR_1771873477.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_parseutils_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_parseutils"
+                        ],
+                        "componentFileName": [
+                            "shared_parseutils_common_1763834711.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1829"
+                        ],
+                        "uncompressedBytes": [
+                            "3923"
+                        ],
+                        "version": [
+                            "1763834711"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_parseutils_common_1763834711.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rotations_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_rotations"
+                        ],
+                        "componentFileName": [
+                            "shared_rotations_common_1763834754.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14978"
+                        ],
+                        "uncompressedBytes": [
+                            "25275"
+                        ],
+                        "version": [
+                            "1763834754"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_rotations_common_1763834754.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rotations_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_rotations_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_rotations_resources_common_1763727190.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2044"
+                        ],
+                        "uncompressedBytes": [
+                            "5210"
+                        ],
+                        "version": [
+                            "1763727190"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_rotations_resources_common_1763727190.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rotations_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_rotations_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_rotations_resources_ja_JP_1763727190.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2623"
+                        ],
+                        "uncompressedBytes": [
+                            "6804"
+                        ],
+                        "version": [
+                            "1763727190"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_rotations_resources_ja_JP_1763727190.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rotations_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_rotations_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_rotations_resources_ko_KR_1763727191.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2748"
+                        ],
+                        "uncompressedBytes": [
+                            "6198"
+                        ],
+                        "version": [
+                            "1763727191"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_rotations_resources_ko_KR_1763727191.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rotations_utils_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_rotations_utils"
+                        ],
+                        "componentFileName": [
+                            "shared_rotations_utils_common_1763803733.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2557"
+                        ],
+                        "uncompressedBytes": [
+                            "15275"
+                        ],
+                        "version": [
+                            "1763803733"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_rotations_utils_common_1763803733.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_terrain_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_terrain"
+                        ],
+                        "componentFileName": [
+                            "shared_terrain_common_1763840863.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1934129"
+                        ],
+                        "uncompressedBytes": [
+                            "2936729"
+                        ],
+                        "version": [
+                            "1763840863"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_terrain_common_1763840863.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_terrain_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_terrain_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_terrain_resources_common_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2146"
+                        ],
+                        "uncompressedBytes": [
+                            "4855"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_terrain_resources_common_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_terrain_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_terrain_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_terrain_resources_ja_JP_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2759"
+                        ],
+                        "uncompressedBytes": [
+                            "5485"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_terrain_resources_ja_JP_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_terrain_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_terrain_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_terrain_resources_ko_KR_1763727189.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2697"
+                        ],
+                        "uncompressedBytes": [
+                            "5293"
+                        ],
+                        "version": [
+                            "1763727189"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_terrain_resources_ko_KR_1763727189.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_uav_aero_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_uav_aero"
+                        ],
+                        "componentFileName": [
+                            "shared_uav_aero_common_1763834779.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8213"
+                        ],
+                        "uncompressedBytes": [
+                            "23968"
+                        ],
+                        "version": [
+                            "1763834779"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_uav_aero_common_1763834779.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_custom_project_linux_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_custom_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_custom_project_linux_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "343"
+                        ],
+                        "uncompressedBytes": [
+                            "138"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/automotive_custom_project_linux_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_custom_project_windows_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_custom_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_custom_project_windows_common_1763726754.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "349"
+                        ],
+                        "uncompressedBytes": [
+                            "142"
+                        ],
+                        "version": [
+                            "1763726754"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/automotive_custom_project_windows_common_1763726754.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_linux_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_linux_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "323"
+                        ],
+                        "uncompressedBytes": [
+                            "124"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/automotive_project_linux_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_windows_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_windows_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "329"
+                        ],
+                        "uncompressedBytes": [
+                            "128"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/automotive_project_windows_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/spkg_plugins_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/spkg_plugins"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/spkg_plugins_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "292"
+                        ],
+                        "uncompressedBytes": [
+                            "97"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/spkg_plugins_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/spkg_project_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/spkg_project"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/spkg_project_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "286"
+                        ],
+                        "uncompressedBytes": [
+                            "97"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/sim3d_projects/spkg_project_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "spacecraft_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "spacecraft_resources"
+                        ],
+                        "componentFileName": [
+                            "spacecraft_resources_common_1763727195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15351"
+                        ],
+                        "uncompressedBytes": [
+                            "40256"
+                        ],
+                        "version": [
+                            "1763727195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/spacecraft_resources_common_1763727195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "spacecraft_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "spacecraft_resources"
+                        ],
+                        "componentFileName": [
+                            "spacecraft_resources_ja_JP_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20091"
+                        ],
+                        "uncompressedBytes": [
+                            "48383"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/spacecraft_resources_ja_JP_1763727196.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "AT"
+        ],
+        "productName": [
+            "Aerospace Toolbox"
+        ],
+        "productNumber": [
+            "108"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

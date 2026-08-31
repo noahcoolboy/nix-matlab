@@ -1,0 +1,924 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/serdes_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/serdes_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/serdes_search_doc_en_common_1776690490.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "148012"
+                        ],
+                        "uncompressedBytes": [
+                            "489221"
+                        ],
+                        "version": [
+                            "1776690490"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/buy/doc/serdes_search_doc_en_common_1776690490.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "serdes_common"
+                        ],
+                        "componentBaseName": [
+                            "serdes"
+                        ],
+                        "componentFileName": [
+                            "serdes_common_1776101415.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5356486"
+                        ],
+                        "uncompressedBytes": [
+                            "15896050"
+                        ],
+                        "version": [
+                            "1776101415"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/serdes_common_1776101415.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "serdes_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "serdes_licenses"
+                        ],
+                        "componentFileName": [
+                            "serdes_licenses_common_1763621173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "432"
+                        ],
+                        "uncompressedBytes": [
+                            "500"
+                        ],
+                        "version": [
+                            "1763621173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/serdes_licenses_common_1763621173.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "serdes_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "serdes_resources_common_1767374823.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "54761"
+                        ],
+                        "uncompressedBytes": [
+                            "187939"
+                        ],
+                        "version": [
+                            "1767374823"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/serdes_resources_common_1767374823.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "serdes_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "serdes_resources_ja_JP_1771873504.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "63754"
+                        ],
+                        "uncompressedBytes": [
+                            "200533"
+                        ],
+                        "version": [
+                            "1771873504"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/serdes_resources_ja_JP_1771873504.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_common_1770090058.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37835"
+                        ],
+                        "uncompressedBytes": [
+                            "80491"
+                        ],
+                        "version": [
+                            "1770090058"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_comm_msblks_serdes_common_1770090058.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_resources_common_1763727187.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6163"
+                        ],
+                        "uncompressedBytes": [
+                            "16065"
+                        ],
+                        "version": [
+                            "1763727187"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_comm_msblks_serdes_resources_common_1763727187.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_resources_ja_JP_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7582"
+                        ],
+                        "uncompressedBytes": [
+                            "17691"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_comm_msblks_serdes_resources_ja_JP_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_comm_msblks_serdes_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_comm_msblks_serdes_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_comm_msblks_serdes_resources_ko_KR_1763727188.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7296"
+                        ],
+                        "uncompressedBytes": [
+                            "16340"
+                        ],
+                        "version": [
+                            "1763727188"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_comm_msblks_serdes_resources_ko_KR_1763727188.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_msblks_measurement_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_msblks_measurement"
+                        ],
+                        "componentFileName": [
+                            "shared_msblks_measurement_common_1770084228.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "315127"
+                        ],
+                        "uncompressedBytes": [
+                            "537120"
+                        ],
+                        "version": [
+                            "1770084228"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_msblks_measurement_common_1770084228.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_msblks_measurement_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_msblks_measurement_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_msblks_measurement_resources_common_1769684322.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7330"
+                        ],
+                        "uncompressedBytes": [
+                            "25635"
+                        ],
+                        "version": [
+                            "1769684322"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_msblks_measurement_resources_common_1769684322.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rflib_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_rflib"
+                        ],
+                        "componentFileName": [
+                            "shared_rflib_common_1763834802.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "105634"
+                        ],
+                        "uncompressedBytes": [
+                            "203033"
+                        ],
+                        "version": [
+                            "1763834802"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_rflib_common_1763834802.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_rflib_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_rflib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_rflib_resources_common_1763727216.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2525"
+                        ],
+                        "uncompressedBytes": [
+                            "4418"
+                        ],
+                        "version": [
+                            "1763727216"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_rflib_resources_common_1763727216.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sleyediagram_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sleyediagram"
+                        ],
+                        "componentFileName": [
+                            "shared_sleyediagram_common_1776336173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2968392"
+                        ],
+                        "uncompressedBytes": [
+                            "8106689"
+                        ],
+                        "version": [
+                            "1776336173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_sleyediagram_common_1776336173.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SX"
+        ],
+        "productName": [
+            "SerDes Toolbox"
+        ],
+        "productNumber": [
+            "162"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "DS"
+                        ],
+                        "productName": [
+                            "DSP System Toolbox"
+                        ],
+                        "productNumber": [
+                            "24"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SG"
+                        ],
+                        "productName": [
+                            "Signal Processing Toolbox"
+                        ],
+                        "productNumber": [
+                            "8"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

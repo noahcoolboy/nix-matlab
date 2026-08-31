@@ -1,0 +1,790 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/dds_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/dds_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/dds_search_doc_en_common_1785767722.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11292"
+                        ],
+                        "uncompressedBytes": [
+                            "22601"
+                        ],
+                        "version": [
+                            "1785767722"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/buy/doc/dds_search_doc_en_common_1785767722.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/adaptor_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/adaptor"
+                        ],
+                        "componentFileName": [
+                            "dds/adaptor_common_1779952964.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "231750"
+                        ],
+                        "uncompressedBytes": [
+                            "262493"
+                        ],
+                        "version": [
+                            "1779952964"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/adaptor_common_1779952964.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/coder_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/coder"
+                        ],
+                        "componentFileName": [
+                            "dds/coder_common_1770082711.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "34862"
+                        ],
+                        "uncompressedBytes": [
+                            "29526"
+                        ],
+                        "version": [
+                            "1770082711"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/coder_common_1770082711.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/dds_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/dds"
+                        ],
+                        "componentFileName": [
+                            "dds/dds_common_1779958931.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "38449"
+                        ],
+                        "uncompressedBytes": [
+                            "40026"
+                        ],
+                        "version": [
+                            "1779958931"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/dds_common_1779958931.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/src_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/src"
+                        ],
+                        "componentFileName": [
+                            "dds/src_common_1764145085.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5913"
+                        ],
+                        "uncompressedBytes": [
+                            "16882"
+                        ],
+                        "version": [
+                            "1764145085"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/src_common_1764145085.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/toolstrip_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/toolstrip"
+                        ],
+                        "componentFileName": [
+                            "dds/toolstrip_common_1785401577.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1888637"
+                        ],
+                        "uncompressedBytes": [
+                            "3706470"
+                        ],
+                        "version": [
+                            "1785401577"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/toolstrip_common_1785401577.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/vendor_eprosima_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/vendor_eprosima"
+                        ],
+                        "componentFileName": [
+                            "dds/vendor_eprosima_common_1770082716.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "38087"
+                        ],
+                        "uncompressedBytes": [
+                            "114628"
+                        ],
+                        "version": [
+                            "1770082716"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/vendor_eprosima_common_1770082716.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/vendor_rti_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/vendor_rti"
+                        ],
+                        "componentFileName": [
+                            "dds/vendor_rti_common_1770082716.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "52057"
+                        ],
+                        "uncompressedBytes": [
+                            "202635"
+                        ],
+                        "version": [
+                            "1770082716"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/vendor_rti_common_1770082716.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds/vendor_rtimicro_common"
+                        ],
+                        "componentBaseName": [
+                            "dds/vendor_rtimicro"
+                        ],
+                        "componentFileName": [
+                            "dds/vendor_rtimicro_common_1770082720.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "35920"
+                        ],
+                        "uncompressedBytes": [
+                            "109533"
+                        ],
+                        "version": [
+                            "1770082720"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds/vendor_rtimicro_common_1770082720.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dds_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "dds_licenses"
+                        ],
+                        "componentFileName": [
+                            "dds_licenses_common_1763621166.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4072"
+                        ],
+                        "uncompressedBytes": [
+                            "10804"
+                        ],
+                        "version": [
+                            "1763621166"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/dds_licenses_common_1763621166.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_interface_dict/platforms/dds_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_interface_dict/platforms/dds"
+                        ],
+                        "componentFileName": [
+                            "sl_interface_dict/platforms/dds_common_1764116341.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20968"
+                        ],
+                        "uncompressedBytes": [
+                            "42634"
+                        ],
+                        "version": [
+                            "1764116341"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/sl_interface_dict/platforms/dds_common_1764116341.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "toolstrip_coder_app_common"
+                        ],
+                        "componentBaseName": [
+                            "toolstrip_coder_app"
+                        ],
+                        "componentFileName": [
+                            "toolstrip_coder_app_common_1763826745.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1172540"
+                        ],
+                        "uncompressedBytes": [
+                            "1459919"
+                        ],
+                        "version": [
+                            "1763826745"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/toolstrip_coder_app_common_1763826745.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "DD"
+        ],
+        "productName": [
+            "DDS Blockset"
+        ],
+        "productNumber": [
+            "190"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1397 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/icomm_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/icomm_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/icomm_search_doc_en_common_1759518127.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "90958"
+                        ],
+                        "uncompressedBytes": [
+                            "267677"
+                        ],
+                        "version": [
+                            "1759518127"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/buy/doc/icomm_search_doc_en_common_1759518127.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm"
+                        ],
+                        "componentFileName": [
+                            "icomm_common_1753982185.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "34465"
+                        ],
+                        "uncompressedBytes": [
+                            "37648"
+                        ],
+                        "version": [
+                            "1753982185"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_common_1753982185.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_licenses"
+                        ],
+                        "componentFileName": [
+                            "icomm_licenses_common_1753784821.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2875"
+                        ],
+                        "uncompressedBytes": [
+                            "6795"
+                        ],
+                        "version": [
+                            "1753784821"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_licenses_common_1753784821.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbus_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbus"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbus_common_1755965905.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "155466"
+                        ],
+                        "uncompressedBytes": [
+                            "392890"
+                        ],
+                        "version": [
+                            "1755965905"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_modbus_common_1755965905.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbus_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbus_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbus_resources_common_1755765043.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6115"
+                        ],
+                        "uncompressedBytes": [
+                            "17034"
+                        ],
+                        "version": [
+                            "1755765043"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_modbus_resources_common_1755765043.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbus_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbus_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbus_resources_ja_JP_1755765044.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8006"
+                        ],
+                        "uncompressedBytes": [
+                            "20295"
+                        ],
+                        "version": [
+                            "1755765044"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_modbus_resources_ja_JP_1755765044.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbusapplet_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbusapplet"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbusapplet_common_1753981370.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "97533"
+                        ],
+                        "uncompressedBytes": [
+                            "352406"
+                        ],
+                        "version": [
+                            "1753981370"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_modbusapplet_common_1753981370.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbusapplet_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbusapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbusapplet_resources_common_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8474"
+                        ],
+                        "uncompressedBytes": [
+                            "19026"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_modbusapplet_resources_common_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbusapplet_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbusapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbusapplet_resources_ja_JP_1753785372.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10488"
+                        ],
+                        "uncompressedBytes": [
+                            "20540"
+                        ],
+                        "version": [
+                            "1753785372"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_modbusapplet_resources_ja_JP_1753785372.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_mqtt_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_mqtt"
+                        ],
+                        "componentFileName": [
+                            "icomm_mqtt_common_1758954433.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "99738"
+                        ],
+                        "uncompressedBytes": [
+                            "94221"
+                        ],
+                        "version": [
+                            "1758954433"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_mqtt_common_1758954433.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_mqtt_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_mqtt_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_mqtt_resources_common_1753785348.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5325"
+                        ],
+                        "uncompressedBytes": [
+                            "14640"
+                        ],
+                        "version": [
+                            "1753785348"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_mqtt_resources_common_1753785348.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_mqtt_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "icomm_mqtt_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_mqtt_resources_ja_JP_1753785348.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6840"
+                        ],
+                        "uncompressedBytes": [
+                            "16740"
+                        ],
+                        "version": [
+                            "1753785348"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_mqtt_resources_ja_JP_1753785348.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_opc_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_opc"
+                        ],
+                        "componentFileName": [
+                            "icomm_opc_common_1758954442.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "301163"
+                        ],
+                        "uncompressedBytes": [
+                            "480602"
+                        ],
+                        "version": [
+                            "1758954442"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_opc_common_1758954442.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_opc_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_opc_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_opc_resources_common_1753785349.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "27607"
+                        ],
+                        "uncompressedBytes": [
+                            "81915"
+                        ],
+                        "version": [
+                            "1753785349"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_opc_resources_common_1753785349.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_opc_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "icomm_opc_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_opc_resources_ja_JP_1755765044.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "33523"
+                        ],
+                        "uncompressedBytes": [
+                            "88383"
+                        ],
+                        "version": [
+                            "1755765044"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_opc_resources_ja_JP_1755765044.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_osisoftpi_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_osisoftpi"
+                        ],
+                        "componentFileName": [
+                            "icomm_osisoftpi_common_1753847312.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "26120"
+                        ],
+                        "uncompressedBytes": [
+                            "23850"
+                        ],
+                        "version": [
+                            "1753847312"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_osisoftpi_common_1753847312.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_osisoftpi_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_osisoftpi_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_osisoftpi_resources_common_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1369"
+                        ],
+                        "uncompressedBytes": [
+                            "3135"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_osisoftpi_resources_common_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_osisoftpi_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "icomm_osisoftpi_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_osisoftpi_resources_ja_JP_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1591"
+                        ],
+                        "uncompressedBytes": [
+                            "3103"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_osisoftpi_resources_ja_JP_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_provider_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_provider"
+                        ],
+                        "componentFileName": [
+                            "icomm_provider_common_1753981812.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21556"
+                        ],
+                        "uncompressedBytes": [
+                            "57337"
+                        ],
+                        "version": [
+                            "1753981812"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_provider_common_1753981812.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_provider_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "icomm_provider_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_provider_resources_common_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1415"
+                        ],
+                        "uncompressedBytes": [
+                            "3045"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_provider_resources_common_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_provider_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "icomm_provider_resources"
+                        ],
+                        "componentFileName": [
+                            "icomm_provider_resources_ja_JP_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1824"
+                        ],
+                        "uncompressedBytes": [
+                            "3651"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/icomm_provider_resources_ja_JP_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_seriallib_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_seriallib_simulink"
+                        ],
+                        "componentFileName": [
+                            "shared_seriallib_simulink_common_1753980750.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "68023"
+                        ],
+                        "uncompressedBytes": [
+                            "126839"
+                        ],
+                        "version": [
+                            "1753980750"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/shared_seriallib_simulink_common_1753980750.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_testmeaslib_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_testmeaslib_simulink"
+                        ],
+                        "componentFileName": [
+                            "shared_testmeaslib_simulink_common_1753876930.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13618"
+                        ],
+                        "uncompressedBytes": [
+                            "17931"
+                        ],
+                        "version": [
+                            "1753876930"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/1/licensed_software/components/complete/shared_testmeaslib_simulink_common_1753876930.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "OT"
+        ],
+        "productName": [
+            "Industrial Communication Toolbox"
+        ],
+        "productNumber": [
+            "89"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

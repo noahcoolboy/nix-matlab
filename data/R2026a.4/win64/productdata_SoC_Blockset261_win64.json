@@ -1,0 +1,796 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/soc_search_doc_en_win64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/soc_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/soc_search_doc_en_win64_1783030092.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "255294"
+                        ],
+                        "uncompressedBytes": [
+                            "274716"
+                        ],
+                        "version": [
+                            "1783030092"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/buy/doc/soc_search_doc_en_win64_1783030092.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dsp_visionhdl_sl_core_win64"
+                        ],
+                        "componentBaseName": [
+                            "dsp_visionhdl_sl_core"
+                        ],
+                        "componentFileName": [
+                            "dsp_visionhdl_sl_core_win64_1782885379.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "172336"
+                        ],
+                        "uncompressedBytes": [
+                            "508877"
+                        ],
+                        "version": [
+                            "1782885379"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/dsp_visionhdl_sl_core_win64_1782885379.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/soc/soc_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/soc/soc"
+                        ],
+                        "componentFileName": [
+                            "shared/soc/soc_win64_1781406107.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14233"
+                        ],
+                        "uncompressedBytes": [
+                            "23522"
+                        ],
+                        "version": [
+                            "1781406107"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared/soc/soc_win64_1781406107.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_dspvision_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_dspvision"
+                        ],
+                        "componentFileName": [
+                            "shared_dspvision_win64_1781394957.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2716170"
+                        ],
+                        "uncompressedBytes": [
+                            "7625952"
+                        ],
+                        "version": [
+                            "1781394957"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_dspvision_win64_1781394957.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_socio_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_socio"
+                        ],
+                        "componentFileName": [
+                            "shared_socio_win64_1781322916.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37710"
+                        ],
+                        "uncompressedBytes": [
+                            "67902"
+                        ],
+                        "version": [
+                            "1781322916"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_socio_win64_1781322916.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/ddux_builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/ddux_builtins"
+                        ],
+                        "componentFileName": [
+                            "soc/ddux_builtins_win64_1771413543.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "94478"
+                        ],
+                        "uncompressedBytes": [
+                            "243395"
+                        ],
+                        "version": [
+                            "1771413543"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/ddux_builtins_win64_1771413543.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/fpga_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/fpga"
+                        ],
+                        "componentFileName": [
+                            "soc/fpga_win64_1767775728.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "24407"
+                        ],
+                        "uncompressedBytes": [
+                            "47968"
+                        ],
+                        "version": [
+                            "1767775728"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/fpga_win64_1767775728.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/kernelprofiler_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/kernelprofiler"
+                        ],
+                        "componentFileName": [
+                            "soc/kernelprofiler_win64_1781814030.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "547081"
+                        ],
+                        "uncompressedBytes": [
+                            "1652911"
+                        ],
+                        "version": [
+                            "1781814030"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/kernelprofiler_win64_1781814030.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/processor_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/processor"
+                        ],
+                        "componentFileName": [
+                            "soc/processor_win64_1782596466.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "673406"
+                        ],
+                        "uncompressedBytes": [
+                            "1690593"
+                        ],
+                        "version": [
+                            "1782596466"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/processor_win64_1782596466.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/profiler_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/profiler"
+                        ],
+                        "componentFileName": [
+                            "soc/profiler_win64_1781813735.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "752383"
+                        ],
+                        "uncompressedBytes": [
+                            "2195272"
+                        ],
+                        "version": [
+                            "1781813735"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/profiler_win64_1781813735.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/shared_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/shared"
+                        ],
+                        "componentFileName": [
+                            "soc/shared_win64_1764179379.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "130094"
+                        ],
+                        "uncompressedBytes": [
+                            "284104"
+                        ],
+                        "version": [
+                            "1764179379"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/shared_win64_1764179379.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/soc_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/soc"
+                        ],
+                        "componentFileName": [
+                            "soc/soc_win64_1783190581.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14233"
+                        ],
+                        "uncompressedBytes": [
+                            "23508"
+                        ],
+                        "version": [
+                            "1783190581"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/soc_win64_1783190581.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/soc_plugin_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/soc_plugin"
+                        ],
+                        "componentFileName": [
+                            "soc/soc_plugin_win64_1781800000.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "58637"
+                        ],
+                        "uncompressedBytes": [
+                            "150493"
+                        ],
+                        "version": [
+                            "1781800000"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/soc_plugin_win64_1781800000.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/soc_sltoolstrip_win64"
+                        ],
+                        "componentBaseName": [
+                            "soc/soc_sltoolstrip"
+                        ],
+                        "componentFileName": [
+                            "soc/soc_sltoolstrip_win64_1781312210.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21443"
+                        ],
+                        "uncompressedBytes": [
+                            "33254"
+                        ],
+                        "version": [
+                            "1781312210"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/soc/soc_sltoolstrip_win64_1781312210.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "HW"
+        ],
+        "productName": [
+            "SoC Blockset"
+        ],
+        "productNumber": [
+            "163"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

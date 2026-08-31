@@ -1,0 +1,3195 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/icutzdata_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/icutzdata"
+                        ],
+                        "componentFileName": [
+                            "3p/icutzdata_common_1763610789.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "93969"
+                        ],
+                        "uncompressedBytes": [
+                            "239979"
+                        ],
+                        "version": [
+                            "1763610789"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/3p/icutzdata_common_1763610789.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/simple-websocket-server_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/simple-websocket-server"
+                        ],
+                        "componentFileName": [
+                            "3p/simple-websocket-server_common_1763610980.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "878"
+                        ],
+                        "uncompressedBytes": [
+                            "1093"
+                        ],
+                        "version": [
+                            "1763610980"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/3p/simple-websocket-server_common_1763610980.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "ddux_schemas_common"
+                        ],
+                        "componentBaseName": [
+                            "ddux_schemas"
+                        ],
+                        "componentFileName": [
+                            "ddux_schemas_common_1763729319.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "29712"
+                        ],
+                        "uncompressedBytes": [
+                            "23296"
+                        ],
+                        "version": [
+                            "1763729319"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/ddux_schemas_common_1763729319.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/core_common"
+                        ],
+                        "componentBaseName": [
+                            "foundation/core"
+                        ],
+                        "componentFileName": [
+                            "foundation/core_common_1763728272.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3081"
+                        ],
+                        "uncompressedBytes": [
+                            "16486"
+                        ],
+                        "version": [
+                            "1763728272"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/core_common_1763728272.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/legacy_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "foundation/legacy_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/legacy_resources_common_1763727067.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "519"
+                        ],
+                        "uncompressedBytes": [
+                            "498"
+                        ],
+                        "version": [
+                            "1763727067"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/legacy_resources_common_1763727067.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/legacy_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "foundation/legacy_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/legacy_resources_ja_JP_1763727068.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "840"
+                        ],
+                        "uncompressedBytes": [
+                            "910"
+                        ],
+                        "version": [
+                            "1763727068"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/legacy_resources_ja_JP_1763727068.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/legacy_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "foundation/legacy_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/legacy_resources_ko_KR_1763727068.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "798"
+                        ],
+                        "uncompressedBytes": [
+                            "818"
+                        ],
+                        "version": [
+                            "1763727068"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/legacy_resources_ko_KR_1763727068.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/legacy_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "foundation/legacy_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/legacy_resources_zh_CN_1763727069.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "754"
+                        ],
+                        "uncompressedBytes": [
+                            "684"
+                        ],
+                        "version": [
+                            "1763727069"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/legacy_resources_zh_CN_1763727069.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform/pf_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform/pf_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform/pf_resources_common_1763727089.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "745"
+                        ],
+                        "uncompressedBytes": [
+                            "1369"
+                        ],
+                        "version": [
+                            "1763727089"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform/pf_resources_common_1763727089.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform/pf_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform/pf_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform/pf_resources_ja_JP_1763727089.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1030"
+                        ],
+                        "uncompressedBytes": [
+                            "1689"
+                        ],
+                        "version": [
+                            "1763727089"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform/pf_resources_ja_JP_1763727089.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform/pf_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform/pf_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform/pf_resources_zh_CN_1763727090.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "961"
+                        ],
+                        "uncompressedBytes": [
+                            "1471"
+                        ],
+                        "version": [
+                            "1763727090"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform/pf_resources_zh_CN_1763727090.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform_resources_common_1763727068.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1104"
+                        ],
+                        "uncompressedBytes": [
+                            "2014"
+                        ],
+                        "version": [
+                            "1763727068"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform_resources_common_1763727068.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform_resources_ja_JP_1763727068.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1646"
+                        ],
+                        "uncompressedBytes": [
+                            "2523"
+                        ],
+                        "version": [
+                            "1763727068"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform_resources_ja_JP_1763727068.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform_resources_ko_KR_1763727069.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1611"
+                        ],
+                        "uncompressedBytes": [
+                            "2444"
+                        ],
+                        "version": [
+                            "1763727069"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform_resources_ko_KR_1763727069.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/platform_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "foundation/platform_resources"
+                        ],
+                        "componentFileName": [
+                            "foundation/platform_resources_zh_CN_1763727070.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1549"
+                        ],
+                        "uncompressedBytes": [
+                            "2273"
+                        ],
+                        "version": [
+                            "1763727070"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/foundation/platform_resources_zh_CN_1763727070.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "framework/framework_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "framework/framework_resources"
+                        ],
+                        "componentFileName": [
+                            "framework/framework_resources_common_1763727135.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "444"
+                        ],
+                        "uncompressedBytes": [
+                            "336"
+                        ],
+                        "version": [
+                            "1763727135"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/framework/framework_resources_common_1763727135.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/product_data_json_common"
+                        ],
+                        "componentBaseName": [
+                            "install/product_data_json"
+                        ],
+                        "componentFileName": [
+                            "install/product_data_json_common_1763727026.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4546"
+                        ],
+                        "uncompressedBytes": [
+                            "53075"
+                        ],
+                        "version": [
+                            "1763727026"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/product_data_json_common_1763727026.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/product_update/update_installer_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "install/product_update/update_installer_resources"
+                        ],
+                        "componentFileName": [
+                            "install/product_update/update_installer_resources_common_1763727241.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1613"
+                        ],
+                        "uncompressedBytes": [
+                            "7350"
+                        ],
+                        "version": [
+                            "1763727241"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/product_update/update_installer_resources_common_1763727241.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/product_update/update_installer_resources_es"
+                        ],
+                        "componentBaseName": [
+                            "install/product_update/update_installer_resources"
+                        ],
+                        "componentFileName": [
+                            "install/product_update/update_installer_resources_es_1763727241.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "es"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1848"
+                        ],
+                        "uncompressedBytes": [
+                            "8134"
+                        ],
+                        "version": [
+                            "1763727241"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/product_update/update_installer_resources_es_1763727241.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/product_update/update_installer_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "install/product_update/update_installer_resources"
+                        ],
+                        "componentFileName": [
+                            "install/product_update/update_installer_resources_ja_JP_1763727241.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2110"
+                        ],
+                        "uncompressedBytes": [
+                            "9345"
+                        ],
+                        "version": [
+                            "1763727241"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/product_update/update_installer_resources_ja_JP_1763727241.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/product_update/update_installer_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "install/product_update/update_installer_resources"
+                        ],
+                        "componentFileName": [
+                            "install/product_update/update_installer_resources_ko_KR_1763727242.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2038"
+                        ],
+                        "uncompressedBytes": [
+                            "8383"
+                        ],
+                        "version": [
+                            "1763727242"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/product_update/update_installer_resources_ko_KR_1763727242.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/product_update/update_installer_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "install/product_update/update_installer_resources"
+                        ],
+                        "componentFileName": [
+                            "install/product_update/update_installer_resources_zh_CN_1763727242.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1909"
+                        ],
+                        "uncompressedBytes": [
+                            "7489"
+                        ],
+                        "version": [
+                            "1763727242"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/product_update/update_installer_resources_zh_CN_1763727242.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "install/update_installer_ui_common"
+                        ],
+                        "componentBaseName": [
+                            "install/update_installer_ui"
+                        ],
+                        "componentFileName": [
+                            "install/update_installer_ui_common_1780200411.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1152898"
+                        ],
+                        "uncompressedBytes": [
+                            "3315166"
+                        ],
+                        "version": [
+                            "1780200411"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/install/update_installer_ui_common_1780200411.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mathworks_update_installer_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "mathworks_update_installer_licenses"
+                        ],
+                        "componentFileName": [
+                            "mathworks_update_installer_licenses_common_1763621170.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "33988"
+                        ],
+                        "uncompressedBytes": [
+                            "124069"
+                        ],
+                        "version": [
+                            "1763621170"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mathworks_update_installer_licenses_common_1763621170.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlab_controller_common"
+                        ],
+                        "componentBaseName": [
+                            "matlab_controller"
+                        ],
+                        "componentFileName": [
+                            "matlab_controller_common_1763726863.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1214"
+                        ],
+                        "uncompressedBytes": [
+                            "5272"
+                        ],
+                        "version": [
+                            "1763726863"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/matlab_controller_common_1763726863.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlab_extdata_common"
+                        ],
+                        "componentBaseName": [
+                            "matlab_extdata"
+                        ],
+                        "componentFileName": [
+                            "matlab_extdata_common_1779940604.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "88725"
+                        ],
+                        "uncompressedBytes": [
+                            "507036"
+                        ],
+                        "version": [
+                            "1779940604"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/matlab_extdata_common_1779940604.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlab_settings_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "matlab_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "matlab_settings_resources_common_1763727069.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6048"
+                        ],
+                        "uncompressedBytes": [
+                            "19111"
+                        ],
+                        "version": [
+                            "1763727069"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/matlab_settings_resources_common_1763727069.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlab_settings_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "matlab_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "matlab_settings_resources_ja_JP_1763727070.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "7060"
+                        ],
+                        "uncompressedBytes": [
+                            "21787"
+                        ],
+                        "version": [
+                            "1763727070"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/matlab_settings_resources_ja_JP_1763727070.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlab_settings_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "matlab_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "matlab_settings_resources_ko_KR_1763727071.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6865"
+                        ],
+                        "uncompressedBytes": [
+                            "20832"
+                        ],
+                        "version": [
+                            "1763727071"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/matlab_settings_resources_ko_KR_1763727071.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlab_settings_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "matlab_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "matlab_settings_resources_zh_CN_1763727071.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6433"
+                        ],
+                        "uncompressedBytes": [
+                            "17294"
+                        ],
+                        "version": [
+                            "1763727071"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/matlab_settings_resources_zh_CN_1763727071.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mf0_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "mf0_resources"
+                        ],
+                        "componentFileName": [
+                            "mf0_resources_common_1763727082.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4804"
+                        ],
+                        "uncompressedBytes": [
+                            "13109"
+                        ],
+                        "version": [
+                            "1763727082"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mf0_resources_common_1763727082.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mf0_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "mf0_resources"
+                        ],
+                        "componentFileName": [
+                            "mf0_resources_ja_JP_1763727083.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6701"
+                        ],
+                        "uncompressedBytes": [
+                            "17344"
+                        ],
+                        "version": [
+                            "1763727083"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mf0_resources_ja_JP_1763727083.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mf0_sync_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "mf0_sync_resources"
+                        ],
+                        "componentFileName": [
+                            "mf0_sync_resources_common_1763727087.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "356"
+                        ],
+                        "uncompressedBytes": [
+                            "300"
+                        ],
+                        "version": [
+                            "1763727087"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mf0_sync_resources_common_1763727087.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mf0_sync_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "mf0_sync_resources"
+                        ],
+                        "componentFileName": [
+                            "mf0_sync_resources_ja_JP_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "536"
+                        ],
+                        "uncompressedBytes": [
+                            "492"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mf0_sync_resources_ja_JP_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mladdon_builtins_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "mladdon_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mladdon_builtins_resources_common_1763727087.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "960"
+                        ],
+                        "uncompressedBytes": [
+                            "3023"
+                        ],
+                        "version": [
+                            "1763727087"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mladdon_builtins_resources_common_1763727087.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mladdon_builtins_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "mladdon_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mladdon_builtins_resources_ja_JP_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1184"
+                        ],
+                        "uncompressedBytes": [
+                            "3802"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mladdon_builtins_resources_ja_JP_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mladdon_builtins_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "mladdon_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mladdon_builtins_resources_ko_KR_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1140"
+                        ],
+                        "uncompressedBytes": [
+                            "3456"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mladdon_builtins_resources_ko_KR_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mladdon_builtins_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "mladdon_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mladdon_builtins_resources_zh_CN_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1143"
+                        ],
+                        "uncompressedBytes": [
+                            "3055"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mladdon_builtins_resources_zh_CN_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mlapp_builtins_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "mlapp_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mlapp_builtins_resources_common_1763727087.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1030"
+                        ],
+                        "uncompressedBytes": [
+                            "2708"
+                        ],
+                        "version": [
+                            "1763727087"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mlapp_builtins_resources_common_1763727087.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mlapp_builtins_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "mlapp_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mlapp_builtins_resources_ja_JP_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1341"
+                        ],
+                        "uncompressedBytes": [
+                            "3097"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mlapp_builtins_resources_ja_JP_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mlapp_builtins_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "mlapp_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mlapp_builtins_resources_ko_KR_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1302"
+                        ],
+                        "uncompressedBytes": [
+                            "2935"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mlapp_builtins_resources_ko_KR_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mlapp_builtins_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "mlapp_builtins_resources"
+                        ],
+                        "componentFileName": [
+                            "mlapp_builtins_resources_zh_CN_1763727088.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1255"
+                        ],
+                        "uncompressedBytes": [
+                            "2724"
+                        ],
+                        "version": [
+                            "1763727088"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mlapp_builtins_resources_zh_CN_1763727088.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpm_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "mpm_resources"
+                        ],
+                        "componentFileName": [
+                            "mpm_resources_common_1763727068.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21050"
+                        ],
+                        "uncompressedBytes": [
+                            "66855"
+                        ],
+                        "version": [
+                            "1763727068"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mpm_resources_common_1763727068.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpm_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "mpm_resources"
+                        ],
+                        "componentFileName": [
+                            "mpm_resources_ja_JP_1773184174.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25970"
+                        ],
+                        "uncompressedBytes": [
+                            "74021"
+                        ],
+                        "version": [
+                            "1773184174"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mpm_resources_ja_JP_1773184174.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpm_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "mpm_resources"
+                        ],
+                        "componentFileName": [
+                            "mpm_resources_ko_KR_1773184176.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25250"
+                        ],
+                        "uncompressedBytes": [
+                            "66882"
+                        ],
+                        "version": [
+                            "1773184176"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mpm_resources_ko_KR_1773184176.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpm_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "mpm_resources"
+                        ],
+                        "componentFileName": [
+                            "mpm_resources_zh_CN_1773184177.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "23483"
+                        ],
+                        "uncompressedBytes": [
+                            "55000"
+                        ],
+                        "version": [
+                            "1773184177"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/mpm_resources_zh_CN_1773184177.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "scl_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "scl_resources"
+                        ],
+                        "componentFileName": [
+                            "scl_resources_common_1763727077.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3492"
+                        ],
+                        "uncompressedBytes": [
+                            "6725"
+                        ],
+                        "version": [
+                            "1763727077"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/scl_resources_common_1763727077.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "scl_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "scl_resources"
+                        ],
+                        "componentFileName": [
+                            "scl_resources_ja_JP_1763727077.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1210"
+                        ],
+                        "uncompressedBytes": [
+                            "1135"
+                        ],
+                        "version": [
+                            "1763727077"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/scl_resources_ja_JP_1763727077.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "settings/matlab_common"
+                        ],
+                        "componentBaseName": [
+                            "settings/matlab"
+                        ],
+                        "componentFileName": [
+                            "settings/matlab_common_1763743428.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4904"
+                        ],
+                        "uncompressedBytes": [
+                            "23054"
+                        ],
+                        "version": [
+                            "1763743428"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/settings/matlab_common_1763743428.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "settingscore_common"
+                        ],
+                        "componentBaseName": [
+                            "settingscore"
+                        ],
+                        "componentFileName": [
+                            "settingscore_common_1763740976.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "244"
+                        ],
+                        "uncompressedBytes": [
+                            "4"
+                        ],
+                        "version": [
+                            "1763740976"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/settingscore_common_1763740976.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_multimedia_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_multimedia_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_multimedia_resources_common_1763727114.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4337"
+                        ],
+                        "uncompressedBytes": [
+                            "9517"
+                        ],
+                        "version": [
+                            "1763727114"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_multimedia_resources_common_1763727114.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_multimedia_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_multimedia_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_multimedia_resources_ja_JP_1763727114.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5930"
+                        ],
+                        "uncompressedBytes": [
+                            "13115"
+                        ],
+                        "version": [
+                            "1763727114"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_multimedia_resources_ja_JP_1763727114.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_multimedia_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_multimedia_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_multimedia_resources_ko_KR_1763727115.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5758"
+                        ],
+                        "uncompressedBytes": [
+                            "11721"
+                        ],
+                        "version": [
+                            "1763727115"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_multimedia_resources_ko_KR_1763727115.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_multimedia_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "shared_multimedia_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_multimedia_resources_zh_CN_1763727115.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5412"
+                        ],
+                        "uncompressedBytes": [
+                            "9513"
+                        ],
+                        "version": [
+                            "1763727115"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/shared_multimedia_resources_zh_CN_1763727115.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "version_info_common"
+                        ],
+                        "componentBaseName": [
+                            "version_info"
+                        ],
+                        "componentFileName": [
+                            "version_info_common_1782829445.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "337"
+                        ],
+                        "uncompressedBytes": [
+                            "311"
+                        ],
+                        "version": [
+                            "1782829445"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/version_info_common_1782829445.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            ""
+        ],
+        "productName": [
+            "MathWorks Update installer"
+        ],
+        "productNumber": [
+            "0"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            ""
+        ]
+    }
+}

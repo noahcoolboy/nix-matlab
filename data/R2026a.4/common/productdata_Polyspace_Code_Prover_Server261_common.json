@@ -1,0 +1,770 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "autosar_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar_resources"
+                        ],
+                        "componentFileName": [
+                            "autosar_resources_common_1780198864.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "64978"
+                        ],
+                        "uncompressedBytes": [
+                            "242271"
+                        ],
+                        "version": [
+                            "1780198864"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/autosar_resources_common_1780198864.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "autosar_resources"
+                        ],
+                        "componentFileName": [
+                            "autosar_resources_ja_JP_1780198868.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "74677"
+                        ],
+                        "uncompressedBytes": [
+                            "266949"
+                        ],
+                        "version": [
+                            "1780198868"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/autosar_resources_ja_JP_1780198868.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "autosar_resources"
+                        ],
+                        "componentFileName": [
+                            "autosar_resources_zh_CN_1780198870.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "68975"
+                        ],
+                        "uncompressedBytes": [
+                            "222036"
+                        ],
+                        "version": [
+                            "1780198870"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/autosar_resources_zh_CN_1780198870.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/codeprover_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/codeprover_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/codeprover_doc_en_common_1783030031.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "1"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28280528"
+                        ],
+                        "uncompressedBytes": [
+                            "48605705"
+                        ],
+                        "version": [
+                            "1783030031"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/buy/doc/codeprover_doc_en_common_1783030031.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/codeprover_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/codeprover_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/codeprover_search_doc_en_common_1783030036.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "179445"
+                        ],
+                        "uncompressedBytes": [
+                            "548527"
+                        ],
+                        "version": [
+                            "1783030036"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/buy/doc/codeprover_search_doc_en_common_1783030036.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/polyspace_autosar_common"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/polyspace_autosar"
+                        ],
+                        "componentFileName": [
+                            "polyspace/polyspace_autosar_common_1780201173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "127675"
+                        ],
+                        "uncompressedBytes": [
+                            "471764"
+                        ],
+                        "version": [
+                            "1780201173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/polyspace/polyspace_autosar_common_1780201173.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/polyspace_autosar_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/polyspace_autosar_resources"
+                        ],
+                        "componentFileName": [
+                            "polyspace/polyspace_autosar_resources_common_1769684314.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "42446"
+                        ],
+                        "uncompressedBytes": [
+                            "165131"
+                        ],
+                        "version": [
+                            "1769684314"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/polyspace/polyspace_autosar_resources_common_1769684314.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/polyspace_autosar_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/polyspace_autosar_resources"
+                        ],
+                        "componentFileName": [
+                            "polyspace/polyspace_autosar_resources_ja_JP_1771873497.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "44246"
+                        ],
+                        "uncompressedBytes": [
+                            "131677"
+                        ],
+                        "version": [
+                            "1771873497"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/polyspace/polyspace_autosar_resources_ja_JP_1771873497.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/polyspace_autosar_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/polyspace_autosar_resources"
+                        ],
+                        "componentFileName": [
+                            "polyspace/polyspace_autosar_resources_zh_CN_1771873499.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "39866"
+                        ],
+                        "uncompressedBytes": [
+                            "105494"
+                        ],
+                        "version": [
+                            "1771873499"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/polyspace/polyspace_autosar_resources_zh_CN_1771873499.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace/pscodeproverserver_common"
+                        ],
+                        "componentBaseName": [
+                            "polyspace/pscodeproverserver"
+                        ],
+                        "componentFileName": [
+                            "polyspace/pscodeproverserver_common_1763726796.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "600"
+                        ],
+                        "uncompressedBytes": [
+                            "273"
+                        ],
+                        "version": [
+                            "1763726796"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/polyspace/pscodeproverserver_common_1763726796.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "polyspace_cp_server_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "polyspace_cp_server_licenses"
+                        ],
+                        "componentFileName": [
+                            "polyspace_cp_server_licenses_common_1763621172.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "462"
+                        ],
+                        "uncompressedBytes": [
+                            "514"
+                        ],
+                        "version": [
+                            "1763621172"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/polyspace_cp_server_licenses_common_1763621172.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulink_metamodel_common"
+                        ],
+                        "componentBaseName": [
+                            "simulink_metamodel"
+                        ],
+                        "componentFileName": [
+                            "simulink_metamodel_common_1763803708.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1692"
+                        ],
+                        "uncompressedBytes": [
+                            "2008"
+                        ],
+                        "version": [
+                            "1763803708"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/simulink_metamodel_common_1763803708.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "CS"
+        ],
+        "productName": [
+            "Polyspace Code Prover Server"
+        ],
+        "productNumber": [
+            "167"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "BS"
+                        ],
+                        "productName": [
+                            "Polyspace Bug Finder Server"
+                        ],
+                        "productNumber": [
+                            "166"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

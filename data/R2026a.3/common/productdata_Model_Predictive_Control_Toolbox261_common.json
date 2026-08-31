@@ -1,0 +1,676 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/mpc_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/mpc_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/mpc_search_doc_en_common_1779932641.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "159842"
+                        ],
+                        "uncompressedBytes": [
+                            "562219"
+                        ],
+                        "version": [
+                            "1779932641"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/mpc_search_doc_en_common_1779932641.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpc_common"
+                        ],
+                        "componentBaseName": [
+                            "mpc"
+                        ],
+                        "componentFileName": [
+                            "mpc_common_1779961684.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1534947"
+                        ],
+                        "uncompressedBytes": [
+                            "3566186"
+                        ],
+                        "version": [
+                            "1779961684"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/mpc_common_1779961684.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpc_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "mpc_licenses"
+                        ],
+                        "componentFileName": [
+                            "mpc_licenses_common_1763621171.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "436"
+                        ],
+                        "uncompressedBytes": [
+                            "518"
+                        ],
+                        "version": [
+                            "1763621171"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/mpc_licenses_common_1763621171.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpc_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "mpc_resources"
+                        ],
+                        "componentFileName": [
+                            "mpc_resources_common_1766135778.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "56389"
+                        ],
+                        "uncompressedBytes": [
+                            "243549"
+                        ],
+                        "version": [
+                            "1766135778"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/mpc_resources_common_1766135778.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "mpc_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "mpc_resources"
+                        ],
+                        "componentFileName": [
+                            "mpc_resources_ja_JP_1771873493.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "65517"
+                        ],
+                        "uncompressedBytes": [
+                            "285560"
+                        ],
+                        "version": [
+                            "1771873493"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/mpc_resources_ja_JP_1771873493.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_common_1776328637.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "252059"
+                        ],
+                        "uncompressedBytes": [
+                            "784420"
+                        ],
+                        "version": [
+                            "1776328637"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_optimlib_common_1776328637.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_common_1763727167.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "32228"
+                        ],
+                        "uncompressedBytes": [
+                            "80387"
+                        ],
+                        "version": [
+                            "1763727167"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_optimlib_resources_common_1763727167.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_ja_JP_1763727170.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40451"
+                        ],
+                        "uncompressedBytes": [
+                            "85325"
+                        ],
+                        "version": [
+                            "1763727170"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_optimlib_resources_ja_JP_1763727170.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_ko_KR_1763727173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40372"
+                        ],
+                        "uncompressedBytes": [
+                            "86682"
+                        ],
+                        "version": [
+                            "1763727173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_optimlib_resources_ko_KR_1763727173.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_zh_CN_1763727176.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37008"
+                        ],
+                        "uncompressedBytes": [
+                            "74051"
+                        ],
+                        "version": [
+                            "1763727176"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_optimlib_resources_zh_CN_1763727176.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "MP"
+        ],
+        "productName": [
+            "Model Predictive Control Toolbox"
+        ],
+        "productNumber": [
+            "22"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "CT"
+                        ],
+                        "productName": [
+                            "Control System Toolbox"
+                        ],
+                        "productNumber": [
+                            "3"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

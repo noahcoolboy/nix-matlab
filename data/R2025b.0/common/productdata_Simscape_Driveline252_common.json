@@ -1,0 +1,639 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/sdl_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/sdl_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/sdl_search_doc_en_common_1756314445.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "80881"
+                        ],
+                        "uncompressedBytes": [
+                            "254199"
+                        ],
+                        "version": [
+                            "1756314445"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/buy/doc/sdl_search_doc_en_common_1756314445.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_common_1755971942.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1970339"
+                        ],
+                        "uncompressedBytes": [
+                            "2900452"
+                        ],
+                        "version": [
+                            "1755971942"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl_common_1755971942.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/advisor_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/advisor"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/advisor_common_1753974052.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14509"
+                        ],
+                        "uncompressedBytes": [
+                            "10760"
+                        ],
+                        "version": [
+                            "1753974052"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl/advisor_common_1753974052.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/classic_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/classic"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/classic_common_1753988025.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "105838"
+                        ],
+                        "uncompressedBytes": [
+                            "128762"
+                        ],
+                        "version": [
+                            "1753988025"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl/classic_common_1753988025.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/parts_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/parts"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/parts_common_1753897825.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "45248"
+                        ],
+                        "uncompressedBytes": [
+                            "120115"
+                        ],
+                        "version": [
+                            "1753897825"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl/parts_common_1753897825.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/supporting_files_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/supporting_files"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/supporting_files_common_1753988032.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "189641"
+                        ],
+                        "uncompressedBytes": [
+                            "241789"
+                        ],
+                        "version": [
+                            "1753988032"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl/supporting_files_common_1753988032.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl_resources"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_resources_common_1753785390.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "127993"
+                        ],
+                        "uncompressedBytes": [
+                            "308547"
+                        ],
+                        "version": [
+                            "1753785390"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl_resources_common_1753785390.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl_resources"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_resources_ja_JP_1753785395.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "166165"
+                        ],
+                        "uncompressedBytes": [
+                            "345260"
+                        ],
+                        "version": [
+                            "1753785395"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/physmod/sdl_resources_ja_JP_1753785395.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simscapedriveline_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "simscapedriveline_licenses"
+                        ],
+                        "componentFileName": [
+                            "simscapedriveline_licenses_common_1753784799.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "444"
+                        ],
+                        "uncompressedBytes": [
+                            "504"
+                        ],
+                        "version": [
+                            "1753784799"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/0/licensed_software/components/complete/simscapedriveline_licenses_common_1753784799.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "LD"
+        ],
+        "productName": [
+            "Simscape Driveline"
+        ],
+        "productNumber": [
+            "95"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SS"
+                        ],
+                        "productName": [
+                            "Simscape"
+                        ],
+                        "productNumber": [
+                            "104"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

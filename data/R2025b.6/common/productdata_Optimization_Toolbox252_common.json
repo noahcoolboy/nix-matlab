@@ -1,0 +1,1910 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/optim_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/optim_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/optim_search_doc_en_common_1783445734.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "122940"
+                        ],
+                        "uncompressedBytes": [
+                            "376554"
+                        ],
+                        "version": [
+                            "1783445734"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/buy/doc/optim_search_doc_en_common_1783445734.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_common"
+                        ],
+                        "componentBaseName": [
+                            "optim"
+                        ],
+                        "componentFileName": [
+                            "optim_common_1776298957.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "289957"
+                        ],
+                        "uncompressedBytes": [
+                            "741674"
+                        ],
+                        "version": [
+                            "1776298957"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_common_1776298957.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_common_1762240320.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "212131"
+                        ],
+                        "uncompressedBytes": [
+                            "168938"
+                        ],
+                        "version": [
+                            "1762240320"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_codegen_common_1762240320.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_common_1753785356.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2936"
+                        ],
+                        "uncompressedBytes": [
+                            "4760"
+                        ],
+                        "version": [
+                            "1753785356"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_codegen_resources_common_1753785356.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_ja_JP_1753785356.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3569"
+                        ],
+                        "uncompressedBytes": [
+                            "5049"
+                        ],
+                        "version": [
+                            "1753785356"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_codegen_resources_ja_JP_1753785356.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_ko_KR_1753785357.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3466"
+                        ],
+                        "uncompressedBytes": [
+                            "4671"
+                        ],
+                        "version": [
+                            "1753785357"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_codegen_resources_ko_KR_1753785357.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_codegen_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_codegen_resources_zh_CN_1753785358.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3244"
+                        ],
+                        "uncompressedBytes": [
+                            "4523"
+                        ],
+                        "version": [
+                            "1753785358"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_codegen_resources_zh_CN_1753785358.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_common_1753975762.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86681"
+                        ],
+                        "uncompressedBytes": [
+                            "235702"
+                        ],
+                        "version": [
+                            "1753975762"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_gui_common_1753975762.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_common_1753785400.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3523"
+                        ],
+                        "uncompressedBytes": [
+                            "16157"
+                        ],
+                        "version": [
+                            "1753785400"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_gui_resources_common_1753785400.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_ja_JP_1753785400.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3705"
+                        ],
+                        "uncompressedBytes": [
+                            "14757"
+                        ],
+                        "version": [
+                            "1753785400"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_gui_resources_ja_JP_1753785400.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_ko_KR_1753785400.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3695"
+                        ],
+                        "uncompressedBytes": [
+                            "14647"
+                        ],
+                        "version": [
+                            "1753785400"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_gui_resources_ko_KR_1753785400.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_gui_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_gui_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_gui_resources_zh_CN_1753785401.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3445"
+                        ],
+                        "uncompressedBytes": [
+                            "12914"
+                        ],
+                        "version": [
+                            "1753785401"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_gui_resources_zh_CN_1753785401.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_licenses"
+                        ],
+                        "componentFileName": [
+                            "optim_licenses_common_1753784823.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "433"
+                        ],
+                        "uncompressedBytes": [
+                            "506"
+                        ],
+                        "version": [
+                            "1753784823"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_licenses_common_1753784823.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_common_1753975754.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "190229"
+                        ],
+                        "uncompressedBytes": [
+                            "166587"
+                        ],
+                        "version": [
+                            "1753975754"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_problemdef_common_1753975754.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_common_1753785376.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17465"
+                        ],
+                        "uncompressedBytes": [
+                            "38547"
+                        ],
+                        "version": [
+                            "1753785376"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_problemdef_resources_common_1753785376.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_ja_JP_1753785378.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20872"
+                        ],
+                        "uncompressedBytes": [
+                            "39919"
+                        ],
+                        "version": [
+                            "1753785378"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_problemdef_resources_ja_JP_1753785378.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_ko_KR_1753785379.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20472"
+                        ],
+                        "uncompressedBytes": [
+                            "38380"
+                        ],
+                        "version": [
+                            "1753785379"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_problemdef_resources_ko_KR_1753785379.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_problemdef_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_problemdef_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_problemdef_resources_zh_CN_1753785380.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18918"
+                        ],
+                        "uncompressedBytes": [
+                            "33768"
+                        ],
+                        "version": [
+                            "1753785380"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_problemdef_resources_zh_CN_1753785380.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_common_1776296014.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37994"
+                        ],
+                        "uncompressedBytes": [
+                            "99653"
+                        ],
+                        "version": [
+                            "1776296014"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_resources_common_1776296014.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_ja_JP_1776296016.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "48998"
+                        ],
+                        "uncompressedBytes": [
+                            "110083"
+                        ],
+                        "version": [
+                            "1776296016"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_resources_ja_JP_1776296016.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_ko_KR_1776296018.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "48166"
+                        ],
+                        "uncompressedBytes": [
+                            "108779"
+                        ],
+                        "version": [
+                            "1776296018"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_resources_ko_KR_1776296018.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "optim_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "optim_resources"
+                        ],
+                        "componentFileName": [
+                            "optim_resources_zh_CN_1776296020.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "45092"
+                        ],
+                        "uncompressedBytes": [
+                            "93994"
+                        ],
+                        "version": [
+                            "1776296020"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/optim_resources_zh_CN_1776296020.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_common_1776084457.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "271976"
+                        ],
+                        "uncompressedBytes": [
+                            "867487"
+                        ],
+                        "version": [
+                            "1776084457"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_common_1776084457.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_common_1753831635.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "45863"
+                        ],
+                        "uncompressedBytes": [
+                            "32490"
+                        ],
+                        "version": [
+                            "1753831635"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_codegen_common_1753831635.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_common_1753785356.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3087"
+                        ],
+                        "uncompressedBytes": [
+                            "7149"
+                        ],
+                        "version": [
+                            "1753785356"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_codegen_resources_common_1753785356.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_ja_JP_1753785356.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3872"
+                        ],
+                        "uncompressedBytes": [
+                            "7733"
+                        ],
+                        "version": [
+                            "1753785356"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_codegen_resources_ja_JP_1753785356.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_ko_KR_1753785357.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3729"
+                        ],
+                        "uncompressedBytes": [
+                            "6802"
+                        ],
+                        "version": [
+                            "1753785357"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_codegen_resources_ko_KR_1753785357.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_codegen_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_codegen_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_codegen_resources_zh_CN_1753785358.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3536"
+                        ],
+                        "uncompressedBytes": [
+                            "6761"
+                        ],
+                        "version": [
+                            "1753785358"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_codegen_resources_zh_CN_1753785358.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_common_1761855037.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "31990"
+                        ],
+                        "uncompressedBytes": [
+                            "79565"
+                        ],
+                        "version": [
+                            "1761855037"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_resources_common_1761855037.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_ja_JP_1765958778.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40205"
+                        ],
+                        "uncompressedBytes": [
+                            "84799"
+                        ],
+                        "version": [
+                            "1765958778"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_resources_ja_JP_1765958778.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_ko_KR_1765958779.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40143"
+                        ],
+                        "uncompressedBytes": [
+                            "86238"
+                        ],
+                        "version": [
+                            "1765958779"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_resources_ko_KR_1765958779.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_optimlib_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "shared_optimlib_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_optimlib_resources_zh_CN_1765958781.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "36762"
+                        ],
+                        "uncompressedBytes": [
+                            "73497"
+                        ],
+                        "version": [
+                            "1765958781"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/6/licensed_software/components/complete/shared_optimlib_resources_zh_CN_1765958781.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "OP"
+        ],
+        "productName": [
+            "Optimization Toolbox"
+        ],
+        "productNumber": [
+            "6"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

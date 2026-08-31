@@ -1,0 +1,2686 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/analogdevices-dmac_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/analogdevices-dmac"
+                        ],
+                        "componentFileName": [
+                            "3p/analogdevices-dmac_common_1763610794.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "147698"
+                        ],
+                        "uncompressedBytes": [
+                            "459192"
+                        ],
+                        "version": [
+                            "1763610794"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/3p/analogdevices-dmac_common_1763610794.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/hdlcoder_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/hdlcoder_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/hdlcoder_search_doc_en_common_1776690451.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "493085"
+                        ],
+                        "uncompressedBytes": [
+                            "1685121"
+                        ],
+                        "version": [
+                            "1776690451"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/buy/doc/hdlcoder_search_doc_en_common_1776690451.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "devicetree_common"
+                        ],
+                        "componentBaseName": [
+                            "devicetree"
+                        ],
+                        "componentFileName": [
+                            "devicetree_common_1763834735.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18063"
+                        ],
+                        "uncompressedBytes": [
+                            "13215"
+                        ],
+                        "version": [
+                            "1763834735"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/devicetree_common_1763834735.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "devicetree_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "devicetree_resources"
+                        ],
+                        "componentFileName": [
+                            "devicetree_resources_common_1763727191.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1572"
+                        ],
+                        "uncompressedBytes": [
+                            "3410"
+                        ],
+                        "version": [
+                            "1763727191"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/devicetree_resources_common_1763727191.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fpgaio/fpgaio_common"
+                        ],
+                        "componentBaseName": [
+                            "fpgaio/fpgaio"
+                        ],
+                        "componentFileName": [
+                            "fpgaio/fpgaio_common_1763834787.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "68885"
+                        ],
+                        "uncompressedBytes": [
+                            "103467"
+                        ],
+                        "version": [
+                            "1763834787"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/fpgaio/fpgaio_common_1763834787.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "fpgaio/fpgaio_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "fpgaio/fpgaio_resources"
+                        ],
+                        "componentFileName": [
+                            "fpgaio/fpgaio_resources_common_1763727222.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3839"
+                        ],
+                        "uncompressedBytes": [
+                            "14591"
+                        ],
+                        "version": [
+                            "1763727222"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/fpgaio/fpgaio_resources_common_1763727222.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdladdress_utils_common"
+                        ],
+                        "componentBaseName": [
+                            "hdladdress_utils"
+                        ],
+                        "componentFileName": [
+                            "hdladdress_utils_common_1763834734.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2178"
+                        ],
+                        "uncompressedBytes": [
+                            "1507"
+                        ],
+                        "version": [
+                            "1763834734"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdladdress_utils_common_1763834734.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_common_1776707700.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11562052"
+                        ],
+                        "uncompressedBytes": [
+                            "15162606"
+                        ],
+                        "version": [
+                            "1776707700"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_common_1776707700.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/3plocation_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/3plocation"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/3plocation_common_1763834786.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2165"
+                        ],
+                        "uncompressedBytes": [
+                            "1191"
+                        ],
+                        "version": [
+                            "1763834786"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/3plocation_common_1763834786.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/boards_altera_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/boards_altera"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/boards_altera_common_1763836029.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "166070"
+                        ],
+                        "uncompressedBytes": [
+                            "1151763"
+                        ],
+                        "version": [
+                            "1763836029"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/boards_altera_common_1763836029.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/boards_amd_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/boards_amd"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/boards_amd_common_1776700717.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1116517"
+                        ],
+                        "uncompressedBytes": [
+                            "5255486"
+                        ],
+                        "version": [
+                            "1776700717"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/boards_amd_common_1776700717.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/boards_microchip_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/boards_microchip"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/boards_microchip_common_1763836028.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "342378"
+                        ],
+                        "uncompressedBytes": [
+                            "916964"
+                        ],
+                        "version": [
+                            "1763836028"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/boards_microchip_common_1763836028.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/hdlc3ptools_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/hdlc3ptools"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/hdlc3ptools_common_1773184036.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10361"
+                        ],
+                        "uncompressedBytes": [
+                            "12762"
+                        ],
+                        "version": [
+                            "1773184036"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/hdlc3ptools_common_1773184036.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/hwsetup_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/hwsetup"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/hwsetup_common_1776086765.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "39326150"
+                        ],
+                        "uncompressedBytes": [
+                            "39495309"
+                        ],
+                        "version": [
+                            "1776086765"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/hwsetup_common_1776086765.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/hwsetup_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/hwsetup_resources"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/hwsetup_resources_common_1776083563.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18337"
+                        ],
+                        "uncompressedBytes": [
+                            "86884"
+                        ],
+                        "version": [
+                            "1776083563"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/hwsetup_resources_common_1776083563.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/ipcore_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/ipcore"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/ipcore_common_1776699775.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1542309"
+                        ],
+                        "uncompressedBytes": [
+                            "1510469"
+                        ],
+                        "version": [
+                            "1776699775"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/ipcore_common_1776699775.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder/ipcore_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder/ipcore_resources"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder/ipcore_resources_common_1763727192.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "563"
+                        ],
+                        "uncompressedBytes": [
+                            "620"
+                        ],
+                        "version": [
+                            "1763727192"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder/ipcore_resources_common_1763727192.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_apps/hdlcoder_wfa_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_apps/hdlcoder_wfa"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_apps/hdlcoder_wfa_common_1776326899.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2952338"
+                        ],
+                        "uncompressedBytes": [
+                            "8493914"
+                        ],
+                        "version": [
+                            "1776326899"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_apps/hdlcoder_wfa_common_1776326899.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_apps/hdlconfig_app_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_apps/hdlconfig_app"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_apps/hdlconfig_app_common_1763989548.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "33163"
+                        ],
+                        "uncompressedBytes": [
+                            "200944"
+                        ],
+                        "version": [
+                            "1763989548"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_apps/hdlconfig_app_common_1763989548.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_apps/hlsconfig_app_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_apps/hlsconfig_app"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_apps/hlsconfig_app_common_1763989539.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16561"
+                        ],
+                        "uncompressedBytes": [
+                            "37070"
+                        ],
+                        "version": [
+                            "1763989539"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_apps/hlsconfig_app_common_1763989539.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_apps/wfa_dm_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_apps/wfa_dm"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_apps/wfa_dm_common_1769823242.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "83960"
+                        ],
+                        "uncompressedBytes": [
+                            "57736"
+                        ],
+                        "version": [
+                            "1769823242"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_apps/wfa_dm_common_1769823242.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_hdlssc_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_hdlssc"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_hdlssc_common_1770108545.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "197478"
+                        ],
+                        "uncompressedBytes": [
+                            "162470"
+                        ],
+                        "version": [
+                            "1770108545"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_hdlssc_common_1770108545.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_hdlssc/hil_benchmarks_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_hdlssc/hil_benchmarks"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_hdlssc/hil_benchmarks_common_1770108484.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2195189"
+                        ],
+                        "uncompressedBytes": [
+                            "2634158"
+                        ],
+                        "version": [
+                            "1770108484"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_hdlssc/hil_benchmarks_common_1770108484.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_hdlssc/hil_blocks_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_hdlssc/hil_blocks"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_hdlssc/hil_blocks_common_1763774945.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "101413"
+                        ],
+                        "uncompressedBytes": [
+                            "58915"
+                        ],
+                        "version": [
+                            "1763774945"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_hdlssc/hil_blocks_common_1763774945.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_hdlssc/hil_lib_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_hdlssc/hil_lib"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_hdlssc/hil_lib_common_1770083277.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "172119"
+                        ],
+                        "uncompressedBytes": [
+                            "180828"
+                        ],
+                        "version": [
+                            "1770083277"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_hdlssc/hil_lib_common_1770083277.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_hdlssc/hil_workflow_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_hdlssc/hil_workflow"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_hdlssc/hil_workflow_common_1763774938.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "19494"
+                        ],
+                        "uncompressedBytes": [
+                            "11824"
+                        ],
+                        "version": [
+                            "1763774938"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_hdlssc/hil_workflow_common_1763774938.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_hdlssc_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_hdlssc_resources"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_hdlssc_resources_common_1769684314.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3639"
+                        ],
+                        "uncompressedBytes": [
+                            "9122"
+                        ],
+                        "version": [
+                            "1769684314"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_hdlssc_resources_common_1769684314.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcoder_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcoder_licenses"
+                        ],
+                        "componentFileName": [
+                            "hdlcoder_licenses_common_1763621169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "433"
+                        ],
+                        "uncompressedBytes": [
+                            "495"
+                        ],
+                        "version": [
+                            "1763621169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcoder_licenses_common_1763621169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlcommon_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlcommon"
+                        ],
+                        "componentFileName": [
+                            "hdlcommon_common_1776700493.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4345779"
+                        ],
+                        "uncompressedBytes": [
+                            "16630078"
+                        ],
+                        "version": [
+                            "1776700493"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlcommon_common_1776700493.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlshared_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlshared_resources"
+                        ],
+                        "componentFileName": [
+                            "hdlshared_resources_common_1766135762.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "51374"
+                        ],
+                        "uncompressedBytes": [
+                            "210758"
+                        ],
+                        "version": [
+                            "1766135762"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlshared_resources_common_1766135762.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlshared_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "hdlshared_resources"
+                        ],
+                        "componentFileName": [
+                            "hdlshared_resources_ja_JP_1771873469.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "61548"
+                        ],
+                        "uncompressedBytes": [
+                            "252603"
+                        ],
+                        "version": [
+                            "1771873469"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlshared_resources_ja_JP_1771873469.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlshared_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "hdlshared_resources"
+                        ],
+                        "componentFileName": [
+                            "hdlshared_resources_zh_CN_1771873470.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "55738"
+                        ],
+                        "uncompressedBytes": [
+                            "197383"
+                        ],
+                        "version": [
+                            "1771873470"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlshared_resources_zh_CN_1771873470.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hdlslrt_common"
+                        ],
+                        "componentBaseName": [
+                            "hdlslrt"
+                        ],
+                        "componentFileName": [
+                            "hdlslrt_common_1763836025.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11086"
+                        ],
+                        "uncompressedBytes": [
+                            "9403"
+                        ],
+                        "version": [
+                            "1763836025"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/hdlslrt_common_1763836025.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "matlabhdlcoder_common"
+                        ],
+                        "componentBaseName": [
+                            "matlabhdlcoder"
+                        ],
+                        "componentFileName": [
+                            "matlabhdlcoder_common_1770069752.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "161294"
+                        ],
+                        "uncompressedBytes": [
+                            "135569"
+                        ],
+                        "version": [
+                            "1770069752"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/matlabhdlcoder_common_1770069752.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/hdlmotorcontrol_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/hdlmotorcontrol"
+                        ],
+                        "componentFileName": [
+                            "shared/hdlmotorcontrol_common_1767776043.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4393077"
+                        ],
+                        "uncompressedBytes": [
+                            "4736214"
+                        ],
+                        "version": [
+                            "1767776043"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared/hdlmotorcontrol_common_1767776043.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_hdlshared_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_hdlshared"
+                        ],
+                        "componentFileName": [
+                            "shared_hdlshared_common_1763988751.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "295793"
+                        ],
+                        "uncompressedBytes": [
+                            "239652"
+                        ],
+                        "version": [
+                            "1763988751"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_hdlshared_common_1763988751.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_socio_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_socio"
+                        ],
+                        "componentFileName": [
+                            "shared_socio_common_1775627984.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25245"
+                        ],
+                        "uncompressedBytes": [
+                            "19837"
+                        ],
+                        "version": [
+                            "1775627984"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_socio_common_1775627984.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_socio_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_socio_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_socio_resources_common_1763727191.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1438"
+                        ],
+                        "uncompressedBytes": [
+                            "4081"
+                        ],
+                        "version": [
+                            "1763727191"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/shared_socio_resources_common_1763727191.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulink/report_common"
+                        ],
+                        "componentBaseName": [
+                            "simulink/report"
+                        ],
+                        "componentFileName": [
+                            "simulink/report_common_1763774915.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "48190"
+                        ],
+                        "uncompressedBytes": [
+                            "27967"
+                        ],
+                        "version": [
+                            "1763774915"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/simulink/report_common_1763774915.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simulink_report_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "simulink_report_resources"
+                        ],
+                        "componentFileName": [
+                            "simulink_report_resources_common_1763727174.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "480"
+                        ],
+                        "uncompressedBytes": [
+                            "432"
+                        ],
+                        "version": [
+                            "1763727174"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/simulink_report_resources_common_1763727174.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_pir_m_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_pir_m"
+                        ],
+                        "componentFileName": [
+                            "sl_pir_m_common_1776700635.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "88095"
+                        ],
+                        "uncompressedBytes": [
+                            "73871"
+                        ],
+                        "version": [
+                            "1776700635"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/sl_pir_m_common_1776700635.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slhdltemplates_common"
+                        ],
+                        "componentBaseName": [
+                            "slhdltemplates"
+                        ],
+                        "componentFileName": [
+                            "slhdltemplates_common_1767765634.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "705728"
+                        ],
+                        "uncompressedBytes": [
+                            "712455"
+                        ],
+                        "version": [
+                            "1767765634"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/slhdltemplates_common_1767765634.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slhdltemplates_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "slhdltemplates_resources"
+                        ],
+                        "componentFileName": [
+                            "slhdltemplates_resources_common_1763727241.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10887"
+                        ],
+                        "uncompressedBytes": [
+                            "11690"
+                        ],
+                        "version": [
+                            "1763727241"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/slhdltemplates_resources_common_1763727241.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slhdltemplates_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slhdltemplates_resources"
+                        ],
+                        "componentFileName": [
+                            "slhdltemplates_resources_ja_JP_1765326893.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "12912"
+                        ],
+                        "uncompressedBytes": [
+                            "12936"
+                        ],
+                        "version": [
+                            "1765326893"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/slhdltemplates_resources_ja_JP_1765326893.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slhdltemplates_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slhdltemplates_resources"
+                        ],
+                        "componentFileName": [
+                            "slhdltemplates_resources_zh_CN_1765326894.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "12101"
+                        ],
+                        "uncompressedBytes": [
+                            "10975"
+                        ],
+                        "version": [
+                            "1765326894"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/1/licensed_software/components/complete/slhdltemplates_resources_zh_CN_1765326894.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "HD"
+        ],
+        "productName": [
+            "HDL Coder"
+        ],
+        "productNumber": [
+            "101"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "productBaseCode": [
+                            "PO"
+                        ],
+                        "productName": [
+                            "Fixed-Point Designer"
+                        ],
+                        "productNumber": [
+                            "91"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "ME"
+                        ],
+                        "productName": [
+                            "MATLAB Coder"
+                        ],
+                        "productNumber": [
+                            "135"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

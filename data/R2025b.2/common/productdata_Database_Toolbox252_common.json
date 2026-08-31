@@ -1,0 +1,884 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/database_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/database_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/database_search_doc_en_common_1760617591.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "240187"
+                        ],
+                        "uncompressedBytes": [
+                            "859768"
+                        ],
+                        "version": [
+                            "1760617591"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/buy/doc/database_search_doc_en_common_1760617591.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_common"
+                        ],
+                        "componentBaseName": [
+                            "database"
+                        ],
+                        "componentFileName": [
+                            "database_common_1758845085.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2768037"
+                        ],
+                        "uncompressedBytes": [
+                            "22040919"
+                        ],
+                        "version": [
+                            "1758845085"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_common_1758845085.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "database_licenses"
+                        ],
+                        "componentFileName": [
+                            "database_licenses_common_1753784820.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18083"
+                        ],
+                        "uncompressedBytes": [
+                            "56537"
+                        ],
+                        "version": [
+                            "1753784820"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_licenses_common_1753784820.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "database_resources"
+                        ],
+                        "componentFileName": [
+                            "database_resources_common_1753785338.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "28422"
+                        ],
+                        "uncompressedBytes": [
+                            "65025"
+                        ],
+                        "version": [
+                            "1753785338"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_resources_common_1753785338.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_cassandra_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_cassandra"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_cassandra_common_1753850195.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9645"
+                        ],
+                        "uncompressedBytes": [
+                            "13688"
+                        ],
+                        "version": [
+                            "1753850195"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_cassandra_common_1753850195.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_jdbc_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_jdbc"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_jdbc_common_1760755892.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "111077"
+                        ],
+                        "uncompressedBytes": [
+                            "234243"
+                        ],
+                        "version": [
+                            "1760755892"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_jdbc_common_1760755892.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_mariadb_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_mariadb"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_mariadb_common_1753850159.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "22117"
+                        ],
+                        "uncompressedBytes": [
+                            "53383"
+                        ],
+                        "version": [
+                            "1753850159"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_mariadb_common_1753850159.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_mongo_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_mongo"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_mongo_common_1753850161.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10583"
+                        ],
+                        "uncompressedBytes": [
+                            "20003"
+                        ],
+                        "version": [
+                            "1753850161"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_mongo_common_1753850161.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_neo4j_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_neo4j"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_neo4j_common_1753850184.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18771"
+                        ],
+                        "uncompressedBytes": [
+                            "20677"
+                        ],
+                        "version": [
+                            "1753850184"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_neo4j_common_1753850184.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_odbc_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_odbc"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_odbc_common_1753850155.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "54210"
+                        ],
+                        "uncompressedBytes": [
+                            "146018"
+                        ],
+                        "version": [
+                            "1753850155"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_odbc_common_1753850155.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_orm_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_orm"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_orm_common_1753847176.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5024"
+                        ],
+                        "uncompressedBytes": [
+                            "10866"
+                        ],
+                        "version": [
+                            "1753847176"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_orm_common_1753847176.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_postgresql_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_postgresql"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_postgresql_common_1753850175.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20924"
+                        ],
+                        "uncompressedBytes": [
+                            "64108"
+                        ],
+                        "version": [
+                            "1753850175"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_postgresql_common_1753850175.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_shared_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_shared"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_shared_common_1758810046.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "88327"
+                        ],
+                        "uncompressedBytes": [
+                            "270507"
+                        ],
+                        "version": [
+                            "1758810046"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_shared_common_1758810046.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "database_toolbox_sqlite_common"
+                        ],
+                        "componentBaseName": [
+                            "database_toolbox_sqlite"
+                        ],
+                        "componentFileName": [
+                            "database_toolbox_sqlite_common_1753850092.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4838"
+                        ],
+                        "uncompressedBytes": [
+                            "4388"
+                        ],
+                        "version": [
+                            "1753850092"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/database_toolbox_sqlite_common_1753850092.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "DB"
+        ],
+        "productName": [
+            "Database Toolbox"
+        ],
+        "productNumber": [
+            "41"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

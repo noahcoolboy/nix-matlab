@@ -1,0 +1,2136 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/daq_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/daq_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/daq_search_doc_en_common_1777928769.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "86762"
+                        ],
+                        "uncompressedBytes": [
+                            "286801"
+                        ],
+                        "version": [
+                            "1777928769"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/buy/doc/daq_search_doc_en_common_1777928769.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_common"
+                        ],
+                        "componentBaseName": [
+                            "daq"
+                        ],
+                        "componentFileName": [
+                            "daq_common_1772757746.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "618811"
+                        ],
+                        "uncompressedBytes": [
+                            "3217259"
+                        ],
+                        "version": [
+                            "1772757746"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_common_1772757746.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aiapplet_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aiapplet"
+                        ],
+                        "componentFileName": [
+                            "daq_aiapplet_common_1767728444.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "110055"
+                        ],
+                        "uncompressedBytes": [
+                            "430058"
+                        ],
+                        "version": [
+                            "1767728444"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aiapplet_common_1767728444.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aiapplet_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aiapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aiapplet_resources_common_1767374823.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4732"
+                        ],
+                        "uncompressedBytes": [
+                            "11449"
+                        ],
+                        "version": [
+                            "1767374823"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aiapplet_resources_common_1767374823.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aiapplet_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_aiapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aiapplet_resources_ja_JP_1771873503.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6106"
+                        ],
+                        "uncompressedBytes": [
+                            "13126"
+                        ],
+                        "version": [
+                            "1771873503"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aiapplet_resources_ja_JP_1771873503.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aiapplet_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_aiapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aiapplet_resources_ko_KR_1771873504.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5921"
+                        ],
+                        "uncompressedBytes": [
+                            "12269"
+                        ],
+                        "version": [
+                            "1771873504"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aiapplet_resources_ko_KR_1771873504.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aoapplet_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aoapplet"
+                        ],
+                        "componentFileName": [
+                            "daq_aoapplet_common_1763841315.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "112475"
+                        ],
+                        "uncompressedBytes": [
+                            "417376"
+                        ],
+                        "version": [
+                            "1763841315"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aoapplet_common_1763841315.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aoapplet_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aoapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aoapplet_resources_common_1763727234.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4191"
+                        ],
+                        "uncompressedBytes": [
+                            "11919"
+                        ],
+                        "version": [
+                            "1763727234"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aoapplet_resources_common_1763727234.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aoapplet_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_aoapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aoapplet_resources_ja_JP_1763727235.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5209"
+                        ],
+                        "uncompressedBytes": [
+                            "13401"
+                        ],
+                        "version": [
+                            "1763727235"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aoapplet_resources_ja_JP_1763727235.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aoapplet_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_aoapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aoapplet_resources_ko_KR_1765326888.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5080"
+                        ],
+                        "uncompressedBytes": [
+                            "12328"
+                        ],
+                        "version": [
+                            "1765326888"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_aoapplet_resources_ko_KR_1765326888.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_applet_shared_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_applet_shared"
+                        ],
+                        "componentFileName": [
+                            "daq_applet_shared_common_1763836039.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10073"
+                        ],
+                        "uncompressedBytes": [
+                            "20498"
+                        ],
+                        "version": [
+                            "1763836039"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_applet_shared_common_1763836039.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_applet_shared_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_applet_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_applet_shared_resources_common_1763727234.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "832"
+                        ],
+                        "uncompressedBytes": [
+                            "669"
+                        ],
+                        "version": [
+                            "1763727234"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_applet_shared_resources_common_1763727234.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_applet_shared_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_applet_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_applet_shared_resources_ja_JP_1763727234.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1078"
+                        ],
+                        "uncompressedBytes": [
+                            "912"
+                        ],
+                        "version": [
+                            "1763727234"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_applet_shared_resources_ja_JP_1763727234.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_applet_shared_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_applet_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_applet_shared_resources_ko_KR_1763727235.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1071"
+                        ],
+                        "uncompressedBytes": [
+                            "906"
+                        ],
+                        "version": [
+                            "1763727235"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_applet_shared_resources_ko_KR_1763727235.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_common_1763836000.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "53604"
+                        ],
+                        "uncompressedBytes": [
+                            "215401"
+                        ],
+                        "version": [
+                            "1763836000"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_cli_common_1763836000.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_resources_common_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4268"
+                        ],
+                        "uncompressedBytes": [
+                            "14053"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_cli_resources_common_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_resources_ja_JP_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5540"
+                        ],
+                        "uncompressedBytes": [
+                            "15916"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_cli_resources_ja_JP_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_resources_ko_KR_1763727197.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5460"
+                        ],
+                        "uncompressedBytes": [
+                            "15181"
+                        ],
+                        "version": [
+                            "1763727197"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_cli_resources_ko_KR_1763727197.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_experimental_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_experimental"
+                        ],
+                        "componentFileName": [
+                            "daq_experimental_common_1763779331.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "253"
+                        ],
+                        "uncompressedBytes": [
+                            "81"
+                        ],
+                        "version": [
+                            "1763779331"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_experimental_common_1763779331.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_licenses"
+                        ],
+                        "componentFileName": [
+                            "daq_licenses_common_1763621165.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "433"
+                        ],
+                        "uncompressedBytes": [
+                            "510"
+                        ],
+                        "version": [
+                            "1763621165"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_licenses_common_1763621165.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_ni_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_ni_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_ni_resources_common_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5754"
+                        ],
+                        "uncompressedBytes": [
+                            "22124"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_ni_resources_common_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_ni_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_ni_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_ni_resources_ja_JP_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6940"
+                        ],
+                        "uncompressedBytes": [
+                            "24310"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_ni_resources_ja_JP_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_ni_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_ni_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_ni_resources_ko_KR_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6761"
+                        ],
+                        "uncompressedBytes": [
+                            "22687"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_ni_resources_ko_KR_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_provider_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_provider"
+                        ],
+                        "componentFileName": [
+                            "daq_provider_common_1763841766.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4284"
+                        ],
+                        "uncompressedBytes": [
+                            "13735"
+                        ],
+                        "version": [
+                            "1763841766"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_provider_common_1763841766.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_resources_common_1769684301.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17429"
+                        ],
+                        "uncompressedBytes": [
+                            "56657"
+                        ],
+                        "version": [
+                            "1769684301"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_resources_common_1769684301.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_resources_ja_JP_1771873476.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "18497"
+                        ],
+                        "uncompressedBytes": [
+                            "53593"
+                        ],
+                        "version": [
+                            "1771873476"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_resources_ja_JP_1771873476.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_resources_ko_KR_1771873478.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "17954"
+                        ],
+                        "uncompressedBytes": [
+                            "50819"
+                        ],
+                        "version": [
+                            "1771873478"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_resources_ko_KR_1771873478.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_sdk_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_sdk_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_sdk_resources_common_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4059"
+                        ],
+                        "uncompressedBytes": [
+                            "10285"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_sdk_resources_common_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_sdk_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "daq_sdk_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_sdk_resources_ja_JP_1763727197.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5743"
+                        ],
+                        "uncompressedBytes": [
+                            "12070"
+                        ],
+                        "version": [
+                            "1763727197"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_sdk_resources_ja_JP_1763727197.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_sdk_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "daq_sdk_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_sdk_resources_ko_KR_1765326868.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5571"
+                        ],
+                        "uncompressedBytes": [
+                            "11473"
+                        ],
+                        "version": [
+                            "1765326868"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_sdk_resources_ko_KR_1765326868.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_simulink"
+                        ],
+                        "componentFileName": [
+                            "daq_simulink_common_1777966578.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "142943"
+                        ],
+                        "uncompressedBytes": [
+                            "270894"
+                        ],
+                        "version": [
+                            "1777966578"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/daq_simulink_common_1777966578.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_common_1765337289.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "57983"
+                        ],
+                        "uncompressedBytes": [
+                            "48826"
+                        ],
+                        "version": [
+                            "1765337289"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_tdms_common_1765337289.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_resources_common_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2284"
+                        ],
+                        "uncompressedBytes": [
+                            "5171"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_tdms_resources_common_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_resources_ja_JP_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3146"
+                        ],
+                        "uncompressedBytes": [
+                            "6097"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_tdms_resources_ja_JP_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_resources_ko_KR_1763727196.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3074"
+                        ],
+                        "uncompressedBytes": [
+                            "5748"
+                        ],
+                        "version": [
+                            "1763727196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_tdms_resources_ko_KR_1763727196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_testmeaslib_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_testmeaslib_simulink"
+                        ],
+                        "componentFileName": [
+                            "shared_testmeaslib_simulink_common_1763825336.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13618"
+                        ],
+                        "uncompressedBytes": [
+                            "17931"
+                        ],
+                        "version": [
+                            "1763825336"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_testmeaslib_simulink_common_1763825336.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "DA"
+        ],
+        "productName": [
+            "Data Acquisition Toolbox"
+        ],
+        "productNumber": [
+            "47"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

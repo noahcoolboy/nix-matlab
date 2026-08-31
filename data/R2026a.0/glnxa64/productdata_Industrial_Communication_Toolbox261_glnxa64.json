@@ -1,0 +1,418 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/mqtt_c_paho_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "3p/mqtt_c_paho"
+                        ],
+                        "componentFileName": [
+                            "3p/mqtt_c_paho_glnxa64_1763621114.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "114654"
+                        ],
+                        "uncompressedBytes": [
+                            "254121"
+                        ],
+                        "version": [
+                            "1763621114"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/3p/mqtt_c_paho_glnxa64_1763621114.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "da_core_objects_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "da_core_objects"
+                        ],
+                        "componentFileName": [
+                            "da_core_objects_glnxa64_1772143505.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "348009"
+                        ],
+                        "uncompressedBytes": [
+                            "955701"
+                        ],
+                        "version": [
+                            "1772143505"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/da_core_objects_glnxa64_1772143505.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_modbus_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "icomm_modbus"
+                        ],
+                        "componentFileName": [
+                            "icomm_modbus_glnxa64_1772781802.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "153434"
+                        ],
+                        "uncompressedBytes": [
+                            "379984"
+                        ],
+                        "version": [
+                            "1772781802"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/icomm_modbus_glnxa64_1772781802.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_mqtt_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "icomm_mqtt"
+                        ],
+                        "componentFileName": [
+                            "icomm_mqtt_glnxa64_1772781309.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "241074"
+                        ],
+                        "uncompressedBytes": [
+                            "588256"
+                        ],
+                        "version": [
+                            "1772781309"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/icomm_mqtt_glnxa64_1772781309.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_opc_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "icomm_opc"
+                        ],
+                        "componentFileName": [
+                            "icomm_opc_glnxa64_1772781642.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "187250"
+                        ],
+                        "uncompressedBytes": [
+                            "463647"
+                        ],
+                        "version": [
+                            "1772781642"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/icomm_opc_glnxa64_1772781642.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "icomm_osisoftpi_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "icomm_osisoftpi"
+                        ],
+                        "componentFileName": [
+                            "icomm_osisoftpi_glnxa64_1772757762.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13287"
+                        ],
+                        "uncompressedBytes": [
+                            "21573"
+                        ],
+                        "version": [
+                            "1772757762"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/icomm_osisoftpi_glnxa64_1772757762.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_configset_model_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared_configset_model"
+                        ],
+                        "componentFileName": [
+                            "shared_configset_model_glnxa64_1772735089.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "98465"
+                        ],
+                        "uncompressedBytes": [
+                            "255603"
+                        ],
+                        "version": [
+                            "1772735089"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/0/licensed_software/components/complete/shared_configset_model_glnxa64_1772735089.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "OT"
+        ],
+        "productName": [
+            "Industrial Communication Toolbox"
+        ],
+        "productNumber": [
+            "89"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ]
+    }
+}

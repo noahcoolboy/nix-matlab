@@ -1,0 +1,3583 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "alm/digital_thread_settings_common"
+                        ],
+                        "componentBaseName": [
+                            "alm/digital_thread_settings"
+                        ],
+                        "componentFileName": [
+                            "alm/digital_thread_settings_common_1769606517.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2110746"
+                        ],
+                        "uncompressedBytes": [
+                            "5173580"
+                        ],
+                        "version": [
+                            "1769606517"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm/digital_thread_settings_common_1769606517.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/trace_plugins/slcheck_trace_plugins_common"
+                        ],
+                        "componentBaseName": [
+                            "alm/trace_plugins/slcheck_trace_plugins"
+                        ],
+                        "componentFileName": [
+                            "alm/trace_plugins/slcheck_trace_plugins_common_1753890873.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2872"
+                        ],
+                        "uncompressedBytes": [
+                            "1398"
+                        ],
+                        "version": [
+                            "1753890873"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm/trace_plugins/slcheck_trace_plugins_common_1753890873.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/ui/dt_views_common"
+                        ],
+                        "componentBaseName": [
+                            "alm/ui/dt_views"
+                        ],
+                        "componentFileName": [
+                            "alm/ui/dt_views_common_1753890861.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2743"
+                        ],
+                        "uncompressedBytes": [
+                            "2100"
+                        ],
+                        "version": [
+                            "1753890861"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm/ui/dt_views_common_1753890861.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm/ui_service_common"
+                        ],
+                        "componentBaseName": [
+                            "alm/ui_service"
+                        ],
+                        "componentFileName": [
+                            "alm/ui_service_common_1753887680.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5832"
+                        ],
+                        "uncompressedBytes": [
+                            "4328"
+                        ],
+                        "version": [
+                            "1753887680"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm/ui_service_common_1753887680.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm_digital_thread_settings_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "alm_digital_thread_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "alm_digital_thread_settings_resources_common_1753785382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "957"
+                        ],
+                        "uncompressedBytes": [
+                            "2132"
+                        ],
+                        "version": [
+                            "1753785382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm_digital_thread_settings_resources_common_1753785382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm_digital_thread_settings_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "alm_digital_thread_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "alm_digital_thread_settings_resources_ja_JP_1753785383.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1147"
+                        ],
+                        "uncompressedBytes": [
+                            "2179"
+                        ],
+                        "version": [
+                            "1753785383"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm_digital_thread_settings_resources_ja_JP_1753785383.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm_digital_thread_settings_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "alm_digital_thread_settings_resources"
+                        ],
+                        "componentFileName": [
+                            "alm_digital_thread_settings_resources_zh_CN_1753785383.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1028"
+                        ],
+                        "uncompressedBytes": [
+                            "1689"
+                        ],
+                        "version": [
+                            "1753785383"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm_digital_thread_settings_resources_zh_CN_1753785383.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "alm_dt_views_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "alm_dt_views_resources"
+                        ],
+                        "componentFileName": [
+                            "alm_dt_views_resources_common_1753785382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "599"
+                        ],
+                        "uncompressedBytes": [
+                            "669"
+                        ],
+                        "version": [
+                            "1753785382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/alm_dt_views_resources_common_1753785382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autosar_checks_common"
+                        ],
+                        "componentBaseName": [
+                            "autosar_checks"
+                        ],
+                        "componentFileName": [
+                            "autosar_checks_common_1753981381.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1483"
+                        ],
+                        "uncompressedBytes": [
+                            "1054"
+                        ],
+                        "version": [
+                            "1753981381"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/autosar_checks_common_1753981381.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/slcheck_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcheck_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcheck_search_doc_en_common_1769597713.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "588884"
+                        ],
+                        "uncompressedBytes": [
+                            "1930447"
+                        ],
+                        "version": [
+                            "1769597713"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/buy/doc/slcheck_search_doc_en_common_1769597713.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clone_detection_app_common"
+                        ],
+                        "componentBaseName": [
+                            "clone_detection_app"
+                        ],
+                        "componentFileName": [
+                            "clone_detection_app_common_1760802819.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "624879"
+                        ],
+                        "uncompressedBytes": [
+                            "752187"
+                        ],
+                        "version": [
+                            "1760802819"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clone_detection_app_common_1760802819.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clone_detection_app_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "clone_detection_app_resources"
+                        ],
+                        "componentFileName": [
+                            "clone_detection_app_resources_common_1753785382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "519"
+                        ],
+                        "uncompressedBytes": [
+                            "935"
+                        ],
+                        "version": [
+                            "1753785382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clone_detection_app_resources_common_1753785382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clone_detection_app_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "clone_detection_app_resources"
+                        ],
+                        "componentFileName": [
+                            "clone_detection_app_resources_ja_JP_1753785382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "693"
+                        ],
+                        "uncompressedBytes": [
+                            "1226"
+                        ],
+                        "version": [
+                            "1753785382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clone_detection_app_resources_ja_JP_1753785382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clone_detection_app_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "clone_detection_app_resources"
+                        ],
+                        "componentFileName": [
+                            "clone_detection_app_resources_ko_KR_1753785383.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "708"
+                        ],
+                        "uncompressedBytes": [
+                            "1152"
+                        ],
+                        "version": [
+                            "1753785383"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clone_detection_app_resources_ko_KR_1753785383.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clone_detection_app_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "clone_detection_app_resources"
+                        ],
+                        "componentFileName": [
+                            "clone_detection_app_resources_zh_CN_1753785383.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "672"
+                        ],
+                        "uncompressedBytes": [
+                            "1025"
+                        ],
+                        "version": [
+                            "1753785383"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clone_detection_app_resources_zh_CN_1753785383.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clonedetection_common"
+                        ],
+                        "componentBaseName": [
+                            "clonedetection"
+                        ],
+                        "componentFileName": [
+                            "clonedetection_common_1753991549.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "109833"
+                        ],
+                        "uncompressedBytes": [
+                            "130885"
+                        ],
+                        "version": [
+                            "1753991549"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clonedetection_common_1753991549.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "clonedetection_exclusion_editor_common"
+                        ],
+                        "componentBaseName": [
+                            "clonedetection_exclusion_editor"
+                        ],
+                        "componentFileName": [
+                            "clonedetection_exclusion_editor_common_1769614491.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2174218"
+                        ],
+                        "uncompressedBytes": [
+                            "5274964"
+                        ],
+                        "version": [
+                            "1769614491"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/clonedetection_exclusion_editor_common_1769614491.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard/apps/slcheck_common"
+                        ],
+                        "componentBaseName": [
+                            "dashboard/apps/slcheck"
+                        ],
+                        "componentFileName": [
+                            "dashboard/apps/slcheck_common_1769608868.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "154571"
+                        ],
+                        "uncompressedBytes": [
+                            "2230670"
+                        ],
+                        "version": [
+                            "1769608868"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard/apps/slcheck_common_1769608868.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard/dashboard_ui_common"
+                        ],
+                        "componentBaseName": [
+                            "dashboard/dashboard_ui"
+                        ],
+                        "componentFileName": [
+                            "dashboard/dashboard_ui_common_1769608825.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3805780"
+                        ],
+                        "uncompressedBytes": [
+                            "12159724"
+                        ],
+                        "version": [
+                            "1769608825"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard/dashboard_ui_common_1769608825.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard/sl_algorithm_factory_common"
+                        ],
+                        "componentBaseName": [
+                            "dashboard/sl_algorithm_factory"
+                        ],
+                        "componentFileName": [
+                            "dashboard/sl_algorithm_factory_common_1753897815.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "22003"
+                        ],
+                        "uncompressedBytes": [
+                            "15462"
+                        ],
+                        "version": [
+                            "1753897815"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard/sl_algorithm_factory_common_1753897815.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard/slcheck_algorithm_factory_common"
+                        ],
+                        "componentBaseName": [
+                            "dashboard/slcheck_algorithm_factory"
+                        ],
+                        "componentFileName": [
+                            "dashboard/slcheck_algorithm_factory_common_1753892569.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2071"
+                        ],
+                        "uncompressedBytes": [
+                            "1273"
+                        ],
+                        "version": [
+                            "1753892569"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard/slcheck_algorithm_factory_common_1753892569.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard_digital_thread_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "dashboard_digital_thread_resources"
+                        ],
+                        "componentFileName": [
+                            "dashboard_digital_thread_resources_common_1753785382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1880"
+                        ],
+                        "uncompressedBytes": [
+                            "6235"
+                        ],
+                        "version": [
+                            "1753785382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard_digital_thread_resources_common_1753785382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard_digital_thread_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "dashboard_digital_thread_resources"
+                        ],
+                        "componentFileName": [
+                            "dashboard_digital_thread_resources_ja_JP_1753785382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2212"
+                        ],
+                        "uncompressedBytes": [
+                            "6171"
+                        ],
+                        "version": [
+                            "1753785382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard_digital_thread_resources_ja_JP_1753785382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dashboard_digital_thread_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "dashboard_digital_thread_resources"
+                        ],
+                        "componentFileName": [
+                            "dashboard_digital_thread_resources_zh_CN_1753785383.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2006"
+                        ],
+                        "uncompressedBytes": [
+                            "5227"
+                        ],
+                        "version": [
+                            "1753785383"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/dashboard_digital_thread_resources_zh_CN_1753785383.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_gr_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_gr_resources"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_gr_resources_common_1753785384.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1122"
+                        ],
+                        "uncompressedBytes": [
+                            "2395"
+                        ],
+                        "version": [
+                            "1753785384"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_gr_resources_common_1753785384.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_gr_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_gr_resources"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_gr_resources_ja_JP_1755765056.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1271"
+                        ],
+                        "uncompressedBytes": [
+                            "2588"
+                        ],
+                        "version": [
+                            "1755765056"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_gr_resources_ja_JP_1755765056.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_gr_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_gr_resources"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_gr_resources_ko_KR_1755765057.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1212"
+                        ],
+                        "uncompressedBytes": [
+                            "2224"
+                        ],
+                        "version": [
+                            "1755765057"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_gr_resources_ko_KR_1755765057.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_gr_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_gr_resources"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_gr_resources_zh_CN_1755765057.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1139"
+                        ],
+                        "uncompressedBytes": [
+                            "1935"
+                        ],
+                        "version": [
+                            "1755765057"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_gr_resources_zh_CN_1755765057.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_ui_stub_common"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_ui_stub"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_ui_stub_common_1769614687.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2555446"
+                        ],
+                        "uncompressedBytes": [
+                            "6688197"
+                        ],
+                        "version": [
+                            "1769614687"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_ui_stub_common_1769614687.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_ui_stub_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_ui_stub"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_ui_stub_ja_JP_1753976111.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "878"
+                        ],
+                        "uncompressedBytes": [
+                            "1096"
+                        ],
+                        "version": [
+                            "1753976111"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_ui_stub_ja_JP_1753976111.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_ui_stub_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_ui_stub"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_ui_stub_ko_KR_1753976112.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "878"
+                        ],
+                        "uncompressedBytes": [
+                            "1096"
+                        ],
+                        "version": [
+                            "1753976112"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_ui_stub_ko_KR_1753976112.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "padv_gr/padv_ui_stub_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "padv_gr/padv_ui_stub"
+                        ],
+                        "componentFileName": [
+                            "padv_gr/padv_ui_stub_zh_CN_1753976112.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "880"
+                        ],
+                        "uncompressedBytes": [
+                            "1096"
+                        ],
+                        "version": [
+                            "1753976112"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/padv_gr/padv_ui_stub_zh_CN_1753976112.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_cloneDetection_edittime_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_cloneDetection_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_cloneDetection_edittime_resources_common_1753785384.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1052"
+                        ],
+                        "uncompressedBytes": [
+                            "2045"
+                        ],
+                        "version": [
+                            "1753785384"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_cloneDetection_edittime_resources_common_1753785384.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_cloneDetection_edittime_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "sl_cloneDetection_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_cloneDetection_edittime_resources_ja_JP_1753785384.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1227"
+                        ],
+                        "uncompressedBytes": [
+                            "2574"
+                        ],
+                        "version": [
+                            "1753785384"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_cloneDetection_edittime_resources_ja_JP_1753785384.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_cloneDetection_edittime_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "sl_cloneDetection_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_cloneDetection_edittime_resources_zh_CN_1753785385.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1099"
+                        ],
+                        "uncompressedBytes": [
+                            "1889"
+                        ],
+                        "version": [
+                            "1753785385"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_cloneDetection_edittime_resources_zh_CN_1753785385.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_m2m_edittime_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_m2m_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_m2m_edittime_resources_common_1753785384.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1044"
+                        ],
+                        "uncompressedBytes": [
+                            "2588"
+                        ],
+                        "version": [
+                            "1753785384"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_m2m_edittime_resources_common_1753785384.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_m2m_edittime_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "sl_m2m_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_m2m_edittime_resources_ja_JP_1753785385.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1146"
+                        ],
+                        "uncompressedBytes": [
+                            "2571"
+                        ],
+                        "version": [
+                            "1753785385"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_m2m_edittime_resources_ja_JP_1753785385.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_m2m_edittime_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "sl_m2m_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_m2m_edittime_resources_ko_KR_1753785385.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1131"
+                        ],
+                        "uncompressedBytes": [
+                            "2387"
+                        ],
+                        "version": [
+                            "1753785385"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_m2m_edittime_resources_ko_KR_1753785385.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_m2m_edittime_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "sl_m2m_edittime_resources"
+                        ],
+                        "componentFileName": [
+                            "sl_m2m_edittime_resources_zh_CN_1753785385.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1039"
+                        ],
+                        "uncompressedBytes": [
+                            "2021"
+                        ],
+                        "version": [
+                            "1753785385"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_m2m_edittime_resources_zh_CN_1753785385.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl_metrics_common"
+                        ],
+                        "componentBaseName": [
+                            "sl_metrics"
+                        ],
+                        "componentFileName": [
+                            "sl_metrics_common_1753975819.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "66511"
+                        ],
+                        "uncompressedBytes": [
+                            "100598"
+                        ],
+                        "version": [
+                            "1753975819"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/sl_metrics_common_1753975819.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck"
+                        ],
+                        "componentFileName": [
+                            "slcheck_common_1753991577.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "600"
+                        ],
+                        "uncompressedBytes": [
+                            "448"
+                        ],
+                        "version": [
+                            "1753991577"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_common_1753991577.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_edittime_sdp_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_edittime_sdp"
+                        ],
+                        "componentFileName": [
+                            "slcheck_edittime_sdp_common_1753969474.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8566"
+                        ],
+                        "uncompressedBytes": [
+                            "6093"
+                        ],
+                        "version": [
+                            "1753969474"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_edittime_sdp_common_1753969474.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_highintegrity_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_highintegrity"
+                        ],
+                        "componentFileName": [
+                            "slcheck_highintegrity_common_1766017331.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "156199"
+                        ],
+                        "uncompressedBytes": [
+                            "153920"
+                        ],
+                        "version": [
+                            "1766017331"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_highintegrity_common_1766017331.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_licenses"
+                        ],
+                        "componentFileName": [
+                            "slcheck_licenses_common_1753784800.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "434"
+                        ],
+                        "uncompressedBytes": [
+                            "500"
+                        ],
+                        "version": [
+                            "1753784800"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_licenses_common_1753784800.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_ma_metrics_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_ma_metrics"
+                        ],
+                        "componentFileName": [
+                            "slcheck_ma_metrics_common_1753981382.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13639"
+                        ],
+                        "uncompressedBytes": [
+                            "9770"
+                        ],
+                        "version": [
+                            "1753981382"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_ma_metrics_common_1753981382.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_common_1769789553.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3169093"
+                        ],
+                        "uncompressedBytes": [
+                            "10251397"
+                        ],
+                        "version": [
+                            "1769789553"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_common_1769789553.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1514"
+                        ],
+                        "uncompressedBytes": [
+                            "14560"
+                        ],
+                        "version": [
+                            "1753982239"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1461"
+                        ],
+                        "uncompressedBytes": [
+                            "14448"
+                        ],
+                        "version": [
+                            "1753982240"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1514"
+                        ],
+                        "uncompressedBytes": [
+                            "14560"
+                        ],
+                        "version": [
+                            "1753982239"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1461"
+                        ],
+                        "uncompressedBytes": [
+                            "14448"
+                        ],
+                        "version": [
+                            "1753982240"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1514"
+                        ],
+                        "uncompressedBytes": [
+                            "14560"
+                        ],
+                        "version": [
+                            "1753982239"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1461"
+                        ],
+                        "uncompressedBytes": [
+                            "14448"
+                        ],
+                        "version": [
+                            "1753982240"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1514"
+                        ],
+                        "uncompressedBytes": [
+                            "14560"
+                        ],
+                        "version": [
+                            "1753982239"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1461"
+                        ],
+                        "uncompressedBytes": [
+                            "14448"
+                        ],
+                        "version": [
+                            "1753982240"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1514"
+                        ],
+                        "uncompressedBytes": [
+                            "14560"
+                        ],
+                        "version": [
+                            "1753982239"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_ja_JP_1753982239.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_metrics_mmt_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_metrics_mmt"
+                        ],
+                        "componentFileName": [
+                            "slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1461"
+                        ],
+                        "uncompressedBytes": [
+                            "14448"
+                        ],
+                        "version": [
+                            "1753982240"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_metrics_mmt_zh_CN_1753982240.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcheck_model_refactoring_common"
+                        ],
+                        "componentBaseName": [
+                            "slcheck_model_refactoring"
+                        ],
+                        "componentFileName": [
+                            "slcheck_model_refactoring_common_1753980833.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4776"
+                        ],
+                        "uncompressedBytes": [
+                            "3161"
+                        ],
+                        "version": [
+                            "1753980833"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slcheck_model_refactoring_common_1753980833.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slslicer_common"
+                        ],
+                        "componentBaseName": [
+                            "slslicer"
+                        ],
+                        "componentFileName": [
+                            "slslicer_common_1768825029.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "607077"
+                        ],
+                        "uncompressedBytes": [
+                            "1046147"
+                        ],
+                        "version": [
+                            "1768825029"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slslicer_common_1768825029.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slvnv_do178b_common"
+                        ],
+                        "componentBaseName": [
+                            "slvnv_do178b"
+                        ],
+                        "componentFileName": [
+                            "slvnv_do178b_common_1753980831.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14591"
+                        ],
+                        "uncompressedBytes": [
+                            "17732"
+                        ],
+                        "version": [
+                            "1753980831"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slvnv_do178b_common_1753980831.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slvnv_iec61508_common"
+                        ],
+                        "componentBaseName": [
+                            "slvnv_iec61508"
+                        ],
+                        "componentFileName": [
+                            "slvnv_iec61508_common_1753980833.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15775"
+                        ],
+                        "uncompressedBytes": [
+                            "10993"
+                        ],
+                        "version": [
+                            "1753980833"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slvnv_iec61508_common_1753980833.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slvnv_styleguide_common"
+                        ],
+                        "componentBaseName": [
+                            "slvnv_styleguide"
+                        ],
+                        "componentFileName": [
+                            "slvnv_styleguide_common_1768197994.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "534067"
+                        ],
+                        "uncompressedBytes": [
+                            "446323"
+                        ],
+                        "version": [
+                            "1768197994"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/4/licensed_software/components/complete/slvnv_styleguide_common_1768197994.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "VV"
+        ],
+        "productName": [
+            "Simulink Check"
+        ],
+        "productNumber": [
+            "93"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

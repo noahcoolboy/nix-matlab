@@ -1,0 +1,2020 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/glm_common"
+                        ],
+                        "componentBaseName": [
+                            "3p/glm"
+                        ],
+                        "componentFileName": [
+                            "3p/glm_common_1763610799.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "822"
+                        ],
+                        "uncompressedBytes": [
+                            "1344"
+                        ],
+                        "version": [
+                            "1763610799"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/3p/glm_common_1763610799.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autoblks_shared_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "autoblks_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "autoblks_shared_resources_common_1768215445.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "58739"
+                        ],
+                        "uncompressedBytes": [
+                            "168706"
+                        ],
+                        "version": [
+                            "1768215445"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/autoblks_shared_resources_common_1768215445.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autoblks_shared_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "autoblks_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "autoblks_shared_resources_ja_JP_1771873485.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "74025"
+                        ],
+                        "uncompressedBytes": [
+                            "182172"
+                        ],
+                        "version": [
+                            "1771873485"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/autoblks_shared_resources_ja_JP_1771873485.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autoblks_shared_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "autoblks_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "autoblks_shared_resources_ko_KR_1771873491.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "69117"
+                        ],
+                        "uncompressedBytes": [
+                            "165774"
+                        ],
+                        "version": [
+                            "1771873491"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/autoblks_shared_resources_ko_KR_1771873491.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "autoblks_utils_common"
+                        ],
+                        "componentBaseName": [
+                            "autoblks_utils"
+                        ],
+                        "componentFileName": [
+                            "autoblks_utils_common_1763834751.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "96362"
+                        ],
+                        "uncompressedBytes": [
+                            "86004"
+                        ],
+                        "version": [
+                            "1763834751"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/autoblks_utils_common_1763834751.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "buy/doc/sl3d_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/sl3d_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/sl3d_search_doc_en_common_1779932673.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "212811"
+                        ],
+                        "uncompressedBytes": [
+                            "808780"
+                        ],
+                        "version": [
+                            "1779932673"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/buy/doc/sl3d_search_doc_en_common_1779932673.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "driving_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "driving_resources"
+                        ],
+                        "componentFileName": [
+                            "driving_resources_common_1778532137.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "68262"
+                        ],
+                        "uncompressedBytes": [
+                            "217574"
+                        ],
+                        "version": [
+                            "1778532137"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/driving_resources_common_1778532137.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "driving_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "driving_resources"
+                        ],
+                        "componentFileName": [
+                            "driving_resources_ja_JP_1778532140.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "81748"
+                        ],
+                        "uncompressedBytes": [
+                            "247701"
+                        ],
+                        "version": [
+                            "1778532140"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/driving_resources_ja_JP_1778532140.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "driving_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "driving_resources"
+                        ],
+                        "componentFileName": [
+                            "driving_resources_ko_KR_1778532141.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "77735"
+                        ],
+                        "uncompressedBytes": [
+                            "223386"
+                        ],
+                        "version": [
+                            "1778532141"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/driving_resources_ko_KR_1778532141.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3d_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3d"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3d_common_1769819179.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "410444"
+                        ],
+                        "uncompressedBytes": [
+                            "696731"
+                        ],
+                        "version": [
+                            "1769819179"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3d_common_1769819179.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3d_fileio_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3d_fileio"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3d_fileio_common_1763774926.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "441447"
+                        ],
+                        "uncompressedBytes": [
+                            "4744690"
+                        ],
+                        "version": [
+                            "1763774926"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3d_fileio_common_1763774926.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3d_io_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3d_io"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3d_io_common_1763807296.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4207"
+                        ],
+                        "uncompressedBytes": [
+                            "14032"
+                        ],
+                        "version": [
+                            "1763807296"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3d_io_common_1763807296.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3d_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3d_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3d_resources_common_1763727198.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10956"
+                        ],
+                        "uncompressedBytes": [
+                            "17405"
+                        ],
+                        "version": [
+                            "1763727198"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3d_resources_common_1763727198.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3d_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3d_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3d_resources_ja_JP_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14852"
+                        ],
+                        "uncompressedBytes": [
+                            "22443"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3d_resources_ja_JP_1763727199.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3dblks_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3dblks"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3dblks_common_1779955136.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2814145"
+                        ],
+                        "uncompressedBytes": [
+                            "2940049"
+                        ],
+                        "version": [
+                            "1779955136"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3dblks_common_1779955136.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3dblks_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3dblks_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3dblks_resources_common_1763727199.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "41657"
+                        ],
+                        "uncompressedBytes": [
+                            "107954"
+                        ],
+                        "version": [
+                            "1763727199"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3dblks_resources_common_1763727199.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3dblks_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3dblks_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3dblks_resources_ja_JP_1763727202.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "55029"
+                        ],
+                        "uncompressedBytes": [
+                            "116660"
+                        ],
+                        "version": [
+                            "1763727202"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3dblks_resources_ja_JP_1763727202.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_sim3dblks_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_sim3dblks_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_sim3dblks_resources_ko_KR_1765326872.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "52775"
+                        ],
+                        "uncompressedBytes": [
+                            "110503"
+                        ],
+                        "version": [
+                            "1765326872"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_sim3dblks_resources_ko_KR_1765326872.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_common_1779952842.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "311620"
+                        ],
+                        "uncompressedBytes": [
+                            "990097"
+                        ],
+                        "version": [
+                            "1779952842"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_tracking_common_1779952842.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_blks_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_blks"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_blks_common_1779954314.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "74944"
+                        ],
+                        "uncompressedBytes": [
+                            "158007"
+                        ],
+                        "version": [
+                            "1779954314"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_tracking_blks_common_1779954314.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_resources_common_1763727197.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "34468"
+                        ],
+                        "uncompressedBytes": [
+                            "79549"
+                        ],
+                        "version": [
+                            "1763727197"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_tracking_resources_common_1763727197.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_resources_ja_JP_1769684303.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "41320"
+                        ],
+                        "uncompressedBytes": [
+                            "86364"
+                        ],
+                        "version": [
+                            "1769684303"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_tracking_resources_ja_JP_1769684303.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tracking_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "shared_tracking_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tracking_resources_ko_KR_1769684306.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "39369"
+                        ],
+                        "uncompressedBytes": [
+                            "78146"
+                        ],
+                        "version": [
+                            "1769684306"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/shared_tracking_resources_ko_KR_1769684306.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_custom_project_linux_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_custom_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_custom_project_linux_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "343"
+                        ],
+                        "uncompressedBytes": [
+                            "138"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sim3d_projects/automotive_custom_project_linux_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_custom_project_windows_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_custom_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_custom_project_windows_common_1763726754.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "349"
+                        ],
+                        "uncompressedBytes": [
+                            "142"
+                        ],
+                        "version": [
+                            "1763726754"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sim3d_projects/automotive_custom_project_windows_common_1763726754.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_linux_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_linux"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_linux_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "323"
+                        ],
+                        "uncompressedBytes": [
+                            "124"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sim3d_projects/automotive_project_linux_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/automotive_project_windows_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/automotive_project_windows"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/automotive_project_windows_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "329"
+                        ],
+                        "uncompressedBytes": [
+                            "128"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sim3d_projects/automotive_project_windows_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/spkg_plugins_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/spkg_plugins"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/spkg_plugins_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "292"
+                        ],
+                        "uncompressedBytes": [
+                            "97"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sim3d_projects/spkg_plugins_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sim3d_projects/spkg_project_common"
+                        ],
+                        "componentBaseName": [
+                            "sim3d_projects/spkg_project"
+                        ],
+                        "componentFileName": [
+                            "sim3d_projects/spkg_project_common_1763726753.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "286"
+                        ],
+                        "uncompressedBytes": [
+                            "97"
+                        ],
+                        "version": [
+                            "1763726753"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sim3d_projects/spkg_project_common_1763726753.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl3d_common"
+                        ],
+                        "componentBaseName": [
+                            "sl3d"
+                        ],
+                        "componentFileName": [
+                            "sl3d_common_1779955254.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "21518228"
+                        ],
+                        "uncompressedBytes": [
+                            "31384449"
+                        ],
+                        "version": [
+                            "1779955254"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sl3d_common_1779955254.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl3d_core_common"
+                        ],
+                        "componentBaseName": [
+                            "sl3d_core"
+                        ],
+                        "componentFileName": [
+                            "sl3d_core_common_1779954357.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1956965"
+                        ],
+                        "uncompressedBytes": [
+                            "6748794"
+                        ],
+                        "version": [
+                            "1779954357"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sl3d_core_common_1779954357.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl3d_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "sl3d_licenses"
+                        ],
+                        "componentFileName": [
+                            "sl3d_licenses_common_1763621169.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40267"
+                        ],
+                        "uncompressedBytes": [
+                            "134974"
+                        ],
+                        "version": [
+                            "1763621169"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sl3d_licenses_common_1763621169.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl3d_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "sl3d_resources"
+                        ],
+                        "componentFileName": [
+                            "sl3d_resources_common_1763727220.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "30783"
+                        ],
+                        "uncompressedBytes": [
+                            "63892"
+                        ],
+                        "version": [
+                            "1763727220"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sl3d_resources_common_1763727220.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "sl3d_webui_common"
+                        ],
+                        "componentBaseName": [
+                            "sl3d_webui"
+                        ],
+                        "componentFileName": [
+                            "sl3d_webui_common_1763727415.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1337188"
+                        ],
+                        "uncompressedBytes": [
+                            "2031630"
+                        ],
+                        "version": [
+                            "1763727415"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/3/licensed_software/components/complete/sl3d_webui_common_1763727415.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "VR"
+        ],
+        "productName": [
+            "Simulink 3D Animation"
+        ],
+        "productNumber": [
+            "66"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

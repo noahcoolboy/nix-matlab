@@ -1,0 +1,696 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/sdl_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/sdl_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/sdl_search_doc_en_common_1785767763.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "168693"
+                        ],
+                        "uncompressedBytes": [
+                            "912646"
+                        ],
+                        "version": [
+                            "1785767763"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/buy/doc/sdl_search_doc_en_common_1785767763.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_common_1785785432.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1727868"
+                        ],
+                        "uncompressedBytes": [
+                            "2494782"
+                        ],
+                        "version": [
+                            "1785785432"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl_common_1785785432.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/advisor_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/advisor"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/advisor_common_1764144833.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "14509"
+                        ],
+                        "uncompressedBytes": [
+                            "10760"
+                        ],
+                        "version": [
+                            "1764144833"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl/advisor_common_1764144833.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/classic_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/classic"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/classic_common_1779959819.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "98595"
+                        ],
+                        "uncompressedBytes": [
+                            "121612"
+                        ],
+                        "version": [
+                            "1779959819"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl/classic_common_1779959819.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/parts_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/parts"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/parts_common_1770069755.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "45681"
+                        ],
+                        "uncompressedBytes": [
+                            "120519"
+                        ],
+                        "version": [
+                            "1770069755"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl/parts_common_1770069755.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl/supporting_files_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl/supporting_files"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl/supporting_files_common_1779959423.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "191493"
+                        ],
+                        "uncompressedBytes": [
+                            "238675"
+                        ],
+                        "version": [
+                            "1779959423"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl/supporting_files_common_1779959423.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl_resources"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_resources_common_1783537520.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "134196"
+                        ],
+                        "uncompressedBytes": [
+                            "328206"
+                        ],
+                        "version": [
+                            "1783537520"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl_resources_common_1783537520.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl_resources"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_resources_ja_JP_1783537525.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "174932"
+                        ],
+                        "uncompressedBytes": [
+                            "367492"
+                        ],
+                        "version": [
+                            "1783537525"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl_resources_ja_JP_1783537525.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "physmod/sdl_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "physmod/sdl_resources"
+                        ],
+                        "componentFileName": [
+                            "physmod/sdl_resources_zh_CN_1783537529.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "160923"
+                        ],
+                        "uncompressedBytes": [
+                            "310885"
+                        ],
+                        "version": [
+                            "1783537529"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/physmod/sdl_resources_zh_CN_1783537529.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "simscapedriveline_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "simscapedriveline_licenses"
+                        ],
+                        "componentFileName": [
+                            "simscapedriveline_licenses_common_1763621174.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "444"
+                        ],
+                        "uncompressedBytes": [
+                            "504"
+                        ],
+                        "version": [
+                            "1763621174"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/5/licensed_software/components/complete/simscapedriveline_licenses_common_1763621174.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "LD"
+        ],
+        "productName": [
+            "Simscape Driveline"
+        ],
+        "productNumber": [
+            "95"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SS"
+                        ],
+                        "productName": [
+                            "Simscape"
+                        ],
+                        "productNumber": [
+                            "104"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

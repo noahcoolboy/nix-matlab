@@ -1,0 +1,310 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/ni-tdms_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/ni-tdms"
+                        ],
+                        "componentFileName": [
+                            "3p/ni-tdms_win64_1753829078.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "543998"
+                        ],
+                        "uncompressedBytes": [
+                            "1366728"
+                        ],
+                        "version": [
+                            "1753829078"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/3p/ni-tdms_win64_1753829078.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_win64"
+                        ],
+                        "componentBaseName": [
+                            "daq"
+                        ],
+                        "componentFileName": [
+                            "daq_win64_1760826272.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "554024"
+                        ],
+                        "uncompressedBytes": [
+                            "2040000"
+                        ],
+                        "version": [
+                            "1760826272"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/daq_win64_1760826272.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_win64"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_win64_1760828046.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15543"
+                        ],
+                        "uncompressedBytes": [
+                            "34124"
+                        ],
+                        "version": [
+                            "1760828046"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/daq_cli_win64_1760828046.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_sdk_win64"
+                        ],
+                        "componentBaseName": [
+                            "daq_sdk"
+                        ],
+                        "componentFileName": [
+                            "daq_sdk_win64_1760828695.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "535506"
+                        ],
+                        "uncompressedBytes": [
+                            "1795204"
+                        ],
+                        "version": [
+                            "1760828695"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/daq_sdk_win64_1760828695.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_win64_1758802585.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "310442"
+                        ],
+                        "uncompressedBytes": [
+                            "1053568"
+                        ],
+                        "version": [
+                            "1758802585"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/2/licensed_software/components/complete/shared_tdms_win64_1758802585.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "DA"
+        ],
+        "productName": [
+            "Data Acquisition Toolbox"
+        ],
+        "productNumber": [
+            "47"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

@@ -1,0 +1,639 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/rptgenext_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/rptgenext_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/rptgenext_search_doc_en_common_1783030080.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "243893"
+                        ],
+                        "uncompressedBytes": [
+                            "842578"
+                        ],
+                        "version": [
+                            "1783030080"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/buy/doc/rptgenext_search_doc_en_common_1783030080.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rptgenext_common"
+                        ],
+                        "componentBaseName": [
+                            "rptgenext"
+                        ],
+                        "componentFileName": [
+                            "rptgenext_common_1779955142.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "955901"
+                        ],
+                        "uncompressedBytes": [
+                            "1639001"
+                        ],
+                        "version": [
+                            "1779955142"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/rptgenext_common_1779955142.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rptgenext_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "rptgenext_licenses"
+                        ],
+                        "componentFileName": [
+                            "rptgenext_licenses_common_1763621173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "444"
+                        ],
+                        "uncompressedBytes": [
+                            "511"
+                        ],
+                        "version": [
+                            "1763621173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/rptgenext_licenses_common_1763621173.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slreportgen_re_common"
+                        ],
+                        "componentBaseName": [
+                            "slreportgen_re"
+                        ],
+                        "componentFileName": [
+                            "slreportgen_re_common_1763774947.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "62095"
+                        ],
+                        "uncompressedBytes": [
+                            "50515"
+                        ],
+                        "version": [
+                            "1763774947"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slreportgen_re_common_1763774947.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slreportgen_rpt2api_common"
+                        ],
+                        "componentBaseName": [
+                            "slreportgen_rpt2api"
+                        ],
+                        "componentFileName": [
+                            "slreportgen_rpt2api_common_1764143311.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "132196"
+                        ],
+                        "uncompressedBytes": [
+                            "190737"
+                        ],
+                        "version": [
+                            "1764143311"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slreportgen_rpt2api_common_1764143311.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slreportgen_webview_common"
+                        ],
+                        "componentBaseName": [
+                            "slreportgen_webview"
+                        ],
+                        "componentFileName": [
+                            "slreportgen_webview_common_1782871587.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1856283"
+                        ],
+                        "uncompressedBytes": [
+                            "5333015"
+                        ],
+                        "version": [
+                            "1782871587"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slreportgen_webview_common_1782871587.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slreportgen_webview_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "slreportgen_webview_resources"
+                        ],
+                        "componentFileName": [
+                            "slreportgen_webview_resources_common_1763727192.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "9527"
+                        ],
+                        "uncompressedBytes": [
+                            "23010"
+                        ],
+                        "version": [
+                            "1763727192"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slreportgen_webview_resources_common_1763727192.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slreportgen_webview_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slreportgen_webview_resources"
+                        ],
+                        "componentFileName": [
+                            "slreportgen_webview_resources_ja_JP_1763727193.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11929"
+                        ],
+                        "uncompressedBytes": [
+                            "30023"
+                        ],
+                        "version": [
+                            "1763727193"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slreportgen_webview_resources_ja_JP_1763727193.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slreportgen_webview_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slreportgen_webview_resources"
+                        ],
+                        "componentFileName": [
+                            "slreportgen_webview_resources_zh_CN_1763727193.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10939"
+                        ],
+                        "uncompressedBytes": [
+                            "23753"
+                        ],
+                        "version": [
+                            "1763727193"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/4/licensed_software/components/complete/slreportgen_webview_resources_zh_CN_1763727193.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SR"
+        ],
+        "productName": [
+            "Simulink Report Generator"
+        ],
+        "productNumber": [
+            "45"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "MR"
+                        ],
+                        "productName": [
+                            "MATLAB Report Generator"
+                        ],
+                        "productNumber": [
+                            "44"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

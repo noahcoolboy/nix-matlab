@@ -1,0 +1,769 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/raspberrypi_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/raspberrypi_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/raspberrypi_search_doc_en_common_1777928813.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "223473"
+                        ],
+                        "uncompressedBytes": [
+                            "894040"
+                        ],
+                        "version": [
+                            "1777928813"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/buy/doc/raspberrypi_search_doc_en_common_1777928813.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hardwaresupportpkgs/targets/raspberrypi_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "hardwaresupportpkgs/targets/raspberrypi_resources"
+                        ],
+                        "componentFileName": [
+                            "hardwaresupportpkgs/targets/raspberrypi_resources_common_1763727216.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "8899"
+                        ],
+                        "uncompressedBytes": [
+                            "21732"
+                        ],
+                        "version": [
+                            "1763727216"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/hardwaresupportpkgs/targets/raspberrypi_resources_common_1763727216.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "hardwaresupportpkgs/targets/raspi_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "hardwaresupportpkgs/targets/raspi_resources"
+                        ],
+                        "componentFileName": [
+                            "hardwaresupportpkgs/targets/raspi_resources_common_1769684311.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "32037"
+                        ],
+                        "uncompressedBytes": [
+                            "126655"
+                        ],
+                        "version": [
+                            "1769684311"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/hardwaresupportpkgs/targets/raspi_resources_common_1769684311.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "raspberrypi_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "raspberrypi_licenses"
+                        ],
+                        "componentFileName": [
+                            "raspberrypi_licenses_common_1763621173.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "446"
+                        ],
+                        "uncompressedBytes": [
+                            "507"
+                        ],
+                        "version": [
+                            "1763621173"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/raspberrypi_licenses_common_1763621173.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rpib/raspberrypi_common"
+                        ],
+                        "componentBaseName": [
+                            "rpib/raspberrypi"
+                        ],
+                        "componentFileName": [
+                            "rpib/raspberrypi_common_1764172380.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "487"
+                        ],
+                        "uncompressedBytes": [
+                            "160"
+                        ],
+                        "version": [
+                            "1764172380"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/rpib/raspberrypi_common_1764172380.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rpib/raspberrypi_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "rpib/raspberrypi_resources"
+                        ],
+                        "componentFileName": [
+                            "rpib/raspberrypi_resources_common_1769684311.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "25353"
+                        ],
+                        "uncompressedBytes": [
+                            "80826"
+                        ],
+                        "version": [
+                            "1769684311"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/rpib/raspberrypi_resources_common_1769684311.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rpib/raspberrypiutilities_common"
+                        ],
+                        "componentBaseName": [
+                            "rpib/raspberrypiutilities"
+                        ],
+                        "componentFileName": [
+                            "rpib/raspberrypiutilities_common_1774268959.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "424231"
+                        ],
+                        "uncompressedBytes": [
+                            "816350"
+                        ],
+                        "version": [
+                            "1774268959"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/rpib/raspberrypiutilities_common_1774268959.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rpib/raspiML_common"
+                        ],
+                        "componentBaseName": [
+                            "rpib/raspiML"
+                        ],
+                        "componentFileName": [
+                            "rpib/raspiML_common_1774268996.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6373100"
+                        ],
+                        "uncompressedBytes": [
+                            "7759141"
+                        ],
+                        "version": [
+                            "1774268996"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/rpib/raspiML_common_1774268996.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rpib/raspiSL_common"
+                        ],
+                        "componentBaseName": [
+                            "rpib/raspiSL"
+                        ],
+                        "componentFileName": [
+                            "rpib/raspiSL_common_1770082783.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5490177"
+                        ],
+                        "uncompressedBytes": [
+                            "5887493"
+                        ],
+                        "version": [
+                            "1770082783"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/rpib/raspiSL_common_1770082783.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "rpib/raspiSL_templates_common"
+                        ],
+                        "componentBaseName": [
+                            "rpib/raspiSL_templates"
+                        ],
+                        "componentFileName": [
+                            "rpib/raspiSL_templates_common_1774907669.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "924535"
+                        ],
+                        "uncompressedBytes": [
+                            "927009"
+                        ],
+                        "version": [
+                            "1774907669"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/rpib/raspiSL_templates_common_1774907669.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_3pcmsisinstaller_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_3pcmsisinstaller"
+                        ],
+                        "componentFileName": [
+                            "shared_3pcmsisinstaller_common_1763774967.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10790"
+                        ],
+                        "uncompressedBytes": [
+                            "6167"
+                        ],
+                        "version": [
+                            "1763774967"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_3pcmsisinstaller_common_1763774967.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_3pcmsisinstaller_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_3pcmsisinstaller_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_3pcmsisinstaller_resources_common_1763727239.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "657"
+                        ],
+                        "uncompressedBytes": [
+                            "898"
+                        ],
+                        "version": [
+                            "1763727239"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2026a/Release/2/licensed_software/components/complete/shared_3pcmsisinstaller_resources_common_1763727239.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "RI"
+        ],
+        "productName": [
+            "Raspberry Pi Blockset"
+        ],
+        "productNumber": [
+            "203"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "26.1"
+        ],
+        "releaseDescription": [
+            "R2026a"
+        ],
+        "releaseFamily": [
+            "R2026a"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "26.1"
+                        ],
+                        "releaseDescription": [
+                            "R2026a"
+                        ],
+                        "releaseFamily": [
+                            "R2026a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
