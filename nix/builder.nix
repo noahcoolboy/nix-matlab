@@ -209,10 +209,17 @@ let
               rm -rf tmp
 
               # Configure .matlab7rc.sh with FHS library directories
-              if [ -f "$out/bin/.matlab7rc.sh" ]; then
-                chmod +w "$out/bin/.matlab7rc.sh"
-                sed -i 's|LDPATH_SUFFIX='\'\''|LDPATH_SUFFIX='\''/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib'\''|g' "$out/bin/.matlab7rc.sh"
-              fi
+              python3 -c '
+import os
+rc_path = "'"$out"'/bin/.matlab7rc.sh"
+if os.path.exists(rc_path):
+    os.chmod(rc_path, 0o755)
+    with open(rc_path) as f:
+        c = f.read()
+    c = c.replace("LDPATH_SUFFIX=\x27\x27", "LDPATH_SUFFIX=\x27/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib\x27")
+    with open(rc_path, "w") as f:
+        f.write(c)
+'
 
               # Generate toolbox/local/pathdef.m from installed .phl files
               if [ -f "$out/toolbox/local/template/pathdef.m" ]; then
