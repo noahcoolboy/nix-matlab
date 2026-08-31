@@ -77,6 +77,10 @@ let
         fhs = pkgs.buildFHSEnv {
           name = "matlab";
           targetPkgs = matlabFhsPackages;
+          profile = ''
+            export LDPATH_SUFFIX="/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib"
+            export LD_LIBRARY_PATH="/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib''${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+          '';
           runScript = "${rawMatlab}/bin/matlab";
           meta = {
             mainProgram = "matlab";
@@ -203,6 +207,12 @@ let
                 fi
               done < "$manifest"
               rm -rf tmp
+
+              # Configure .matlab7rc.sh with FHS library directories
+              if [ -f "$out/bin/.matlab7rc.sh" ]; then
+                chmod +w "$out/bin/.matlab7rc.sh"
+                sed -i "s|LDPATH_SUFFIX=''|LDPATH_SUFFIX='/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib'|g" "$out/bin/.matlab7rc.sh"
+              fi
 
               # Generate toolbox/local/pathdef.m from installed .phl files
               if [ -f "$out/toolbox/local/template/pathdef.m" ]; then
