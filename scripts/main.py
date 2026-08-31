@@ -32,6 +32,8 @@ quota = 5000
 with ThreadPoolExecutor(max_workers=8) as pool:
     for ver in versions:
         for update in ver["availableUpdates"]:
+            if quota <= 0:
+                break
             path = Path(f"data/{ver['release']}.{update}")
             path.mkdir(parents=True, exist_ok=True)
             signedDws = sign(key, form_path(ver["urlBase"], ver["release"], "Release", update), ttl=ver["urlSigning"]["ttlSeconds"])
