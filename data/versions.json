@@ -1,0 +1,97 @@
+[
+    {
+        "availableUpdates": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "defaultUpdate": "6",
+        "entitledProducts": [],
+        "languageCodes": [],
+        "supportPackageReleaseIds": [],
+        "urlBase": "https://esd.mathworks.com",
+        "urlSigning": {
+            "sign": true,
+            "ttlSeconds": 345600,
+            "version": "1"
+        },
+        "release": "R2025b"
+    },
+    {
+        "availableUpdates": [],
+        "defaultUpdate": "",
+        "entitledProducts": [],
+        "languageCodes": [],
+        "supportPackageReleaseIds": [
+            "DOCPKGS2026Feb_25b",
+            "DOCPKGS25bGR",
+            "SPKG2025Dec_25b",
+            "SPKG2025Nov_25b",
+            "SPKG2025Oct_25b",
+            "SPKG2026Apr_25b",
+            "SPKG2026Aug_25b",
+            "SPKG2026Feb_25b",
+            "SPKG2026Jan_25b",
+            "SPKG2026Jul_25b",
+            "SPKG2026Jun_25b",
+            "SPKG2026Mar_25b",
+            "SPKG2026May_25b",
+            "SPKG25bGR"
+        ],
+        "urlBase": "https://ssd.mathworks.com/supportfiles/downloads",
+        "urlSigning": {
+            "sign": false,
+            "ttlSeconds": 345600,
+            "version": "1"
+        },
+        "release": "R2025b"
+    },
+    {
+        "availableUpdates": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "defaultUpdate": "5",
+        "entitledProducts": [],
+        "languageCodes": [],
+        "supportPackageReleaseIds": [],
+        "urlBase": "https://esd.mathworks.com",
+        "urlSigning": {
+            "sign": true,
+            "ttlSeconds": 345600,
+            "version": "1"
+        },
+        "release": "R2026a"
+    },
+    {
+        "availableUpdates": [],
+        "defaultUpdate": "",
+        "entitledProducts": [],
+        "languageCodes": [],
+        "supportPackageReleaseIds": [
+            "DOCPKGS2026Aug_26a",
+            "DOCPKGS26aGR",
+            "SPKG2026Aug_26a",
+            "SPKG2026Jul_26a",
+            "SPKG2026Jun_26a",
+            "SPKG2026May_26a",
+            "SPKG26aGR",
+            "SPKGHotFix2_26a"
+        ],
+        "urlBase": "https://ssd.mathworks.com/supportfiles/downloads",
+        "urlSigning": {
+            "sign": false,
+            "ttlSeconds": 345600,
+            "version": "1"
+        },
+        "release": "R2026a"
+    }
+]
