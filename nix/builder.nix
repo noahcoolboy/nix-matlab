@@ -211,7 +211,7 @@ let
               # Configure .matlab7rc.sh with FHS library directories
               if [ -f "$out/bin/.matlab7rc.sh" ]; then
                 chmod +w "$out/bin/.matlab7rc.sh"
-                sed -i "s|LDPATH_SUFFIX=''|LDPATH_SUFFIX='/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib'|g" "$out/bin/.matlab7rc.sh"
+                sed -i 's|LDPATH_SUFFIX='\'\''|LDPATH_SUFFIX='\''/lib:/usr/lib:/usr/lib64:/run/opengl-driver/lib'\''|g' "$out/bin/.matlab7rc.sh"
               fi
 
               # Generate toolbox/local/pathdef.m from installed .phl files
