@@ -2,29 +2,38 @@
 
 let
   lib = pkgs.lib;
-  lndirPkg = pkgs.lndir or pkgs.xorg.lndir;
+  isLinux = pkgs.stdenv.hostPlatform.isLinux;
+  matlabFhsPackages = p: import ./pkgs.nix { pkgs = p; };
 
-  # Build an individual component derivation
+  # Build an individual component fetch derivation
+  mkComponentSrc = { comp, key, exp ? 2147483647 }:
+    let
+      safeName = builtins.replaceStrings
+        [ "/" "_" "." "@" "+" ":" " " ]
+        [ "-" "-" "-" "-" "-" "-" "-" ]
+        comp.fn;
+    in
+    (pkgs.fetchurl {
+      name = "matlab-src-${safeName}";
+      url = sign.signUrl {
+        inherit key exp;
+        url = comp.url;
+      };
+      sha256 = comp.sha256;
+    }).overrideAttrs (_: {
+      preferLocalBuild = true;
+      allowSubstitutes = false;
+    });
+
+  # Build an individual component derivation (standalone overlay)
   mkComponentDrv = { comp, key, release, update, exp ? 2147483647 }:
     let
-      # Sanitize component name for Nix derivation name
       safeName = builtins.replaceStrings
         [ "/" "_" "." "@" "+" ":" " " ]
         [ "-" "-" "-" "-" "-" "-" "-" ]
         comp.fn;
 
-      signedUrl = sign.signUrl {
-        inherit key exp;
-        url = comp.url;
-      };
-
-      src = (pkgs.fetchurl {
-        url = signedUrl;
-        sha256 = comp.sha256;
-      }).overrideAttrs (_: {
-        preferLocalBuild = true;
-        allowSubstitutes = false;
-      });
+      src = mkComponentSrc { inherit comp key exp; };
     in
     pkgs.stdenvNoCC.mkDerivation {
       pname = "matlab-comp-${safeName}";
@@ -36,6 +45,10 @@ let
       allowSubstitutes = false;
 
       nativeBuildInputs = [ pkgs.unzip ];
+
+      dontFixup = true;
+      dontPatchELF = true;
+      dontStrip = true;
 
       phases = [ "installPhase" ];
 
@@ -56,6 +69,28 @@ let
         inherit comp;
       };
     };
+
+  # Wrap an unpacked MATLAB derivation in an FHS environment on Linux
+  wrapMatlabFhs = rawMatlab:
+    if isLinux then
+      let
+        fhs = pkgs.buildFHSEnv {
+          name = "matlab";
+          targetPkgs = matlabFhsPackages;
+          runScript = "${rawMatlab}/bin/matlab";
+          meta = {
+            mainProgram = "matlab";
+            description = "MATLAB programming and numeric computing platform";
+            platforms = pkgs.lib.platforms.linux;
+          };
+          passthru = {
+            unwrapped = rawMatlab;
+          } // rawMatlab.passthru;
+        };
+      in
+      fhs
+    else
+      rawMatlab;
 
   # Build MATLAB installation from release data
   mkMatlabRelease = { relData, key, exp ? 2147483647 }:
@@ -123,37 +158,111 @@ let
               ) {} allSelectedComps
             );
 
-          # Instantiate derivations ONLY for selected components
-          selectedDrvs = map (c: mkComponentDrv {
+          # Download sources for all unique selected components
+          selectedSrcs = map (c: mkComponentSrc {
             comp = c;
-            inherit key release update exp;
+            inherit key exp;
           }) uniqueSelectedComps;
 
-          # Top-level derivation assembling the collection of component overlays
-          matlabDrv = pkgs.stdenvNoCC.mkDerivation {
-            pname = "matlab";
+          # Write sources to a manifest file to avoid exceeding Linux MAX_ARG_STRLEN (128 KB)
+          # when passing thousands of store paths as environment variables
+          manifest = pkgs.writeText "matlab-sources-${release}.${update}.txt" (
+            lib.concatStringsSep "\n" (map (s: "${s}") selectedSrcs)
+          );
+
+          # Top-level raw derivation assembling the collection of component overlays directly
+          rawMatlabDrv = pkgs.stdenvNoCC.mkDerivation {
+            pname = "matlab-unwrapped";
             version = "${release}.${update}";
 
             preferLocalBuild = true;
             allowSubstitutes = false;
 
-            components = selectedDrvs;
+            inherit manifest;
 
-            nativeBuildInputs = [ lndirPkg ];
+            nativeBuildInputs = [ pkgs.unzip pkgs.python3 ];
 
-            phases = [ "installPhase" ];
+            dontUnpack = true;
+            dontFixup = true;
+            dontPatchELF = true;
+            dontStrip = true;
 
             installPhase = ''
-              mkdir -p $out
-              for comp in $components; do
-                if [ -d "$comp" ]; then
-                  ${lndirPkg}/bin/lndir -silent "$comp" "$out"
+              mkdir -p $out tmp
+              while IFS= read -r src; do
+                if [ -n "$src" ]; then
+                  unzip -q -o "$src" -d tmp
+                  if [ -d tmp/fsroot ]; then
+                    for z in tmp/fsroot/*.zip; do
+                      if [ -f "$z" ]; then
+                        unzip -q -o "$z" -d $out
+                      fi
+                    done
+                    rm -rf tmp/fsroot
+                  fi
                 fi
-              done
+              done < "$manifest"
+              rm -rf tmp
+
+              # Generate toolbox/local/pathdef.m from installed .phl files
+              if [ -f "$out/toolbox/local/template/pathdef.m" ]; then
+                mkdir -p "$out/toolbox/local"
+                python3 -c '
+import os, glob
+
+matlabroot = "'"$out"'"
+template_file = os.path.join(matlabroot, "toolbox/local/template/pathdef.m")
+with open(template_file) as f:
+    content = f.read()
+
+phl_dir = os.path.join(matlabroot, "toolbox/local/path")
+phl_files = glob.glob(os.path.join(phl_dir, "*.phl"))
+alt_dir = os.path.join(matlabroot, "derived/share/path")
+if os.path.exists(alt_dir):
+    phl_files.extend(glob.glob(os.path.join(alt_dir, "**/*.phl"), recursive=True))
+
+paths = []
+seen = set()
+for pf in phl_files:
+    with open(pf) as f:
+        for line in f:
+            line = line.strip()
+            if line and os.path.isdir(os.path.join(matlabroot, line)) and line not in seen:
+                seen.add(line)
+                paths.append(line)
+
+def sort_key(p):
+    if p.startswith("toolbox/matlab/"): return (0, p)
+    if p.startswith("toolbox/local"): return (1, p)
+    if p.startswith("toolbox/simulink/"): return (2, p)
+    if p.startswith("toolbox/stateflow/"): return (3, p)
+    if p.startswith("toolbox/rtw/"): return (4, p)
+    return (5, p)
+
+sorted_paths = sorted(paths, key=sort_key)
+entries_str = "\n".join([f"    matlabroot,\x27/{p}:\x27, ..." for p in sorted_paths])
+
+marker = "\x27<PLEASE FILL IN ONE DIRECTORY PER LINE>:\x27,..."
+content = content.replace(marker, entries_str)
+
+output_file = os.path.join(matlabroot, "toolbox/local/pathdef.m")
+with open(output_file, "w") as f:
+    f.write(content)
+'
+              fi
+
+              if [ -d "$out/bin" ]; then
+                chmod -R +x "$out/bin"
+              fi
             '';
 
+            meta = {
+              mainProgram = "matlab";
+              description = "MATLAB programming and numeric computing platform (unwrapped)";
+            };
+
             passthru = {
-              inherit release update withDocs selectedDrvs;
+              inherit release update withDocs uniqueSelectedComps selectedSrcs manifest;
               productsMap = psMap;
               uniqueProducts = uniquePsMap;
               allProductList = relData.productList;
@@ -175,8 +284,10 @@ let
               };
             };
           };
+
+          wrappedMatlab = wrapMatlabFhs rawMatlabDrv;
         in
-        matlabDrv;
+        wrappedMatlab;
 
       makeMatlabOverridable = lib.makeOverridable mkMatlabBase;
 
@@ -189,5 +300,5 @@ let
     defaultPkg;
 
 in {
-  inherit mkComponentDrv mkMatlabRelease;
+  inherit mkComponentSrc mkComponentDrv mkMatlabRelease wrapMatlabFhs matlabFhsPackages;
 }

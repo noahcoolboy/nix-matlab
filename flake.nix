@@ -22,10 +22,15 @@
       system: let
         pkgs = import nixpkgs { inherit system; };
         matlabNix = import ./nix { inherit pkgs system; };
-      in {
+      in rec {
         packages = matlabNix.packages // {
           default = matlabNix.packages."R2025b";
         };
+
+        apps = builtins.mapAttrs (name: pkg: {
+          type = "app";
+          program = "${pkg}/bin/matlab";
+        }) packages;
 
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [ uv ];
