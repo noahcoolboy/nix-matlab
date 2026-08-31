@@ -13,6 +13,7 @@ with pkgs; [
   libselinux
   libcap
   libxcrypt
+  libxcrypt-legacy
   libnsl
   libtirpc
   util-linux
@@ -30,6 +31,7 @@ with pkgs; [
   libglvnd
   libdrm
   mesa
+  libgbm
   pixman
   cairo
   pango
