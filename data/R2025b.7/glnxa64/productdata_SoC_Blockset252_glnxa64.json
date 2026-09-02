@@ -1,0 +1,742 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/soc_search_doc_en_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/soc_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/soc_search_doc_en_glnxa64_1786900867.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "271480"
+                        ],
+                        "uncompressedBytes": [
+                            "289812"
+                        ],
+                        "version": [
+                            "1786900867"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/buy/doc/soc_search_doc_en_glnxa64_1786900867.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "dsp_visionhdl_sl_core_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "dsp_visionhdl_sl_core"
+                        ],
+                        "componentFileName": [
+                            "dsp_visionhdl_sl_core_glnxa64_1786148567.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "192736"
+                        ],
+                        "uncompressedBytes": [
+                            "567799"
+                        ],
+                        "version": [
+                            "1786148567"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/dsp_visionhdl_sl_core_glnxa64_1786148567.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/soc/soc_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared/soc/soc"
+                        ],
+                        "componentFileName": [
+                            "shared/soc/soc_glnxa64_1781276805.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13278"
+                        ],
+                        "uncompressedBytes": [
+                            "21555"
+                        ],
+                        "version": [
+                            "1781276805"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared/soc/soc_glnxa64_1781276805.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_dspvision_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "shared_dspvision"
+                        ],
+                        "componentFileName": [
+                            "shared_dspvision_glnxa64_1786176873.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2825939"
+                        ],
+                        "uncompressedBytes": [
+                            "7812472"
+                        ],
+                        "version": [
+                            "1786176873"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared_dspvision_glnxa64_1786176873.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/ddux_builtins_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/ddux_builtins"
+                        ],
+                        "componentFileName": [
+                            "soc/ddux_builtins_glnxa64_1786112159.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "75730"
+                        ],
+                        "uncompressedBytes": [
+                            "185140"
+                        ],
+                        "version": [
+                            "1786112159"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/ddux_builtins_glnxa64_1786112159.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/fpga_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/fpga"
+                        ],
+                        "componentFileName": [
+                            "soc/fpga_glnxa64_1786187245.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "23264"
+                        ],
+                        "uncompressedBytes": [
+                            "47360"
+                        ],
+                        "version": [
+                            "1786187245"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/fpga_glnxa64_1786187245.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/kernelprofiler_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/kernelprofiler"
+                        ],
+                        "componentFileName": [
+                            "soc/kernelprofiler_glnxa64_1786169124.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "447768"
+                        ],
+                        "uncompressedBytes": [
+                            "1351800"
+                        ],
+                        "version": [
+                            "1786169124"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/kernelprofiler_glnxa64_1786169124.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/processor_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/processor"
+                        ],
+                        "componentFileName": [
+                            "soc/processor_glnxa64_1786186243.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "632680"
+                        ],
+                        "uncompressedBytes": [
+                            "1518794"
+                        ],
+                        "version": [
+                            "1786186243"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/processor_glnxa64_1786186243.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/profiler_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/profiler"
+                        ],
+                        "componentFileName": [
+                            "soc/profiler_glnxa64_1786168126.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "613807"
+                        ],
+                        "uncompressedBytes": [
+                            "1866987"
+                        ],
+                        "version": [
+                            "1786168126"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/profiler_glnxa64_1786168126.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/shared_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/shared"
+                        ],
+                        "componentFileName": [
+                            "soc/shared_glnxa64_1786185084.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "123433"
+                        ],
+                        "uncompressedBytes": [
+                            "250136"
+                        ],
+                        "version": [
+                            "1786185084"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/shared_glnxa64_1786185084.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/soc_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/soc"
+                        ],
+                        "componentFileName": [
+                            "soc/soc_glnxa64_1781277506.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13291"
+                        ],
+                        "uncompressedBytes": [
+                            "21565"
+                        ],
+                        "version": [
+                            "1781277506"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/soc_glnxa64_1781277506.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/soc_plugin_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/soc_plugin"
+                        ],
+                        "componentFileName": [
+                            "soc/soc_plugin_glnxa64_1786144670.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "49282"
+                        ],
+                        "uncompressedBytes": [
+                            "121870"
+                        ],
+                        "version": [
+                            "1786144670"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/soc_plugin_glnxa64_1786144670.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "soc/soc_sltoolstrip_glnxa64"
+                        ],
+                        "componentBaseName": [
+                            "soc/soc_sltoolstrip"
+                        ],
+                        "componentFileName": [
+                            "soc/soc_sltoolstrip_glnxa64_1781249871.enc"
+                        ],
+                        "contentType": [
+                            "glnxa64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "20644"
+                        ],
+                        "uncompressedBytes": [
+                            "31167"
+                        ],
+                        "version": [
+                            "1781249871"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/soc/soc_sltoolstrip_glnxa64_1781249871.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "glnxa64"
+        ],
+        "productBaseCode": [
+            "HW"
+        ],
+        "productName": [
+            "SoC Blockset"
+        ],
+        "productNumber": [
+            "163"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

@@ -1,0 +1,1223 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/daq_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/daq_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/daq_search_doc_en_common_1786900801.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "84194"
+                        ],
+                        "uncompressedBytes": [
+                            "283870"
+                        ],
+                        "version": [
+                            "1786900801"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/buy/doc/daq_search_doc_en_common_1786900801.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_common"
+                        ],
+                        "componentBaseName": [
+                            "daq"
+                        ],
+                        "componentFileName": [
+                            "daq_common_1772722910.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "3479285"
+                        ],
+                        "uncompressedBytes": [
+                            "4185851"
+                        ],
+                        "version": [
+                            "1772722910"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_common_1772722910.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aiapplet_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aiapplet"
+                        ],
+                        "componentFileName": [
+                            "daq_aiapplet_common_1754641000.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "107614"
+                        ],
+                        "uncompressedBytes": [
+                            "415942"
+                        ],
+                        "version": [
+                            "1754641000"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_aiapplet_common_1754641000.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aiapplet_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aiapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aiapplet_resources_common_1753785396.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4525"
+                        ],
+                        "uncompressedBytes": [
+                            "10481"
+                        ],
+                        "version": [
+                            "1753785396"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_aiapplet_resources_common_1753785396.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aoapplet_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aoapplet"
+                        ],
+                        "componentFileName": [
+                            "daq_aoapplet_common_1754639773.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "111449"
+                        ],
+                        "uncompressedBytes": [
+                            "413042"
+                        ],
+                        "version": [
+                            "1754639773"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_aoapplet_common_1754639773.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_aoapplet_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_aoapplet_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_aoapplet_resources_common_1753785395.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4038"
+                        ],
+                        "uncompressedBytes": [
+                            "11240"
+                        ],
+                        "version": [
+                            "1753785395"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_aoapplet_resources_common_1753785395.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_applet_shared_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_applet_shared"
+                        ],
+                        "componentFileName": [
+                            "daq_applet_shared_common_1753892626.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "10064"
+                        ],
+                        "uncompressedBytes": [
+                            "20489"
+                        ],
+                        "version": [
+                            "1753892626"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_applet_shared_common_1753892626.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_applet_shared_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_applet_shared_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_applet_shared_resources_common_1753785395.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "832"
+                        ],
+                        "uncompressedBytes": [
+                            "669"
+                        ],
+                        "version": [
+                            "1753785395"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_applet_shared_resources_common_1753785395.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_common_1753892574.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "57442"
+                        ],
+                        "uncompressedBytes": [
+                            "239182"
+                        ],
+                        "version": [
+                            "1753892574"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_cli_common_1753892574.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_cli_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_cli_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_cli_resources_common_1784322365.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4315"
+                        ],
+                        "uncompressedBytes": [
+                            "14104"
+                        ],
+                        "version": [
+                            "1784322365"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_cli_resources_common_1784322365.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_experimental_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_experimental"
+                        ],
+                        "componentFileName": [
+                            "daq_experimental_common_1753833128.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "253"
+                        ],
+                        "uncompressedBytes": [
+                            "81"
+                        ],
+                        "version": [
+                            "1753833128"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_experimental_common_1753833128.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_licenses"
+                        ],
+                        "componentFileName": [
+                            "daq_licenses_common_1753784820.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "433"
+                        ],
+                        "uncompressedBytes": [
+                            "510"
+                        ],
+                        "version": [
+                            "1753784820"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_licenses_common_1753784820.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_ni_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_ni_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_ni_resources_common_1772653404.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "5662"
+                        ],
+                        "uncompressedBytes": [
+                            "21669"
+                        ],
+                        "version": [
+                            "1772653404"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_ni_resources_common_1772653404.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_provider_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_provider"
+                        ],
+                        "componentFileName": [
+                            "daq_provider_common_1753898028.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4257"
+                        ],
+                        "uncompressedBytes": [
+                            "13411"
+                        ],
+                        "version": [
+                            "1753898028"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_provider_common_1753898028.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_resources_common_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "16577"
+                        ],
+                        "uncompressedBytes": [
+                            "52182"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_resources_common_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_sdk_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_sdk_resources"
+                        ],
+                        "componentFileName": [
+                            "daq_sdk_resources_common_1753785377.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "4059"
+                        ],
+                        "uncompressedBytes": [
+                            "10279"
+                        ],
+                        "version": [
+                            "1753785377"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_sdk_resources_common_1753785377.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "daq_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "daq_simulink"
+                        ],
+                        "componentFileName": [
+                            "daq_simulink_common_1776840709.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "149390"
+                        ],
+                        "uncompressedBytes": [
+                            "274810"
+                        ],
+                        "version": [
+                            "1776840709"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/daq_simulink_common_1776840709.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_common_1753847324.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "63534"
+                        ],
+                        "uncompressedBytes": [
+                            "68652"
+                        ],
+                        "version": [
+                            "1753847324"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared_tdms_common_1753847324.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_tdms_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_tdms_resources"
+                        ],
+                        "componentFileName": [
+                            "shared_tdms_resources_common_1753785371.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2214"
+                        ],
+                        "uncompressedBytes": [
+                            "4922"
+                        ],
+                        "version": [
+                            "1753785371"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared_tdms_resources_common_1753785371.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared_testmeaslib_simulink_common"
+                        ],
+                        "componentBaseName": [
+                            "shared_testmeaslib_simulink"
+                        ],
+                        "componentFileName": [
+                            "shared_testmeaslib_simulink_common_1753876930.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13618"
+                        ],
+                        "uncompressedBytes": [
+                            "17931"
+                        ],
+                        "version": [
+                            "1753876930"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared_testmeaslib_simulink_common_1753876930.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "DA"
+        ],
+        "productName": [
+            "Data Acquisition Toolbox"
+        ],
+        "productNumber": [
+            "47"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,582 @@
+{
+    "productData": {
+        "altDependencies": [
+            ""
+        ],
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "buy/doc/slcontrol_search_doc_en_common"
+                        ],
+                        "componentBaseName": [
+                            "buy/doc/slcontrol_search_doc_en"
+                        ],
+                        "componentFileName": [
+                            "buy/doc/slcontrol_search_doc_en_common_1786900862.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "1"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "1"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "211881"
+                        ],
+                        "uncompressedBytes": [
+                            "732068"
+                        ],
+                        "version": [
+                            "1786900862"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/buy/doc/slcontrol_search_doc_en_common_1786900862.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/slcontrollib/signal_injection_plugin_common"
+                        ],
+                        "componentBaseName": [
+                            "shared/slcontrollib/signal_injection_plugin"
+                        ],
+                        "componentFileName": [
+                            "shared/slcontrollib/signal_injection_plugin_common_1753980776.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "11969"
+                        ],
+                        "uncompressedBytes": [
+                            "37714"
+                        ],
+                        "version": [
+                            "1753980776"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared/slcontrollib/signal_injection_plugin_common_1753980776.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_common"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_common_1783741876.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6342558"
+                        ],
+                        "uncompressedBytes": [
+                            "14527986"
+                        ],
+                        "version": [
+                            "1783741876"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/slcontrol_common_1783741876.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_licenses_common"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_licenses"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_licenses_common_1753784800.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "445"
+                        ],
+                        "uncompressedBytes": [
+                            "509"
+                        ],
+                        "version": [
+                            "1753784800"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/slcontrol_licenses_common_1753784800.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_common"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_common_1762535775.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "114830"
+                        ],
+                        "uncompressedBytes": [
+                            "470693"
+                        ],
+                        "version": [
+                            "1762535775"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/slcontrol_resources_common_1762535775.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_ja_JP"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_ja_JP_1768151055.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ja_JP"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "132610"
+                        ],
+                        "uncompressedBytes": [
+                            "527727"
+                        ],
+                        "version": [
+                            "1768151055"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/slcontrol_resources_ja_JP_1768151055.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_ko_KR"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_ko_KR_1768151056.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "ko_KR"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "129753"
+                        ],
+                        "uncompressedBytes": [
+                            "478837"
+                        ],
+                        "version": [
+                            "1768151056"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/slcontrol_resources_ko_KR_1768151056.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "slcontrol_resources_zh_CN"
+                        ],
+                        "componentBaseName": [
+                            "slcontrol_resources"
+                        ],
+                        "componentFileName": [
+                            "slcontrol_resources_zh_CN_1768151058.enc"
+                        ],
+                        "contentType": [
+                            "common"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            "zh_CN"
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "glnxa64",
+                                    "maca64",
+                                    "maci64",
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "124295"
+                        ],
+                        "uncompressedBytes": [
+                            "426904"
+                        ],
+                        "version": [
+                            "1768151058"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/slcontrol_resources_zh_CN_1768151058.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "installerUsage": [
+            {
+                "usage": [
+                    "professional"
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platformList": [
+            {
+                "platform": [
+                    "glnxa64",
+                    "maca64",
+                    "maci64",
+                    "win64"
+                ]
+            }
+        ],
+        "productBaseCode": [
+            "SD"
+        ],
+        "productName": [
+            "Simulink Control Design"
+        ],
+        "productNumber": [
+            "85"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ],
+        "requiredProducts": [
+            {
+                "product": [
+                    {
+                        "isControllingProduct": [
+                            "true"
+                        ],
+                        "productBaseCode": [
+                            "ML"
+                        ],
+                        "productName": [
+                            "MATLAB"
+                        ],
+                        "productNumber": [
+                            "1"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "SL"
+                        ],
+                        "productName": [
+                            "Simulink"
+                        ],
+                        "productNumber": [
+                            "2"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    },
+                    {
+                        "productBaseCode": [
+                            "CT"
+                        ],
+                        "productName": [
+                            "Control System Toolbox"
+                        ],
+                        "productNumber": [
+                            "3"
+                        ],
+                        "productVersion": [
+                            "25.2"
+                        ],
+                        "releaseDescription": [
+                            "R2025b"
+                        ],
+                        "releaseFamily": [
+                            "R2025b"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

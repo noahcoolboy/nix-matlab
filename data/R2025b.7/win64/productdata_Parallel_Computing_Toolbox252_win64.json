@@ -1,0 +1,4198 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "3p/c-ares_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/c-ares"
+                        ],
+                        "componentFileName": [
+                            "3p/c-ares_win64_1764731085.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "56118"
+                        ],
+                        "uncompressedBytes": [
+                            "103006"
+                        ],
+                        "version": [
+                            "1764731085"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/c-ares_win64_1764731085.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/cuda_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/cuda"
+                        ],
+                        "componentFileName": [
+                            "3p/cuda_win64_1753830534.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "1"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1102251904"
+                        ],
+                        "uncompressedBytes": [
+                            "1702969056"
+                        ],
+                        "version": [
+                            "1753830534"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/cuda_win64_1753830534.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/cudnn_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/cudnn"
+                        ],
+                        "componentFileName": [
+                            "3p/cudnn_win64_1753833217.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "1"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "715648610"
+                        ],
+                        "uncompressedBytes": [
+                            "1102976501"
+                        ],
+                        "version": [
+                            "1753833217"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/cudnn_win64_1753833217.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/intel-mpi_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/intel-mpi"
+                        ],
+                        "componentFileName": [
+                            "3p/intel-mpi_win64_1753829033.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6508266"
+                        ],
+                        "uncompressedBytes": [
+                            "16284254"
+                        ],
+                        "version": [
+                            "1753829033"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/intel-mpi_win64_1753829033.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/magma_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/magma"
+                        ],
+                        "componentFileName": [
+                            "3p/magma_win64_1753835648.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "1"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "69826118"
+                        ],
+                        "uncompressedBytes": [
+                            "113282519"
+                        ],
+                        "version": [
+                            "1753835648"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/magma_win64_1753835648.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/mkl-cluster_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/mkl-cluster"
+                        ],
+                        "componentFileName": [
+                            "3p/mkl-cluster_win64_1753829805.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "29093821"
+                        ],
+                        "uncompressedBytes": [
+                            "89058656"
+                        ],
+                        "version": [
+                            "1753829805"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/mkl-cluster_win64_1753829805.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/msmpi_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/msmpi"
+                        ],
+                        "componentFileName": [
+                            "3p/msmpi_win64_1753829318.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1056917"
+                        ],
+                        "uncompressedBytes": [
+                            "2621280"
+                        ],
+                        "version": [
+                            "1753829318"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/msmpi_win64_1753829318.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "3p/wrapper_win64"
+                        ],
+                        "componentBaseName": [
+                            "3p/wrapper"
+                        ],
+                        "componentFileName": [
+                            "3p/wrapper_win64_1753829228.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "65177"
+                        ],
+                        "uncompressedBytes": [
+                            "125632"
+                        ],
+                        "version": [
+                            "1753829228"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/3p/wrapper_win64_1753829228.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/dnsrecords_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/dnsrecords"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/dnsrecords_win64_1753840741.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "40394"
+                        ],
+                        "uncompressedBytes": [
+                            "102240"
+                        ],
+                        "version": [
+                            "1753840741"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/dnsrecords_win64_1753840741.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/dnsresolver_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/dnsresolver"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/dnsresolver_win64_1753841253.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "54311"
+                        ],
+                        "uncompressedBytes": [
+                            "129888"
+                        ],
+                        "version": [
+                            "1753841253"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/dnsresolver_win64_1753841253.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/dnsresolverprovider/implementation_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/dnsresolverprovider/implementation"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/dnsresolverprovider/implementation_win64_1760717399.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "36742"
+                        ],
+                        "uncompressedBytes": [
+                            "92041"
+                        ],
+                        "version": [
+                            "1760717399"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/dnsresolverprovider/implementation_win64_1760717399.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/dnsresolverprovider/multicastimplementation_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/dnsresolverprovider/multicastimplementation"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/dnsresolverprovider/multicastimplementation_win64_1782331788.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "38372"
+                        ],
+                        "uncompressedBytes": [
+                            "91683"
+                        ],
+                        "version": [
+                            "1782331788"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/dnsresolverprovider/multicastimplementation_win64_1782331788.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/mdarrayserialisationprovider_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/mdarrayserialisationprovider"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/mdarrayserialisationprovider_win64_1782359266.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "66680"
+                        ],
+                        "uncompressedBytes": [
+                            "186905"
+                        ],
+                        "version": [
+                            "1782359266"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/mdarrayserialisationprovider_win64_1782359266.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/mdarraystreamserialize_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/mdarraystreamserialize"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/mdarraystreamserialize_win64_1753855335.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "47543"
+                        ],
+                        "uncompressedBytes": [
+                            "113504"
+                        ],
+                        "version": [
+                            "1753855335"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/mdarraystreamserialize_win64_1753855335.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/multicastdns_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/multicastdns"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/multicastdns_win64_1753841538.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "128498"
+                        ],
+                        "uncompressedBytes": [
+                            "330592"
+                        ],
+                        "version": [
+                            "1753841538"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/multicastdns_win64_1753841538.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/networkendpoint/manager/implementation_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/networkendpoint/manager/implementation"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/networkendpoint/manager/implementation_win64_1783638547.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "177512"
+                        ],
+                        "uncompressedBytes": [
+                            "471588"
+                        ],
+                        "version": [
+                            "1783638547"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/networkendpoint/manager/implementation_win64_1783638547.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/networkendpoint/provider/commondnsutilities_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/networkendpoint/provider/commondnsutilities"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/networkendpoint/provider/commondnsutilities_win64_1782332190.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "145672"
+                        ],
+                        "uncompressedBytes": [
+                            "414560"
+                        ],
+                        "version": [
+                            "1782332190"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/networkendpoint/provider/commondnsutilities_win64_1782332190.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/networkendpoint/provider/dnsbasedimpl_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/networkendpoint/provider/dnsbasedimpl"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/networkendpoint/provider/dnsbasedimpl_win64_1782332503.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37646"
+                        ],
+                        "uncompressedBytes": [
+                            "88104"
+                        ],
+                        "version": [
+                            "1782332503"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/networkendpoint/provider/dnsbasedimpl_win64_1782332503.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/networkendpoint/provider/filebasedimpl_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/networkendpoint/provider/filebasedimpl"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/networkendpoint/provider/filebasedimpl_win64_1783637765.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "181481"
+                        ],
+                        "uncompressedBytes": [
+                            "477743"
+                        ],
+                        "version": [
+                            "1783637765"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/networkendpoint/provider/filebasedimpl_win64_1783637765.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "agent/spf/networkendpoint/provider/multicastdnsbasedimpl_win64"
+                        ],
+                        "componentBaseName": [
+                            "agent/spf/networkendpoint/provider/multicastdnsbasedimpl"
+                        ],
+                        "componentFileName": [
+                            "agent/spf/networkendpoint/provider/multicastdnsbasedimpl_win64_1782332504.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "37746"
+                        ],
+                        "uncompressedBytes": [
+                            "88634"
+                        ],
+                        "version": [
+                            "1782332504"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/agent/spf/networkendpoint/provider/multicastdnsbasedimpl_win64_1782332504.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "foundation/sshaccess_win64"
+                        ],
+                        "componentBaseName": [
+                            "foundation/sshaccess"
+                        ],
+                        "componentFileName": [
+                            "foundation/sshaccess_win64_1782330501.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "198938"
+                        ],
+                        "uncompressedBytes": [
+                            "534880"
+                        ],
+                        "version": [
+                            "1782330501"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/foundation/sshaccess_win64_1782330501.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/array/builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/array/builtins"
+                        ],
+                        "componentFileName": [
+                            "parallel/array/builtins_win64_1786159007.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "164645"
+                        ],
+                        "uncompressedBytes": [
+                            "447813"
+                        ],
+                        "version": [
+                            "1786159007"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/array/builtins_win64_1786159007.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/array/distributed_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/array/distributed"
+                        ],
+                        "componentFileName": [
+                            "parallel/array/distributed_win64_1786160051.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "397959"
+                        ],
+                        "uncompressedBytes": [
+                            "1280684"
+                        ],
+                        "version": [
+                            "1786160051"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/array/distributed_win64_1786160051.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/bigdata_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/bigdata"
+                        ],
+                        "componentFileName": [
+                            "parallel/bigdata_win64_1784417662.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "222193"
+                        ],
+                        "uncompressedBytes": [
+                            "641728"
+                        ],
+                        "version": [
+                            "1784417662"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/bigdata_win64_1784417662.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/certificate_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/certificate"
+                        ],
+                        "componentFileName": [
+                            "parallel/certificate_win64_1753856049.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "33225"
+                        ],
+                        "uncompressedBytes": [
+                            "73568"
+                        ],
+                        "version": [
+                            "1753856049"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/certificate_win64_1753856049.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/certificate_mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/certificate_mcos"
+                        ],
+                        "componentFileName": [
+                            "parallel/certificate_mcos_win64_1786160039.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "118638"
+                        ],
+                        "uncompressedBytes": [
+                            "308571"
+                        ],
+                        "version": [
+                            "1786160039"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/certificate_mcos_win64_1786160039.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/cluster/builtins_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/cluster/builtins"
+                        ],
+                        "componentFileName": [
+                            "parallel/cluster/builtins_win64_1786144723.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "478217"
+                        ],
+                        "uncompressedBytes": [
+                            "1171570"
+                        ],
+                        "version": [
+                            "1786144723"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/cluster/builtins_win64_1786144723.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/cluster/createProfile_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/cluster/createProfile"
+                        ],
+                        "componentFileName": [
+                            "parallel/cluster/createProfile_win64_1784369294.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "94009"
+                        ],
+                        "uncompressedBytes": [
+                            "234848"
+                        ],
+                        "version": [
+                            "1784369294"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/cluster/createProfile_win64_1784369294.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/core_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/core"
+                        ],
+                        "componentFileName": [
+                            "parallel/core_win64_1784417430.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "603237"
+                        ],
+                        "uncompressedBytes": [
+                            "1538016"
+                        ],
+                        "version": [
+                            "1784417430"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/core_win64_1784417430.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/discovery_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/discovery"
+                        ],
+                        "componentFileName": [
+                            "parallel/discovery_win64_1786160149.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "160091"
+                        ],
+                        "uncompressedBytes": [
+                            "428878"
+                        ],
+                        "version": [
+                            "1786160149"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/discovery_win64_1786160149.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/distcomp_jar_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/distcomp_jar"
+                        ],
+                        "componentFileName": [
+                            "parallel/distcomp_jar_win64_1784416497.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "765931"
+                        ],
+                        "uncompressedBytes": [
+                            "2298496"
+                        ],
+                        "version": [
+                            "1784416497"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/distcomp_jar_win64_1784416497.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/featurecontrol_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/featurecontrol"
+                        ],
+                        "componentFileName": [
+                            "parallel/featurecontrol_win64_1786114122.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "116827"
+                        ],
+                        "uncompressedBytes": [
+                            "293208"
+                        ],
+                        "version": [
+                            "1786114122"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/featurecontrol_win64_1786114122.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/filestore_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/filestore"
+                        ],
+                        "componentFileName": [
+                            "parallel/filestore_win64_1786160080.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "283436"
+                        ],
+                        "uncompressedBytes": [
+                            "857930"
+                        ],
+                        "version": [
+                            "1786160080"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/filestore_win64_1786160080.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpu/extern_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpu/extern"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpu/extern_win64_1753864008.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "1"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "23464"
+                        ],
+                        "uncompressedBytes": [
+                            "159280"
+                        ],
+                        "version": [
+                            "1753864008"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpu/extern_win64_1753864008.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpu/libs_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpu/libs"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpu/libs_win64_1786167692.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "1"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "115511237"
+                        ],
+                        "uncompressedBytes": [
+                            "214018592"
+                        ],
+                        "version": [
+                            "1786167692"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpu/libs_win64_1786167692.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpuapi/gpudeviceinfo_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpuapi/gpudeviceinfo"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpuapi/gpudeviceinfo_win64_1786160072.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "233297"
+                        ],
+                        "uncompressedBytes": [
+                            "718672"
+                        ],
+                        "version": [
+                            "1786160072"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpuapi/gpudeviceinfo_win64_1786160072.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpuapi/gpumenuinfo_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpuapi/gpumenuinfo"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpuapi/gpumenuinfo_win64_1786161328.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "244928"
+                        ],
+                        "uncompressedBytes": [
+                            "680760"
+                        ],
+                        "version": [
+                            "1786161328"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpuapi/gpumenuinfo_win64_1786161328.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpuapi/gpuplatform_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpuapi/gpuplatform"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpuapi/gpuplatform_win64_1753852411.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "13349"
+                        ],
+                        "uncompressedBytes": [
+                            "22880"
+                        ],
+                        "version": [
+                            "1753852411"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpuapi/gpuplatform_win64_1753852411.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpuapi/gpuservice_impl_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpuapi/gpuservice_impl"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpuapi/gpuservice_impl_win64_1786161177.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "190167"
+                        ],
+                        "uncompressedBytes": [
+                            "718326"
+                        ],
+                        "version": [
+                            "1786161177"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpuapi/gpuservice_impl_win64_1786161177.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpuapi/gpuservicesetup_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpuapi/gpuservicesetup"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpuapi/gpuservicesetup_win64_1783641342.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "41805"
+                        ],
+                        "uncompressedBytes": [
+                            "95734"
+                        ],
+                        "version": [
+                            "1783641342"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpuapi/gpuservicesetup_win64_1783641342.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/gpuapi/gpushim_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/gpuapi/gpushim"
+                        ],
+                        "componentFileName": [
+                            "parallel/gpuapi/gpushim_win64_1786162082.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1300168"
+                        ],
+                        "uncompressedBytes": [
+                            "5703492"
+                        ],
+                        "version": [
+                            "1786162082"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/gpuapi/gpushim_win64_1786162082.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/hpcserver/client_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/hpcserver/client"
+                        ],
+                        "componentFileName": [
+                            "parallel/hpcserver/client_win64_1786607687.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "46270"
+                        ],
+                        "uncompressedBytes": [
+                            "83766"
+                        ],
+                        "version": [
+                            "1786607687"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/hpcserver/client_win64_1786607687.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/javaVersionParser_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/javaVersionParser"
+                        ],
+                        "componentFileName": [
+                            "parallel/javaVersionParser_win64_1753843137.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "41117"
+                        ],
+                        "uncompressedBytes": [
+                            "93536"
+                        ],
+                        "version": [
+                            "1753843137"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/javaVersionParser_win64_1753843137.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/jni_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/jni"
+                        ],
+                        "componentFileName": [
+                            "parallel/jni_win64_1784342386.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "51126"
+                        ],
+                        "uncompressedBytes": [
+                            "125280"
+                        ],
+                        "version": [
+                            "1784342386"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/jni_win64_1784342386.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/lmgr_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/lmgr"
+                        ],
+                        "componentFileName": [
+                            "parallel/lmgr_win64_1786114526.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "123636"
+                        ],
+                        "uncompressedBytes": [
+                            "316740"
+                        ],
+                        "version": [
+                            "1786114526"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/lmgr_win64_1786114526.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/localscheduler_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/localscheduler"
+                        ],
+                        "componentFileName": [
+                            "parallel/localscheduler_win64_1786160064.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "404864"
+                        ],
+                        "uncompressedBytes": [
+                            "1220947"
+                        ],
+                        "version": [
+                            "1786160064"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/localscheduler_win64_1786160064.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/mjs/client_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/mjs/client"
+                        ],
+                        "componentFileName": [
+                            "parallel/mjs/client_win64_1786161196.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "386192"
+                        ],
+                        "uncompressedBytes": [
+                            "1158479"
+                        ],
+                        "version": [
+                            "1786161196"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/mjs/client_win64_1786161196.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/mjs/mjshealthcheck_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/mjs/mjshealthcheck"
+                        ],
+                        "componentFileName": [
+                            "parallel/mjs/mjshealthcheck_win64_1785454007.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2103165"
+                        ],
+                        "uncompressedBytes": [
+                            "3676000"
+                        ],
+                        "version": [
+                            "1785454007"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/mjs/mjshealthcheck_win64_1785454007.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/mjs/mjssetup_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/mjs/mjssetup"
+                        ],
+                        "componentFileName": [
+                            "parallel/mjs/mjssetup_win64_1753833904.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "2963152"
+                        ],
+                        "uncompressedBytes": [
+                            "5091680"
+                        ],
+                        "version": [
+                            "1753833904"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/mjs/mjssetup_win64_1753833904.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/mjs_messages_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/mjs_messages"
+                        ],
+                        "componentFileName": [
+                            "parallel/mjs_messages_win64_1768158542.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "367992"
+                        ],
+                        "uncompressedBytes": [
+                            "1780576"
+                        ],
+                        "version": [
+                            "1768158542"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/mjs_messages_win64_1768158542.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/mpi/libs_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/mpi/libs"
+                        ],
+                        "componentFileName": [
+                            "parallel/mpi/libs_win64_1786159040.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "553130"
+                        ],
+                        "uncompressedBytes": [
+                            "1550300"
+                        ],
+                        "version": [
+                            "1786159040"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/mpi/libs_win64_1786159040.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/plr_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/plr"
+                        ],
+                        "componentFileName": [
+                            "parallel/plr_win64_1786165059.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "6358870"
+                        ],
+                        "uncompressedBytes": [
+                            "19177439"
+                        ],
+                        "version": [
+                            "1786165059"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/plr_win64_1786165059.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/plr_serialisation_provider_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/plr_serialisation_provider"
+                        ],
+                        "componentFileName": [
+                            "parallel/plr_serialisation_provider_win64_1786165213.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "214746"
+                        ],
+                        "uncompressedBytes": [
+                            "881682"
+                        ],
+                        "version": [
+                            "1786165213"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/plr_serialisation_provider_win64_1786165213.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/plrscheduler_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/plrscheduler"
+                        ],
+                        "componentFileName": [
+                            "parallel/plrscheduler_win64_1753856055.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "115766"
+                        ],
+                        "uncompressedBytes": [
+                            "339808"
+                        ],
+                        "version": [
+                            "1753856055"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/plrscheduler_win64_1753856055.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/protobufencoding_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/protobufencoding"
+                        ],
+                        "componentFileName": [
+                            "parallel/protobufencoding_win64_1784386236.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "150501"
+                        ],
+                        "uncompressedBytes": [
+                            "457568"
+                        ],
+                        "version": [
+                            "1784386236"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/protobufencoding_win64_1784386236.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/redirectcmdwindow_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/redirectcmdwindow"
+                        ],
+                        "componentFileName": [
+                            "parallel/redirectcmdwindow_win64_1786115456.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "118712"
+                        ],
+                        "uncompressedBytes": [
+                            "296798"
+                        ],
+                        "version": [
+                            "1786115456"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/redirectcmdwindow_win64_1786115456.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/remoteaccess_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/remoteaccess"
+                        ],
+                        "componentFileName": [
+                            "parallel/remoteaccess_win64_1786160012.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "483533"
+                        ],
+                        "uncompressedBytes": [
+                            "1387032"
+                        ],
+                        "version": [
+                            "1786160012"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/remoteaccess_win64_1786160012.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/resourcemonitor_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/resourcemonitor"
+                        ],
+                        "componentFileName": [
+                            "parallel/resourcemonitor_win64_1758761765.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "76130"
+                        ],
+                        "uncompressedBytes": [
+                            "184672"
+                        ],
+                        "version": [
+                            "1758761765"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/resourcemonitor_win64_1758761765.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/scripts/core_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/scripts/core"
+                        ],
+                        "componentFileName": [
+                            "parallel/scripts/core_win64_1768159628.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "85879"
+                        ],
+                        "uncompressedBytes": [
+                            "230027"
+                        ],
+                        "version": [
+                            "1768159628"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/scripts/core_win64_1768159628.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/settings_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/settings"
+                        ],
+                        "componentFileName": [
+                            "parallel/settings_win64_1784339335.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "80990"
+                        ],
+                        "uncompressedBytes": [
+                            "252907"
+                        ],
+                        "version": [
+                            "1784339335"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/settings_win64_1784339335.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/shared_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/shared"
+                        ],
+                        "componentFileName": [
+                            "parallel/shared_win64_1786159120.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1684710"
+                        ],
+                        "uncompressedBytes": [
+                            "5091437"
+                        ],
+                        "version": [
+                            "1786159120"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/shared_win64_1786159120.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/spf_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/spf"
+                        ],
+                        "componentFileName": [
+                            "parallel/spf_win64_1786160040.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "379987"
+                        ],
+                        "uncompressedBytes": [
+                            "1029131"
+                        ],
+                        "version": [
+                            "1786160040"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/spf_win64_1786160040.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/spf_jar_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/spf_jar"
+                        ],
+                        "componentFileName": [
+                            "parallel/spf_jar_win64_1758863001.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "59475"
+                        ],
+                        "uncompressedBytes": [
+                            "129728"
+                        ],
+                        "version": [
+                            "1758863001"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/spf_jar_win64_1758863001.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/spfendpointwrapper_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/spfendpointwrapper"
+                        ],
+                        "componentFileName": [
+                            "parallel/spfendpointwrapper_win64_1768166858.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "64881"
+                        ],
+                        "uncompressedBytes": [
+                            "195424"
+                        ],
+                        "version": [
+                            "1768166858"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/spfendpointwrapper_win64_1768166858.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/spfendpointwrapper_mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/spfendpointwrapper_mcos"
+                        ],
+                        "componentFileName": [
+                            "parallel/spfendpointwrapper_mcos_win64_1786160079.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "126681"
+                        ],
+                        "uncompressedBytes": [
+                            "371049"
+                        ],
+                        "version": [
+                            "1786160079"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/spfendpointwrapper_mcos_win64_1786160079.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/startup_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/startup"
+                        ],
+                        "componentFileName": [
+                            "parallel/startup_win64_1782859677.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "36279"
+                        ],
+                        "uncompressedBytes": [
+                            "82415"
+                        ],
+                        "version": [
+                            "1782859677"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/startup_win64_1782859677.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/threads_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/threads"
+                        ],
+                        "componentFileName": [
+                            "parallel/threads_win64_1786160052.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "204850"
+                        ],
+                        "uncompressedBytes": [
+                            "559437"
+                        ],
+                        "version": [
+                            "1786160052"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/threads_win64_1786160052.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/ui/bundle_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/ui/bundle"
+                        ],
+                        "componentFileName": [
+                            "parallel/ui/bundle_win64_1771093367.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "15639"
+                        ],
+                        "uncompressedBytes": [
+                            "34146"
+                        ],
+                        "version": [
+                            "1771093367"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/ui/bundle_win64_1771093367.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/version_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/version"
+                        ],
+                        "componentFileName": [
+                            "parallel/version_win64_1786114116.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "129986"
+                        ],
+                        "uncompressedBytes": [
+                            "342858"
+                        ],
+                        "version": [
+                            "1786114116"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/version_win64_1786114116.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/webclients/cloudcenterclient/implementation_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/webclients/cloudcenterclient/implementation"
+                        ],
+                        "componentFileName": [
+                            "parallel/webclients/cloudcenterclient/implementation_win64_1783638298.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "253235"
+                        ],
+                        "uncompressedBytes": [
+                            "1338920"
+                        ],
+                        "version": [
+                            "1783638298"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/webclients/cloudcenterclient/implementation_win64_1783638298.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/webclients/cloudcenterclient/interface_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/webclients/cloudcenterclient/interface"
+                        ],
+                        "componentFileName": [
+                            "parallel/webclients/cloudcenterclient/interface_win64_1758745973.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "193839"
+                        ],
+                        "uncompressedBytes": [
+                            "1241440"
+                        ],
+                        "version": [
+                            "1758745973"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/webclients/cloudcenterclient/interface_win64_1758745973.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/webclients/cloudcenterclient/mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/webclients/cloudcenterclient/mcos"
+                        ],
+                        "componentFileName": [
+                            "parallel/webclients/cloudcenterclient/mcos_win64_1786115429.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "424902"
+                        ],
+                        "uncompressedBytes": [
+                            "3040115"
+                        ],
+                        "version": [
+                            "1786115429"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/webclients/cloudcenterclient/mcos_win64_1786115429.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "parallel/webclients/weblicensingclient/mcos_win64"
+                        ],
+                        "componentBaseName": [
+                            "parallel/webclients/weblicensingclient/mcos"
+                        ],
+                        "componentFileName": [
+                            "parallel/webclients/weblicensingclient/mcos_win64_1786115428.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "158841"
+                        ],
+                        "uncompressedBytes": [
+                            "451957"
+                        ],
+                        "version": [
+                            "1786115428"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/parallel/webclients/weblicensingclient/mcos_win64_1786115428.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/parallel/parfevalcancel_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/parallel/parfevalcancel"
+                        ],
+                        "componentFileName": [
+                            "shared/parallel/parfevalcancel_win64_1753854896.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "43644"
+                        ],
+                        "uncompressedBytes": [
+                            "106336"
+                        ],
+                        "version": [
+                            "1753854896"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared/parallel/parfevalcancel_win64_1753854896.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/parallel/warningscollector_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/parallel/warningscollector"
+                        ],
+                        "componentFileName": [
+                            "shared/parallel/warningscollector_win64_1786125210.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "111725"
+                        ],
+                        "uncompressedBytes": [
+                            "286053"
+                        ],
+                        "version": [
+                            "1786125210"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared/parallel/warningscollector_win64_1786125210.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/readsecret_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/readsecret"
+                        ],
+                        "componentFileName": [
+                            "shared/readsecret_win64_1786131777.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "105101"
+                        ],
+                        "uncompressedBytes": [
+                            "270668"
+                        ],
+                        "version": [
+                            "1786131777"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared/readsecret_win64_1786131777.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "shared/sshaccess_win64"
+                        ],
+                        "componentBaseName": [
+                            "shared/sshaccess"
+                        ],
+                        "componentFileName": [
+                            "shared/sshaccess_win64_1786131671.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "237278"
+                        ],
+                        "uncompressedBytes": [
+                            "713034"
+                        ],
+                        "version": [
+                            "1786131671"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/shared/sshaccess_win64_1786131671.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "DM"
+        ],
+        "productName": [
+            "Parallel Computing Toolbox"
+        ],
+        "productNumber": [
+            "80"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}

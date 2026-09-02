@@ -1,0 +1,148 @@
+{
+    "productAdditionalComps": {
+        "dependsOn": [
+            {
+                "component": [
+                    {
+                        "name": [
+                            "lte_win64"
+                        ],
+                        "componentBaseName": [
+                            "lte"
+                        ],
+                        "componentFileName": [
+                            "lte_win64_1784463387.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "1324137"
+                        ],
+                        "uncompressedBytes": [
+                            "4747104"
+                        ],
+                        "version": [
+                            "1784463387"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/lte_win64_1784463387.enc"
+                        ]
+                    },
+                    {
+                        "name": [
+                            "umts_win64"
+                        ],
+                        "componentBaseName": [
+                            "umts"
+                        ],
+                        "componentFileName": [
+                            "umts_win64_1784463429.enc"
+                        ],
+                        "contentType": [
+                            "win64"
+                        ],
+                        "demo": [
+                            "0"
+                        ],
+                        "doc": [
+                            "0"
+                        ],
+                        "doc_build": [
+                            "0"
+                        ],
+                        "doc_search": [
+                            "0"
+                        ],
+                        "gpu": [
+                            "0"
+                        ],
+                        "instrset": [
+                            "0"
+                        ],
+                        "locale": [
+                            ""
+                        ],
+                        "platformList": [
+                            {
+                                "platform": [
+                                    "win64"
+                                ]
+                            }
+                        ],
+                        "size": [
+                            "467153"
+                        ],
+                        "uncompressedBytes": [
+                            "1364832"
+                        ],
+                        "version": [
+                            "1784463429"
+                        ],
+                        "url": [
+                            "https://esd.mathworks.com/R2025b/Release/7/licensed_software/components/complete/umts_win64_1784463429.enc"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isControllingProduct": [
+            "false"
+        ],
+        "licenseAgreementType": [
+            ""
+        ],
+        "platform": [
+            "win64"
+        ],
+        "productBaseCode": [
+            "LS"
+        ],
+        "productName": [
+            "LTE Toolbox"
+        ],
+        "productNumber": [
+            "140"
+        ],
+        "productType": [
+            "licensedProduct"
+        ],
+        "productVersion": [
+            "25.2"
+        ],
+        "releaseDescription": [
+            "R2025b"
+        ],
+        "releaseFamily": [
+            "R2025b"
+        ]
+    }
+}
