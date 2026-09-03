@@ -12,7 +12,6 @@ let
   builder = import ./builder.nix { inherit pkgs sign loader; };
 
   key = loader.loadKey dataDir;
-  hashes = loader.loadHashes dataDir;
   versionEntries = loader.loadVersions dataDir;
 
   # Build all packages lazily for all releases and availableUpdates
@@ -21,6 +20,7 @@ let
       release = entry.release;
       updates = entry.availableUpdates or [];
       urlBase = entry.urlBase or "https://esd.mathworks.com";
+      hashes = loader.loadHashes dataDir release;
 
       updateEntries = map (u: {
         name = "${release}.${u}";

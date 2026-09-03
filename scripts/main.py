@@ -26,29 +26,35 @@ with open("data/key.txt", "w") as f:
 with open("data/versions.json", "w") as f:
     json.dump(versions, f, indent=4)
 
-# Load existing root hashes
-hashes_file = Path("data/hashes.json")
-hashes = {}
-if hashes_file.exists():
-    with hashes_file.open("r", encoding="utf-8") as f:
-        hashes = json.load(f)
-
 # Get hashin'
 def fetch_hash(item):
     component, url, ttl = item
     return component, hash(sign(key, url, ttl=ttl), headers=headers)
 
 quota = 5000
-new_hashes = 0
 
 with ThreadPoolExecutor(max_workers=8) as pool:
     for ver in versions:
+        if quota <= 0:
+            break
+        if not ver.get("availableUpdates"):
+            continue
+
+        release = ver["release"]
+        hashes_file = Path(f"data/{release}/hashes.json")
+        hashes = {}
+        if hashes_file.exists():
+            with hashes_file.open("r", encoding="utf-8") as f:
+                hashes = json.load(f)
+
+        new_hashes = 0
+
         for update in ver["availableUpdates"]:
             if quota <= 0:
                 break
-            path = Path(f"data/{ver['release']}.{update}")
+            path = Path(f"data/{release}.{update}")
             path.mkdir(parents=True, exist_ok=True)
-            signedDws = sign(key, form_path(ver["urlBase"], ver["release"], "Release", update), ttl=ver["urlSigning"]["ttlSeconds"])
+            signedDws = sign(key, form_path(ver["urlBase"], release, "Release", update), ttl=ver["urlSigning"]["ttlSeconds"])
             response = requests.get(signedDws, headers=headers)
             response.raise_for_status()
             dws = zipfile.ZipFile(io.BytesIO(response.content))
@@ -73,7 +79,7 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                     fn = component.find("componentFileName")
                     if fn is None or not fn.text:
                         continue
-                    url = form_path(ver["urlBase"], ver["release"], "Release", update, "licensed_software", fn.text)
+                    url = form_path(ver["urlBase"], release, "Release", update, "licensed_software", fn.text)
                     ET.SubElement(component, "url").text = url
                     if fn.text not in hashes and quota > 0:
                         jobs.append((component, url, ver["urlSigning"]["ttlSeconds"]))
@@ -91,6 +97,12 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                     with file_path.open("w", encoding="utf-8") as f:
                         json.dump(xml_to_json(root), f, indent=4)
 
-if new_hashes > 0 or not hashes_file.exists():
-    with hashes_file.open("w", encoding="utf-8") as f:
-        json.dump(hashes, f, indent=4)
+            if new_hashes > 0:
+                hashes_file.parent.mkdir(parents=True, exist_ok=True)
+                with hashes_file.open("w", encoding="utf-8") as f:
+                    json.dump(hashes, f, indent=4)
+
+        if not hashes_file.exists():
+            hashes_file.parent.mkdir(parents=True, exist_ok=True)
+            with hashes_file.open("w", encoding="utf-8") as f:
+                json.dump(hashes, f, indent=4)

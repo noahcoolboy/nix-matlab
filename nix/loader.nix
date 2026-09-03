@@ -69,10 +69,10 @@ let
   loadKey = dataDir:
     lib.strings.trim (builtins.readFile (dataDir + "/key.txt"));
 
-  # Load root hashes from data/hashes.json
-  loadHashes = dataDir:
+  # Load release hashes from data/<release>/hashes.json
+  loadHashes = dataDir: release:
     let
-      hashesFile = dataDir + "/hashes.json";
+      hashesFile = dataDir + "/${release}/hashes.json";
     in
     if builtins.pathExists hashesFile then
       loadJson hashesFile
@@ -80,7 +80,7 @@ let
       {};
 
   # Load products and components for a specific release and update
-  loadReleaseData = { dataDir ? ../data, system ? "x86_64-linux", release, update, urlBase ? "https://esd.mathworks.com", hashes ? loadHashes dataDir }:
+  loadReleaseData = { dataDir ? ../data, system ? "x86_64-linux", release, update, urlBase ? "https://esd.mathworks.com", hashes ? loadHashes dataDir release }:
     let
       platform = systemToPlatform.${system} or "glnxa64";
       releaseUpdateDir = dataDir + "/${release}.${update}";
