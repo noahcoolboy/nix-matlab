@@ -21,7 +21,7 @@ jobs:
             wget https://www.mathworks.com/mpm/glnxa64/mpm
             chmod +x mpm
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests zstandard
       - name: Run main.py
         run: python scripts/main.py
       - name: Commit and push changes

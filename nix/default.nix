@@ -8,7 +8,7 @@ let
 
   md5 = import ./md5.nix;
   sign = import ./sign.nix;
-  loader = import ./loader.nix { inherit lib; };
+  loader = import ./loader.nix { inherit pkgs lib; };
   builder = import ./builder.nix { inherit pkgs sign loader; };
 
   key = loader.loadKey dataDir;

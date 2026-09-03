@@ -1,4 +1,4 @@
-{ lib ? (import <nixpkgs> { }).lib }:
+{ pkgs ? import <nixpkgs> {}, lib ? pkgs.lib }:
 
 let
   systemToPlatform = {
@@ -69,12 +69,25 @@ let
   loadKey = dataDir:
     lib.strings.trim (builtins.readFile (dataDir + "/key.txt"));
 
-  # Load release hashes from data/<release>/hashes.json
+  # Load release hashes from data/<release>/hashes.json(.zst)
   loadHashes = dataDir: release:
     let
-      hashesFile = dataDir + "/${release}/hashes.json";
+      rawFile = dataDir + "/${release}/hashes.json";
+      zstFile = dataDir + "/${release}/hashes.json.zst";
+      decompressed = pkgs.runCommand "hashes-${release}.json" {
+        nativeBuildInputs = [ pkgs.zstd ];
+      } ''
+        zstd -d -c ${zstFile} > $out
+      '';
+      hashesFile =
+        if builtins.pathExists rawFile then
+          rawFile
+        else if builtins.pathExists zstFile then
+          decompressed
+        else
+          null;
     in
-    if builtins.pathExists hashesFile then
+    if hashesFile != null then
       loadJson hashesFile
     else
       {};

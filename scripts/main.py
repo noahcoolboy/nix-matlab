@@ -11,6 +11,40 @@ from utils import sign, hash, xml_to_json, form_path
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+import subprocess
+
+try:
+    import zstandard as zstd
+    def decompress_zstd(data: bytes) -> bytes:
+        return zstd.ZstdDecompressor().stream_reader(io.BytesIO(data)).read()
+    def compress_zstd(data: bytes) -> bytes:
+        return zstd.ZstdCompressor(level=19, write_content_size=True).compress(data)
+except ImportError:
+    def decompress_zstd(data: bytes) -> bytes:
+        p = subprocess.run(["zstd", "-d", "-c"], input=data, capture_output=True, check=True)
+        return p.stdout
+    def compress_zstd(data: bytes) -> bytes:
+        p = subprocess.run(["zstd", "-19", "-c"], input=data, capture_output=True, check=True)
+        return p.stdout
+
+def load_release_hashes(release: str) -> tuple[dict, Path]:
+    zst_file = Path(f"data/{release}/hashes.json.zst")
+    raw_file = Path(f"data/{release}/hashes.json")
+    if zst_file.exists():
+        with zst_file.open("rb") as f:
+            return json.loads(decompress_zstd(f.read()).decode("utf-8")), zst_file
+    elif raw_file.exists():
+        with raw_file.open("r", encoding="utf-8") as f:
+            return json.load(f), zst_file
+    return {}, zst_file
+
+def save_release_hashes(hashes: dict, path: Path):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    raw = json.dumps(hashes, indent=4).encode("utf-8")
+    compressed = compress_zstd(raw)
+    with path.open("wb") as f:
+        f.write(compressed)
+
 # Initialize key and versions
 key = get_key()
 versions = get_versions()
@@ -41,12 +75,7 @@ with ThreadPoolExecutor(max_workers=8) as pool:
             continue
 
         release = ver["release"]
-        hashes_file = Path(f"data/{release}/hashes.json")
-        hashes = {}
-        if hashes_file.exists():
-            with hashes_file.open("r", encoding="utf-8") as f:
-                hashes = json.load(f)
-
+        hashes, hashes_file = load_release_hashes(release)
         new_hashes = 0
 
         for update in ver["availableUpdates"]:
@@ -98,11 +127,7 @@ with ThreadPoolExecutor(max_workers=8) as pool:
                         json.dump(xml_to_json(root), f, indent=4)
 
             if new_hashes > 0:
-                hashes_file.parent.mkdir(parents=True, exist_ok=True)
-                with hashes_file.open("w", encoding="utf-8") as f:
-                    json.dump(hashes, f, indent=4)
+                save_release_hashes(hashes, hashes_file)
 
         if not hashes_file.exists():
-            hashes_file.parent.mkdir(parents=True, exist_ok=True)
-            with hashes_file.open("w", encoding="utf-8") as f:
-                json.dump(hashes, f, indent=4)
+            save_release_hashes(hashes, hashes_file)
