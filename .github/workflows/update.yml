@@ -1,0 +1,31 @@
+name: Generate Matlab Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+      - name: Compile hook.c
+        run: gcc -shared -fPIC -o hook.so hook.c
+      - name: Download mpm
+        run: |
+            wget https://www.mathworks.com/mpm/glnxa64/mpm
+            chmod +x mpm
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run main.py
+        run: python scripts/main.py
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: Update Matlab Data"
+          file_pattern: "data/**"
