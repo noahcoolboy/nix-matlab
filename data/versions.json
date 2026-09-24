@@ -96,5 +96,38 @@
             "version": "1"
         },
         "release": "R2026a"
+    },
+    {
+        "availableUpdates": [
+            "0"
+        ],
+        "defaultUpdate": "0",
+        "entitledProducts": [],
+        "languageCodes": [],
+        "supportPackageReleaseIds": [],
+        "urlBase": "https://esd.mathworks.com",
+        "urlSigning": {
+            "sign": true,
+            "ttlSeconds": 345600,
+            "version": "1"
+        },
+        "release": "R2026b"
+    },
+    {
+        "availableUpdates": [],
+        "defaultUpdate": "",
+        "entitledProducts": [],
+        "languageCodes": [],
+        "supportPackageReleaseIds": [
+            "DOCPKGS26bGR",
+            "SPKG26bGR"
+        ],
+        "urlBase": "https://ssd.mathworks.com/supportfiles/downloads",
+        "urlSigning": {
+            "sign": false,
+            "ttlSeconds": 345600,
+            "version": "1"
+        },
+        "release": "R2026b"
     }
 ]
